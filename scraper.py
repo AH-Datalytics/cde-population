@@ -74,17 +74,31 @@ async def fetch_agencies_for_state(session, state):
 
 
 async def fetch_population(session, sem, ori, agency_info, results, progress):
-    """Fetch population for one ORI from the summarized homicide endpoint."""
+    """Fetch population for one ORI from the summarized homicide endpoint.
+    Uses a wide date range (01-2020 to current month) to catch agencies
+    that haven't reported recently. Takes the most recent month with population."""
     now = datetime.now()
-    from_date = f"{now.month:02d}-{now.year}"
-    to_date = from_date
+    from_date = "01-2020"
+    to_date = f"{now.month:02d}-{now.year}"
     url = f"{BASE}/summarized/agency/{ori}/homicide"
     params = {"from": from_date, "to": to_date, "api_key": API_KEY}
+
+    STATE_NAMES = {
+        "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut",
+        "Delaware","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa",
+        "Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan",
+        "Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada",
+        "New Hampshire","New Jersey","New Mexico","New York","North Carolina",
+        "North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island",
+        "South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont",
+        "Virginia","Washington","West Virginia","Wisconsin","Wyoming",
+        "District of Columbia","United States",
+    }
 
     for attempt in range(MAX_RETRIES):
         async with sem:
             try:
-                async with session.get(url, params=params, timeout=aiohttp.ClientTimeout(total=20)) as resp:
+                async with session.get(url, params=params, timeout=aiohttp.ClientTimeout(total=30)) as resp:
                     if resp.status == 429:
                         await asyncio.sleep(RETRY_DELAY * (2 ** attempt))
                         continue
@@ -95,29 +109,30 @@ async def fetch_population(session, sem, ori, agency_info, results, progress):
 
                     pop_dict = data.get("populations", {}).get("population", {})
                     # Find the agency population (not state or US)
-                    state_names = {
-                        "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut",
-                        "Delaware","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa",
-                        "Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan",
-                        "Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada",
-                        "New Hampshire","New Jersey","New Mexico","New York","North Carolina",
-                        "North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island",
-                        "South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont",
-                        "Virginia","Washington","West Virginia","Wisconsin","Wyoming",
-                        "District of Columbia","United States",
-                    }
                     pop = None
+                    pop_month = None
                     for key, vals in pop_dict.items():
-                        if key not in state_names:
-                            # Get the most recent value
-                            if isinstance(vals, dict) and vals:
-                                pop = list(vals.values())[-1]
-                            elif isinstance(vals, (int, float)):
-                                pop = int(vals)
-                            break
+                        if key in STATE_NAMES:
+                            continue
+                        if isinstance(vals, dict) and vals:
+                            # vals is like {"01-2020": 50000, "02-2020": 50000, ...}
+                            # Sort by date key to get most recent
+                            sorted_months = sorted(vals.keys(), key=lambda d: (
+                                int(d.split('-')[1]) * 100 + int(d.split('-')[0])
+                            ))
+                            # Walk backwards to find most recent non-zero
+                            for m in reversed(sorted_months):
+                                v = vals[m]
+                                if v and v > 0:
+                                    pop = int(v)
+                                    pop_month = m
+                                    break
+                        elif isinstance(vals, (int, float)) and vals > 0:
+                            pop = int(vals)
+                        break
 
                     if pop and pop > 0:
-                        results[ori] = {**agency_info, 'population': pop}
+                        results[ori] = {**agency_info, 'population': pop, 'pop_date': pop_month or ''}
 
                     progress["done"] += 1
                     if progress["done"] % 500 == 0 or progress["done"] == progress["total"]:
@@ -172,7 +187,7 @@ async def main_async(concurrency, output):
 
     # Step 3: Write CSV
     print(f"\nStep 3: Writing {output}...")
-    fieldnames = ['ori', 'agency_name', 'state', 'state_name', 'county', 'agency_type', 'population']
+    fieldnames = ['ori', 'agency_name', 'state', 'state_name', 'county', 'agency_type', 'population', 'pop_date']
     rows = sorted(results.values(), key=lambda r: (r['state'], r['agency_name']))
 
     with open(output, 'w', newline='', encoding='utf-8') as f:
