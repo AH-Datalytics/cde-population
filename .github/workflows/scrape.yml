@@ -16,11 +16,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install dependencies
-        run: pip install aiohttp
-
       - name: Run population scraper
-        run: python scraper.py --concurrency 15
+        run: python scraper.py
 
       - name: Show results
         run: wc -l cde_populations.csv && head -5 cde_populations.csv
