@@ -96,8 +96,9 @@ def parse_reta(zip_bytes):
             pop = 0
 
         if ori and pop > 0:
+            ori9 = ori + "00" if len(ori) == 7 else ori
             agencies[ori] = {
-                "ori": ori,
+                "ori": ori9,
                 "agency_name": name,
                 "state": state,
                 "population": pop,
