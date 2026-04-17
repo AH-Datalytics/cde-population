@@ -1,211 +1,198 @@
 """
-FBI CDE Population Scraper
-==========================
-Pulls the latest population for every ORI in the FBI Crime Data Explorer.
+FBI CDE Population Scraper (RETA-based)
+========================================
+Downloads the Return-A master file from the FBI CDE bulk download API,
+parses agency populations from the fixed-width records, and outputs a CSV.
 
-1. Fetches all agencies by state from /agency/byStateAbbr/{state}
-2. For each ORI, hits the summarized endpoint (homicide, latest month)
-   to extract the population field
-3. Outputs cde_populations.csv: ori, agency_name, state, county, agency_type, population
+For any ORIs missing from RETA, falls back to the CDE summarized API.
 
 Usage:
-    python scraper.py                    # full run
-    python scraper.py --concurrency 20   # faster
+    python scraper.py                    # default: RETA 2026
+    python scraper.py --year 2025        # specific year
     python scraper.py --output my.csv    # custom filename
 """
 
-import asyncio
-import aiohttp
 import argparse
 import csv
 import json
-import time
 import os
 import sys
+import zipfile
+import tempfile
 from datetime import datetime
+from io import BytesIO
+from urllib.request import urlopen, Request
 
 if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
+CDE_SIGNED_URL = "https://cde.ucr.cjis.gov/LATEST/s3/signedurl?key=master_files/reta/reta-{year}.zip"
+CDE_API_BASE = "https://cde.ucr.cjis.gov/LATEST"
 API_KEY = os.environ.get("CDE_API_KEY", "BPkjHOgf6hpOoYlRm7GOaHbSQqlx87IfiXP3QTJg")
-BASE = "https://cde.ucr.cjis.gov/LATEST"
 
-STATES = [
-    "AL","AK","AZ","AR","CA","CO","CT","DE","DC","FL","GA","HI","ID","IL","IN",
-    "IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH",
-    "NJ","NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT",
-    "VT","VA","WA","WV","WI","WY",
-]
+STATE_CODES = {
+    "50": "AK", "01": "AL", "03": "AR", "54": "AS", "02": "AZ", "04": "CA",
+    "05": "CO", "06": "CT", "52": "CZ", "08": "DC", "07": "DE", "09": "FL",
+    "10": "GA", "55": "GU", "51": "HI", "14": "IA", "11": "ID", "12": "IL",
+    "13": "IN", "15": "KS", "16": "KY", "17": "LA", "20": "MA", "19": "MD",
+    "18": "ME", "21": "MI", "22": "MN", "24": "MO", "23": "MS", "25": "MT",
+    "32": "NC", "33": "ND", "26": "NE", "28": "NH", "29": "NJ", "30": "NM",
+    "27": "NV", "31": "NY", "34": "OH", "35": "OK", "36": "OR", "37": "PA",
+    "53": "PR", "38": "RI", "39": "SC", "40": "SD", "41": "TN", "42": "TX",
+    "43": "UT", "62": "VI", "45": "VA", "44": "VT", "46": "WA", "48": "WI",
+    "47": "WV", "49": "WY",
+}
 
-MAX_RETRIES = 3
-RETRY_DELAY = 2.0
+STATE_NAMES_SET = {
+    "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
+    "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa",
+    "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
+    "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada",
+    "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina",
+    "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island",
+    "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont",
+    "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming",
+    "District of Columbia", "United States",
+}
+
+# ORIs to backfill via API if missing from RETA (none currently)
+BACKFILL_ORIS = []
 
 
-async def fetch_agencies_for_state(session, state):
-    """Get all agencies for a state."""
-    url = f"{BASE}/agency/byStateAbbr/{state}"
-    params = {"api_key": API_KEY}
-    for attempt in range(MAX_RETRIES):
+def download_reta(year):
+    """Download and return RETA zip contents."""
+    print(f"Downloading RETA {year}...")
+    url = CDE_SIGNED_URL.format(year=year)
+    resp = urlopen(Request(url), timeout=30)
+    signed_data = json.loads(resp.read())
+    signed_url = list(signed_data.values())[0]
+
+    resp2 = urlopen(signed_url, timeout=120)
+    content = resp2.read()
+    print(f"  Downloaded {len(content):,} bytes")
+    return content
+
+
+def parse_reta(zip_bytes):
+    """Parse RETA fixed-width file, return dict of {ori7: {ori, agency_name, state, population}}."""
+    z = zipfile.ZipFile(BytesIO(zip_bytes))
+    txt_file = [n for n in z.namelist() if n.endswith(".txt") or n.endswith(".dat")][0]
+    data = z.read(txt_file).decode("ascii", errors="replace")
+    lines = data.split("\n")
+
+    agencies = {}
+    for line in lines:
+        if len(line) < 305 or line[0] != "1":
+            continue
+        state_code = line[1:3]
+        ori = line[3:10].strip()
+        pop_str = line[44:53].strip()
+        name = line[120:144].strip()
+        state = STATE_CODES.get(state_code, state_code)
+
         try:
-            async with session.get(url, params=params, timeout=aiohttp.ClientTimeout(total=30)) as resp:
-                if resp.status == 429:
-                    await asyncio.sleep(RETRY_DELAY * (2 ** attempt))
-                    continue
-                resp.raise_for_status()
-                data = await resp.json()
-                agencies = []
-                for county_name, agency_list in data.items():
-                    for a in agency_list:
-                        agencies.append({
-                            'ori': a['ori'],
-                            'agency_name': a.get('agency_name', ''),
-                            'state': a.get('state_abbr', state),
-                            'state_name': a.get('state_name', ''),
-                            'county': county_name,
-                            'agency_type': a.get('agency_type_name', ''),
-                        })
-                return agencies
-        except (aiohttp.ClientError, asyncio.TimeoutError):
-            if attempt == MAX_RETRIES - 1:
-                print(f"  WARNING: Failed to fetch agencies for {state}")
-                return []
-            await asyncio.sleep(RETRY_DELAY * (2 ** attempt))
-    return []
+            pop = int(pop_str) if pop_str else 0
+        except ValueError:
+            pop = 0
+
+        if ori and pop > 0:
+            agencies[ori] = {
+                "ori": ori,
+                "agency_name": name,
+                "state": state,
+                "population": pop,
+            }
+
+    print(f"  Parsed {len(agencies):,} agencies with population")
+    return agencies
 
 
-async def fetch_population(session, sem, ori, agency_info, results, progress):
-    """Fetch population for one ORI from the summarized homicide endpoint.
-    Uses a wide date range (01-2020 to current month) to catch agencies
-    that haven't reported recently. Takes the most recent month with population."""
+def backfill_api(oris):
+    """Fetch population for specific ORIs via CDE summarized API."""
+    if not oris:
+        return {}
+
+    print(f"Backfilling {len(oris)} ORIs via API...")
     now = datetime.now()
     from_date = "01-2020"
     to_date = f"{now.month:02d}-{now.year}"
-    url = f"{BASE}/summarized/agency/{ori}/homicide"
-    params = {"from": from_date, "to": to_date, "api_key": API_KEY}
-
-    STATE_NAMES = {
-        "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut",
-        "Delaware","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa",
-        "Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan",
-        "Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada",
-        "New Hampshire","New Jersey","New Mexico","New York","North Carolina",
-        "North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island",
-        "South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont",
-        "Virginia","Washington","West Virginia","Wisconsin","Wyoming",
-        "District of Columbia","United States",
-    }
-
-    for attempt in range(MAX_RETRIES):
-        async with sem:
-            try:
-                async with session.get(url, params=params, timeout=aiohttp.ClientTimeout(total=30)) as resp:
-                    if resp.status == 429:
-                        await asyncio.sleep(RETRY_DELAY * (2 ** attempt))
-                        continue
-                    if resp.status != 200:
-                        progress["done"] += 1
-                        return
-                    data = await resp.json()
-
-                    pop_dict = data.get("populations", {}).get("population", {})
-                    # Find the agency population (not state or US)
-                    pop = None
-                    pop_month = None
-                    for key, vals in pop_dict.items():
-                        if key in STATE_NAMES:
-                            continue
-                        if isinstance(vals, dict) and vals:
-                            # vals is like {"01-2020": 50000, "02-2020": 50000, ...}
-                            # Sort by date key to get most recent
-                            sorted_months = sorted(vals.keys(), key=lambda d: (
-                                int(d.split('-')[1]) * 100 + int(d.split('-')[0])
-                            ))
-                            # Walk backwards to find most recent non-zero
-                            for m in reversed(sorted_months):
-                                v = vals[m]
-                                if v and v > 0:
-                                    pop = int(v)
-                                    pop_month = m
-                                    break
-                        elif isinstance(vals, (int, float)) and vals > 0:
-                            pop = int(vals)
-                        break
-
-                    if pop and pop > 0:
-                        results[ori] = {**agency_info, 'population': pop, 'pop_date': pop_month or ''}
-
-                    progress["done"] += 1
-                    if progress["done"] % 500 == 0 or progress["done"] == progress["total"]:
-                        pct = progress["done"] / progress["total"] * 100
-                        elapsed = time.time() - progress["start"]
-                        rate = progress["done"] / elapsed if elapsed > 0 else 0
-                        eta = (progress["total"] - progress["done"]) / rate if rate > 0 else 0
-                        print(f"\r  {progress['done']:,}/{progress['total']:,} ({pct:.0f}%) "
-                              f"- {rate:.0f} req/s, ETA {eta:.0f}s", end="", flush=True)
-                    return
-
-            except (aiohttp.ClientError, asyncio.TimeoutError):
-                if attempt == MAX_RETRIES - 1:
-                    progress["done"] += 1
-                else:
-                    await asyncio.sleep(RETRY_DELAY * (2 ** attempt))
-
-
-async def main_async(concurrency, output):
-    print(f"FBI CDE Population Scraper")
-    print(f"{'='*50}")
-
-    # Step 1: Fetch all agencies by state
-    print(f"\nStep 1: Fetching agency lists for {len(STATES)} states...")
-    connector = aiohttp.TCPConnector(limit=10)
-    async with aiohttp.ClientSession(connector=connector) as session:
-        tasks = [fetch_agencies_for_state(session, st) for st in STATES]
-        state_results = await asyncio.gather(*tasks)
-
-    all_agencies = {}
-    for agencies in state_results:
-        for a in agencies:
-            all_agencies[a['ori']] = a
-
-    print(f"  Found {len(all_agencies):,} unique ORIs across {len(STATES)} states")
-
-    # Step 2: Fetch population for each ORI
-    print(f"\nStep 2: Fetching populations (concurrency={concurrency})...")
     results = {}
-    progress = {"done": 0, "total": len(all_agencies), "start": time.time()}
 
-    sem = asyncio.Semaphore(concurrency)
-    connector2 = aiohttp.TCPConnector(limit=concurrency, limit_per_host=concurrency)
-    async with aiohttp.ClientSession(connector=connector2) as session:
-        tasks = [
-            fetch_population(session, sem, ori, info, results, progress)
-            for ori, info in all_agencies.items()
-        ]
-        await asyncio.gather(*tasks)
+    for ori in oris:
+        try:
+            url = f"{CDE_API_BASE}/summarized/agency/{ori}/homicide?from={from_date}&to={to_date}&api_key={API_KEY}"
+            resp = urlopen(Request(url), timeout=30)
+            data = json.loads(resp.read())
 
-    print(f"\n  Got population for {len(results):,}/{len(all_agencies):,} agencies")
+            pop_dict = data.get("populations", {}).get("population", {})
+            for key, vals in pop_dict.items():
+                if key in STATE_NAMES_SET:
+                    continue
+                if isinstance(vals, dict) and vals:
+                    sorted_months = sorted(vals.keys(), key=lambda d: (
+                        int(d.split('-')[1]) * 100 + int(d.split('-')[0])
+                    ))
+                    for m in reversed(sorted_months):
+                        v = vals[m]
+                        if v and v > 0:
+                            results[ori[:7]] = {
+                                "ori": ori[:7],
+                                "agency_name": key,
+                                "state": ori[:2],
+                                "population": int(v),
+                            }
+                            print(f"  {ori}: {key} = {v:,}")
+                            break
+                break
+        except Exception as e:
+            print(f"  {ori}: API error — {e}")
 
-    # Step 3: Write CSV
-    print(f"\nStep 3: Writing {output}...")
-    fieldnames = ['ori', 'agency_name', 'state', 'state_name', 'county', 'agency_type', 'population', 'pop_date']
-    rows = sorted(results.values(), key=lambda r: (r['state'], r['agency_name']))
+    return results
 
-    with open(output, 'w', newline='', encoding='utf-8') as f:
+
+def main():
+    parser = argparse.ArgumentParser(description="CDE Population Scraper (RETA-based)")
+    parser.add_argument("--year", type=int, default=datetime.now().year,
+                        help="RETA year to download (default: current year)")
+    parser.add_argument("--output", default="cde_populations.csv")
+    args = parser.parse_args()
+
+    print(f"FBI CDE Population Scraper")
+    print(f"{'=' * 50}")
+
+    # Step 1: Download and parse RETA
+    zip_bytes = download_reta(args.year)
+    agencies = parse_reta(zip_bytes)
+
+    # Step 2: Try previous year if current year has fewer agencies
+    if args.year == datetime.now().year:
+        prev_zip = download_reta(args.year - 1)
+        prev_agencies = parse_reta(prev_zip)
+        # Merge: use current year pop if available, fall back to previous year
+        for ori, info in prev_agencies.items():
+            if ori not in agencies:
+                agencies[ori] = info
+        print(f"  After merging {args.year - 1}: {len(agencies):,} total agencies")
+
+    # Step 3: Backfill missing ORIs via API
+    if BACKFILL_ORIS:
+        missing = [ori for ori in BACKFILL_ORIS if ori[:7] not in agencies]
+        if missing:
+            api_results = backfill_api(missing)
+            agencies.update(api_results)
+            print(f"  After API backfill: {len(agencies):,} total agencies")
+
+    # Step 4: Write CSV
+    print(f"\nWriting {args.output}...")
+    fieldnames = ["ori", "agency_name", "state", "population"]
+    rows = sorted(agencies.values(), key=lambda r: (r["state"], r["agency_name"]))
+
+    with open(args.output, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
-    print(f"  {len(rows):,} agencies written to {output}")
-    print(f"\nTotal time: {time.time() - progress['start']:.1f}s")
-
-
-def main():
-    parser = argparse.ArgumentParser(description="CDE Population Scraper")
-    parser.add_argument("--concurrency", type=int, default=15)
-    parser.add_argument("--output", default="cde_populations.csv")
-    args = parser.parse_args()
-
-    asyncio.run(main_async(args.concurrency, args.output))
+    print(f"  {len(rows):,} agencies written to {args.output}")
 
 
 if __name__ == "__main__":
