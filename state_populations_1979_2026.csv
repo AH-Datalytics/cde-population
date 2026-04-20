@@ -1,0 +1,2497 @@
+year,state_abbr,state_name,population
+1979,,,220099000
+1979,AK,     Alaska,406000
+1979,AL,     Alabama,3769000
+1979,AR,     Arkansas,2180000
+1979,AZ,     Arizona,2450000
+1979,CA,     California,22696000
+1979,CO,     Colorado,2772000
+1979,CT,     Connecticut,3115000
+1979,DC,     District of Columbia,656000
+1979,DE,     Delaware,582000
+1979,FL,     Florida,8860000
+1979,GA,     Georgia,5118000
+1979,HI,     Hawaii,915000
+1979,IA,     Iowa,2903000
+1979,ID,     Idaho,905000
+1979,IL,     Illinois,11230000
+1979,IN,     Indiana,5400000
+1979,KS,     Kansas,2369000
+1979,KY,     Kentucky,3527000
+1979,LA,     Louisiana,4026000
+1979,MA,     Massachusetts,5769000
+1979,MD,     Maryland,4149000
+1979,ME,     Maine,1097000
+1979,MI,     Michigan,9208000
+1979,MN,     Minnesota,4060000
+1979,MO,     Missouri,4868000
+1979,MS,     Mississippi,2406000
+1979,MT,     Montana,786000
+1979,NC,     North Carolina,5606000
+1979,ND,     North Dakota,657000
+1979,NE,     Nebraska,1574000
+1979,NH,     New Hampshire,887000
+1979,NJ,     New Jersey,7332000
+1979,NM,     New Mexico,1241000
+1979,NV,     Nevada,702000
+1979,NY,     New York,17649000
+1979,OH,     Ohio,10731000
+1979,OK,     Oklahoma,2892000
+1979,OR,     Oregon,2527000
+1979,PA,     Pennsylvania,11731000
+1979,RI,     Rhode Island,929000
+1979,SC,     South Carolina,2932000
+1979,SD,     South Dakota,689000
+1979,TN,     Tennessee,4380000
+1979,TX,     Texas,13385000
+1979,UT,     Utah,1367000
+1979,VA,     Virginia,5197000
+1979,VT,     Vermont,493000
+1979,WA,     Washington,3926000
+1979,WI,     Wisconsin,4720000
+1979,WV,     West Virginia,1878000
+1979,WY,     Wyoming,450000
+1980,,,225349264
+1980,AK,     Alaska,440142
+1980,AL,     Alabama,3861466
+1980,AR,     Arkansas,2284037
+1980,AZ,     Arizona,2715357
+1980,CA,     California,23532680
+1980,CO,     Colorado,2878407
+1980,CT,     Connecticut,3095224
+1980,DC,     District of Columbia,635233
+1980,DE,     Delaware,594779
+1980,FL,     Florida,9567112
+1980,GA,     Georgia,5400851
+1980,HI,     Hawaii,964680
+1980,IA,     Iowa,2907804
+1980,ID,     Idaho,943629
+1980,IL,     Illinois,11355062
+1980,IN,     Indiana,5461103
+1980,KS,     Kansas,2354783
+1980,KY,     Kentucky,3641479
+1980,LA,     Louisiana,4199542
+1980,MA,     Massachusetts,5728288
+1980,MD,     Maryland,4192211
+1980,ME,     Maine,1123670
+1980,MI,     Michigan,9228128
+1980,MN,     Minnesota,4061235
+1980,MO,     Missouri,4901288
+1980,MS,     Mississippi,2511491
+1980,MT,     Montana,781592
+1980,NC,     North Carolina,5843665
+1980,ND,     North Dakota,652437
+1980,NE,     Nebraska,1563921
+1980,NH,     New Hampshire,919114
+1980,NJ,     New Jersey,7342164
+1980,NM,     New Mexico,1295474
+1980,NV,     Nevada,800312
+1980,NY,     New York,17506690
+1980,OH,     Ohio,10766808
+1980,OK,     Oklahoma,3001252
+1980,OR,     Oregon,2610477
+1980,PA,     Pennsylvania,11824220
+1980,RI,     Rhode Island,945835
+1980,SC,     South Carolina,3064557
+1980,SD,     South Dakota,688217
+1980,TN,     Tennessee,4545590
+1980,TX,     Texas,14169829
+1980,UT,     Utah,1458729
+1980,VA,     Virginia,5323412
+1980,VT,     Vermont,511299
+1980,WA,     Washington,4113331
+1980,WI,     Wisconsin,4680917
+1980,WV,     West Virginia,1930787
+1980,WY,     Wyoming,468954
+1981,,,229465714
+1981,AK,     Alaska,412000
+1981,AL,     Alabama,3916000
+1981,AR,     Arkansas,2294000
+1981,AZ,     Arizona,2793000
+1981,CA,     California,24159000
+1981,CO,     Colorado,2963000
+1981,CT,     Connecticut,3132000
+1981,DC,     District of Columbia,636000
+1981,DE,     Delaware,598000
+1981,FL,     Florida,10166000
+1981,GA,     Georgia,5569000
+1981,HI,     Hawaii,979000
+1981,IA,     Iowa,2897000
+1981,ID,     Idaho,959000
+1981,IL,     Illinois,11455000
+1981,IN,     Indiana,5466000
+1981,KS,     Kansas,2381000
+1981,KY,     Kentucky,3661000
+1981,LA,     Louisiana,4305000
+1981,MA,     Massachusetts,5770000
+1981,MD,     Maryland,4261000
+1981,ME,     Maine,1132000
+1981,MI,     Michigan,9201000
+1981,MN,     Minnesota,4090000
+1981,MO,     Missouri,4938000
+1981,MS,     Mississippi,2530000
+1981,MT,     Montana,792000
+1981,NC,     North Carolina,5951000
+1981,ND,     North Dakota,658000
+1981,NE,     Nebraska,1576000
+1981,NH,     New Hampshire,935000
+1981,NJ,     New Jersey,7401000
+1981,NM,     New Mexico,1327000
+1981,NV,     Nevada,845000
+1981,NY,     New York,17594000
+1981,OH,     Ohio,10776000
+1981,OK,     Oklahoma,3098000
+1981,OR,     Oregon,2647000
+1981,PA,     Pennsylvania,11864000
+1981,RI,     Rhode Island,952000
+1981,SC,     South Carolina,3166000
+1981,SD,     South Dakota,685000
+1981,TN,     Tennessee,4610000
+1981,TX,     Texas,14755000
+1981,UT,     Utah,1516000
+1981,VA,     Virginia,5426000
+1981,VT,     Vermont,515000
+1981,WA,     Washington,4212000
+1981,WI,     Wisconsin,4739000
+1981,WV,     West Virginia,1951000
+1981,WY,     Wyoming,492000
+1982,,,231664458
+1982,AK,     Alaska,438000
+1982,AL,     Alabama,3943000
+1982,AR,     Arkansas,2291000
+1982,AZ,     Arizona,2860000
+1982,CA,     California,24724000
+1982,CO,     Colorado,3045000
+1982,CT,     Connecticut,3153000
+1982,DC,     District of Columbia,631000
+1982,DE,     Delaware,602000
+1982,FL,     Florida,10416000
+1982,GA,     Georgia,5639000
+1982,HI,     Hawaii,994000
+1982,IA,     Iowa,2905000
+1982,ID,     Idaho,965000
+1982,IL,     Illinois,11448000
+1982,IN,     Indiana,5471000
+1982,KS,     Kansas,2408000
+1982,KY,     Kentucky,3667000
+1982,LA,     Louisiana,4362000
+1982,MA,     Massachusetts,5781000
+1982,MD,     Maryland,4265000
+1982,ME,     Maine,1133000
+1982,MI,     Michigan,9109000
+1982,MN,     Minnesota,4133000
+1982,MO,     Missouri,4951000
+1982,MS,     Mississippi,2551000
+1982,MT,     Montana,801000
+1982,NC,     North Carolina,6019000
+1982,ND,     North Dakota,670000
+1982,NE,     Nebraska,1586000
+1982,NH,     New Hampshire,951000
+1982,NJ,     New Jersey,7438000
+1982,NM,     New Mexico,1359000
+1982,NV,     Nevada,881000
+1982,NY,     New York,17659000
+1982,OH,     Ohio,10791000
+1982,OK,     Oklahoma,3177000
+1982,OR,     Oregon,2649000
+1982,PA,     Pennsylvania,11865000
+1982,RI,     Rhode Island,958000
+1982,SC,     South Carolina,3203000
+1982,SD,     South Dakota,691000
+1982,TN,     Tennessee,4651000
+1982,TX,     Texas,15280000
+1982,UT,     Utah,1554000
+1982,VA,     Virginia,5491000
+1982,VT,     Vermont,516000
+1982,WA,     Washington,4245000
+1982,WI,     Wisconsin,4765000
+1982,WV,     West Virginia,1948000
+1982,WY,     Wyoming,502000
+1983,,,233791994
+1983,AK,     Alaska,479000
+1983,AL,     Alabama,3959000
+1983,AR,     Arkansas,2328000
+1983,AZ,     Arizona,2963000
+1983,CA,     California,25174000
+1983,CO,     Colorado,3139000
+1983,CT,     Connecticut,3138000
+1983,DC,     District of Columbia,623000
+1983,DE,     Delaware,606000
+1983,FL,     Florida,10680000
+1983,GA,     Georgia,5732000
+1983,HI,     Hawaii,1023000
+1983,IA,     Iowa,2905000
+1983,ID,     Idaho,989000
+1983,IL,     Illinois,11486000
+1983,IN,     Indiana,5479000
+1983,KS,     Kansas,2425000
+1983,KY,     Kentucky,3714000
+1983,LA,     Louisiana,4438000
+1983,MA,     Massachusetts,5767000
+1983,MD,     Maryland,4304000
+1983,ME,     Maine,1146000
+1983,MI,     Michigan,9069000
+1983,MN,     Minnesota,4144000
+1983,MO,     Missouri,4970000
+1983,MS,     Mississippi,2587000
+1983,MT,     Montana,817000
+1983,NC,     North Carolina,6082000
+1983,ND,     North Dakota,680000
+1983,NE,     Nebraska,1597000
+1983,NH,     New Hampshire,959000
+1983,NJ,     New Jersey,7468000
+1983,NM,     New Mexico,1399000
+1983,NV,     Nevada,891000
+1983,NY,     New York,17667000
+1983,OH,     Ohio,10746000
+1983,OK,     Oklahoma,3298000
+1983,OR,     Oregon,2662000
+1983,PA,     Pennsylvania,11895000
+1983,RI,     Rhode Island,955000
+1983,SC,     South Carolina,3264000
+1983,SD,     South Dakota,700000
+1983,TN,     Tennessee,4685000
+1983,TX,     Texas,15724000
+1983,UT,     Utah,1619000
+1983,VA,     Virginia,5550000
+1983,VT,     Vermont,525000
+1983,WA,     Washington,4300000
+1983,WI,     Wisconsin,4751000
+1983,WV,     West Virginia,1965000
+1983,WY,     Wyoming,514000
+1984,,,235824902
+1984,AK,     Alaska,500000
+1984,AL,     Alabama,3990000
+1984,AR,     Arkansas,2349000
+1984,AZ,     Arizona,3053000
+1984,CA,     California,25622000
+1984,CO,     Colorado,3178000
+1984,CT,     Connecticut,3154000
+1984,DC,     District of Columbia,623000
+1984,DE,     Delaware,613000
+1984,FL,     Florida,10976000
+1984,GA,     Georgia,5837000
+1984,HI,     Hawaii,1039000
+1984,IA,     Iowa,2910000
+1984,ID,     Idaho,1001000
+1984,IL,     Illinois,11511000
+1984,IN,     Indiana,5498000
+1984,KS,     Kansas,2438000
+1984,KY,     Kentucky,3723000
+1984,LA,     Louisiana,4462000
+1984,MA,     Massachusetts,5798000
+1984,MD,     Maryland,4349000
+1984,ME,     Maine,1156000
+1984,MI,     Michigan,9075000
+1984,MN,     Minnesota,4162000
+1984,MO,     Missouri,5008000
+1984,MS,     Mississippi,2598000
+1984,MT,     Montana,824000
+1984,NC,     North Carolina,6165000
+1984,ND,     North Dakota,686000
+1984,NE,     Nebraska,1606000
+1984,NH,     New Hampshire,977000
+1984,NJ,     New Jersey,7515000
+1984,NM,     New Mexico,1424000
+1984,NV,     Nevada,911000
+1984,NY,     New York,17735000
+1984,OH,     Ohio,10752000
+1984,OK,     Oklahoma,3298000
+1984,OR,     Oregon,2674000
+1984,PA,     Pennsylvania,11901000
+1984,RI,     Rhode Island,962000
+1984,SC,     South Carolina,3300000
+1984,SD,     South Dakota,706000
+1984,TN,     Tennessee,4717000
+1984,TX,     Texas,15989000
+1984,UT,     Utah,1652000
+1984,VA,     Virginia,5636000
+1984,VT,     Vermont,530000
+1984,WA,     Washington,4349000
+1984,WI,     Wisconsin,4766000
+1984,WV,     West Virginia,1952000
+1984,WY,     Wyoming,511000
+1985,,,237923795
+1985,AK,     Alaska,521000
+1985,AL,     Alabama,4021000
+1985,AR,     Arkansas,2359000
+1985,AZ,     Arizona,3187000
+1985,CA,     California,26365000
+1985,CO,     Colorado,3231000
+1985,CT,     Connecticut,3174000
+1985,DC,     District of Columbia,626000
+1985,DE,     Delaware,622000
+1985,FL,     Florida,11366000
+1985,GA,     Georgia,5976000
+1985,HI,     Hawaii,1054000
+1985,IA,     Iowa,2884000
+1985,ID,     Idaho,1005000
+1985,IL,     Illinois,11535000
+1985,IN,     Indiana,5499000
+1985,KS,     Kansas,2450000
+1985,KY,     Kentucky,3726000
+1985,LA,     Louisiana,4481000
+1985,MA,     Massachusetts,5822000
+1985,MD,     Maryland,4392000
+1985,ME,     Maine,1164000
+1985,MI,     Michigan,9088000
+1985,MN,     Minnesota,4193000
+1985,MO,     Missouri,5029000
+1985,MS,     Mississippi,2613000
+1985,MT,     Montana,826000
+1985,NC,     North Carolina,6255000
+1985,ND,     North Dakota,685000
+1985,NE,     Nebraska,1606000
+1985,NH,     New Hampshire,998000
+1985,NJ,     New Jersey,7562000
+1985,NM,     New Mexico,1450000
+1985,NV,     Nevada,936000
+1985,NY,     New York,17783000
+1985,OH,     Ohio,10744000
+1985,OK,     Oklahoma,3301000
+1985,OR,     Oregon,2687000
+1985,PA,     Pennsylvania,11853000
+1985,RI,     Rhode Island,968000
+1985,SC,     South Carolina,3347000
+1985,SD,     South Dakota,708000
+1985,TN,     Tennessee,4762000
+1985,TX,     Texas,16370000
+1985,UT,     Utah,1645000
+1985,VA,     Virginia,5706000
+1985,VT,     Vermont,535000
+1985,WA,     Washington,4409000
+1985,WI,     Wisconsin,4775000
+1985,WV,     West Virginia,1936000
+1985,WY,     Wyoming,509000
+1986,,,240132887
+1986,AK,     Alaska,534000
+1986,AL,     Alabama,4053000
+1986,AR,     Arkansas,2372000
+1986,AZ,     Arizona,3317000
+1986,CA,     California,26981000
+1986,CO,     Colorado,3267000
+1986,CT,     Connecticut,3189000
+1986,DC,     District of Columbia,626000
+1986,DE,     Delaware,633000
+1986,FL,     Florida,11675000
+1986,GA,     Georgia,6104000
+1986,HI,     Hawaii,1062000
+1986,IA,     Iowa,2851000
+1986,ID,     Idaho,1003000
+1986,IL,     Illinois,11533000
+1986,IN,     Indiana,5504000
+1986,KS,     Kansas,2461000
+1986,KY,     Kentucky,3728000
+1986,LA,     Louisiana,4501000
+1986,MA,     Massachusetts,5832000
+1986,MD,     Maryland,4463000
+1986,ME,     Maine,1174000
+1986,MI,     Michigan,9145000
+1986,MN,     Minnesota,4214000
+1986,MO,     Missouri,5066000
+1986,MS,     Mississippi,2625000
+1986,MT,     Montana,819000
+1986,NC,     North Carolina,6331000
+1986,ND,     North Dakota,679000
+1986,NE,     Nebraska,1598000
+1986,NH,     New Hampshire,1027000
+1986,NJ,     New Jersey,7620000
+1986,NM,     New Mexico,1479000
+1986,NV,     Nevada,963000
+1986,NY,     New York,17772000
+1986,OH,     Ohio,10752000
+1986,OK,     Oklahoma,3305000
+1986,OR,     Oregon,2698000
+1986,PA,     Pennsylvania,11889000
+1986,RI,     Rhode Island,975000
+1986,SC,     South Carolina,3378000
+1986,SD,     South Dakota,708000
+1986,TN,     Tennessee,4803000
+1986,TX,     Texas,16682000
+1986,UT,     Utah,1665000
+1986,VA,     Virginia,5787000
+1986,VT,     Vermont,541000
+1986,WA,     Washington,4463000
+1986,WI,     Wisconsin,4785000
+1986,WV,     West Virginia,1919000
+1986,WY,     Wyoming,507000
+1987,,,242288918
+1987,AK,     Alaska,525000
+1987,AL,     Alabama,4083000
+1987,AR,     Arkansas,2388000
+1987,AZ,     Arizona,3386000
+1987,CA,     California,27663000
+1987,CO,     Colorado,3296000
+1987,CT,     Connecticut,3211000
+1987,DC,     District of Columbia,622000
+1987,DE,     Delaware,644000
+1987,FL,     Florida,12023000
+1987,GA,     Georgia,6222000
+1987,HI,     Hawaii,1083000
+1987,IA,     Iowa,2834000
+1987,ID,     Idaho,998000
+1987,IL,     Illinois,11582000
+1987,IN,     Indiana,5531000
+1987,KS,     Kansas,2476000
+1987,KY,     Kentucky,3727000
+1987,LA,     Louisiana,4461000
+1987,MA,     Massachusetts,5855000
+1987,MD,     Maryland,4535000
+1987,ME,     Maine,1187000
+1987,MI,     Michigan,9200000
+1987,MN,     Minnesota,4246000
+1987,MO,     Missouri,5103000
+1987,MS,     Mississippi,2625000
+1987,MT,     Montana,809000
+1987,NC,     North Carolina,6413000
+1987,ND,     North Dakota,672000
+1987,NE,     Nebraska,1594000
+1987,NH,     New Hampshire,1057000
+1987,NJ,     New Jersey,7672000
+1987,NM,     New Mexico,1500000
+1987,NV,     Nevada,1007000
+1987,NY,     New York,17825000
+1987,OH,     Ohio,10784000
+1987,OK,     Oklahoma,3272000
+1987,OR,     Oregon,2724000
+1987,PA,     Pennsylvania,11936000
+1987,RI,     Rhode Island,986000
+1987,SC,     South Carolina,3425000
+1987,SD,     South Dakota,709000
+1987,TN,     Tennessee,4855000
+1987,TX,     Texas,16789000
+1987,UT,     Utah,1680000
+1987,VA,     Virginia,5904000
+1987,VT,     Vermont,548000
+1987,WA,     Washington,4538000
+1987,WI,     Wisconsin,4807000
+1987,WV,     West Virginia,1897000
+1987,WY,     Wyoming,490000
+1988,,,244498982
+1988,AK,     Alaska,513000
+1988,AL,     Alabama,4127000
+1988,AR,     Arkansas,2422000
+1988,AZ,     Arizona,3466000
+1988,CA,     California,28168000
+1988,CO,     Colorado,3290000
+1988,CT,     Connecticut,3241000
+1988,DC,     District of Columbia,620000
+1988,DE,     Delaware,660000
+1988,FL,     Florida,12377000
+1988,GA,     Georgia,6401000
+1988,HI,     Hawaii,1093000
+1988,IA,     Iowa,2834000
+1988,ID,     Idaho,999000
+1988,IL,     Illinois,11544000
+1988,IN,     Indiana,5575000
+1988,KS,     Kansas,2487000
+1988,KY,     Kentucky,3721000
+1988,LA,     Louisiana,4420000
+1988,MA,     Massachusetts,5871000
+1988,MD,     Maryland,4644000
+1988,ME,     Maine,1206000
+1988,MI,     Michigan,9300000
+1988,MN,     Minnesota,4306000
+1988,MO,     Missouri,5139000
+1988,MS,     Mississippi,2627000
+1988,MT,     Montana,804000
+1988,NC,     North Carolina,6526000
+1988,ND,     North Dakota,663000
+1988,NE,     Nebraska,1601000
+1988,NH,     New Hampshire,1097000
+1988,NJ,     New Jersey,7720000
+1988,NM,     New Mexico,1510000
+1988,NV,     Nevada,1060000
+1988,NY,     New York,17898000
+1988,OH,     Ohio,10872000
+1988,OK,     Oklahoma,3263000
+1988,OR,     Oregon,2741000
+1988,PA,     Pennsylvania,12027000
+1988,RI,     Rhode Island,995000
+1988,SC,     South Carolina,3493000
+1988,SD,     South Dakota,715000
+1988,TN,     Tennessee,4919000
+1988,TX,     Texas,16780000
+1988,UT,     Utah,1691000
+1988,VA,     Virginia,5996000
+1988,VT,     Vermont,556000
+1988,WA,     Washington,4619000
+1988,WI,     Wisconsin,4858000
+1988,WV,     West Virginia,1884000
+1988,WY,     Wyoming,471000
+1989,,,246819230
+1989,AK,     Alaska,527000
+1989,AL,     Alabama,4118000
+1989,AR,     Arkansas,2406000
+1989,AZ,     Arizona,3556000
+1989,CA,     California,29063000
+1989,CO,     Colorado,3317000
+1989,CT,     Connecticut,3239000
+1989,DC,     District of Columbia,604000
+1989,DE,     Delaware,673000
+1989,FL,     Florida,12671000
+1989,GA,     Georgia,6436000
+1989,HI,     Hawaii,1112000
+1989,IA,     Iowa,2840000
+1989,ID,     Idaho,1014000
+1989,IL,     Illinois,11658000
+1989,IN,     Indiana,5593000
+1989,KS,     Kansas,2513000
+1989,KY,     Kentucky,3727000
+1989,LA,     Louisiana,4382000
+1989,MA,     Massachusetts,5913000
+1989,MD,     Maryland,4694000
+1989,ME,     Maine,1222000
+1989,MI,     Michigan,9273000
+1989,MN,     Minnesota,4353000
+1989,MO,     Missouri,5159000
+1989,MS,     Mississippi,2621000
+1989,MT,     Montana,806000
+1989,NC,     North Carolina,6571000
+1989,ND,     North Dakota,660000
+1989,NE,     Nebraska,1611000
+1989,NH,     New Hampshire,1107000
+1989,NJ,     New Jersey,7736000
+1989,NM,     New Mexico,1528000
+1989,NV,     Nevada,1111000
+1989,NY,     New York,17950000
+1989,OH,     Ohio,10907000
+1989,OK,     Oklahoma,3224000
+1989,OR,     Oregon,2820000
+1989,PA,     Pennsylvania,12040000
+1989,RI,     Rhode Island,998000
+1989,SC,     South Carolina,3512000
+1989,SD,     South Dakota,715000
+1989,TN,     Tennessee,4940000
+1989,TX,     Texas,16991000
+1989,UT,     Utah,1707000
+1989,VA,     Virginia,6098000
+1989,VT,     Vermont,567000
+1989,WA,     Washington,4761000
+1989,WI,     Wisconsin,4867000
+1989,WV,     West Virginia,1857000
+1989,WY,     Wyoming,475000
+1990,,,249464396
+1990,AK,     Alaska,550043
+1990,AL,     Alabama,4040587
+1990,AR,     Arkansas,2350725
+1990,AZ,     Arizona,3665228
+1990,CA,     California,29760021
+1990,CO,     Colorado,3294394
+1990,CT,     Connecticut,3287116
+1990,DC,     District of Columbia,606900
+1990,DE,     Delaware,666168
+1990,FL,     Florida,12937926
+1990,GA,     Georgia,6478216
+1990,HI,     Hawaii,1108229
+1990,IA,     Iowa,2776755
+1990,ID,     Idaho,1006749
+1990,IL,     Illinois,11430602
+1990,IN,     Indiana,5544159
+1990,KS,     Kansas,2477574
+1990,KY,     Kentucky,3685296
+1990,LA,     Louisiana,4219973
+1990,MA,     Massachusetts,6016425
+1990,MD,     Maryland,4781468
+1990,ME,     Maine,1227928
+1990,MI,     Michigan,9295297
+1990,MN,     Minnesota,4375099
+1990,MO,     Missouri,5117073
+1990,MS,     Mississippi,2573216
+1990,MT,     Montana,799065
+1990,NC,     North Carolina,6628637
+1990,ND,     North Dakota,638800
+1990,NE,     Nebraska,1578385
+1990,NH,     New Hampshire,1109252
+1990,NJ,     New Jersey,7730188
+1990,NM,     New Mexico,1515069
+1990,NV,     Nevada,1201833
+1990,NY,     New York,17990455
+1990,OH,     Ohio,10847115
+1990,OK,     Oklahoma,3145585
+1990,OR,     Oregon,2842321
+1990,PA,     Pennsylvania,11881643
+1990,RI,     Rhode Island,1003464
+1990,SC,     South Carolina,3486703
+1990,SD,     South Dakota,696004
+1990,TN,     Tennessee,4877185
+1990,TX,     Texas,16986510
+1990,UT,     Utah,1722850
+1990,VA,     Virginia,6187358
+1990,VT,     Vermont,562758
+1990,WA,     Washington,4866692
+1990,WI,     Wisconsin,4891769
+1990,WV,     West Virginia,1793477
+1990,WY,     Wyoming,453588
+1991,,,252153092
+1991,AK,     Alaska,570000
+1991,AL,     Alabama,4089000
+1991,AR,     Arkansas,2372000
+1991,AZ,     Arizona,3750000
+1991,CA,     California,30380000
+1991,CO,     Colorado,3377000
+1991,CT,     Connecticut,3291000
+1991,DC,     District of Columbia,598000
+1991,DE,     Delaware,680000
+1991,FL,     Florida,13277000
+1991,GA,     Georgia,6623000
+1991,HI,     Hawaii,1135000
+1991,IA,     Iowa,2795000
+1991,ID,     Idaho,1039000
+1991,IL,     Illinois,11543000
+1991,IN,     Indiana,5610000
+1991,KS,     Kansas,2495000
+1991,KY,     Kentucky,3713000
+1991,LA,     Louisiana,4252000
+1991,MA,     Massachusetts,5996000
+1991,MD,     Maryland,4860000
+1991,ME,     Maine,1235000
+1991,MI,     Michigan,9368000
+1991,MN,     Minnesota,4432000
+1991,MO,     Missouri,5158000
+1991,MS,     Mississippi,2592000
+1991,MT,     Montana,808000
+1991,NC,     North Carolina,6737000
+1991,ND,     North Dakota,635000
+1991,NE,     Nebraska,1593000
+1991,NH,     New Hampshire,1105000
+1991,NJ,     New Jersey,7760000
+1991,NM,     New Mexico,1548000
+1991,NV,     Nevada,1284000
+1991,NY,     New York,18058000
+1991,OH,     Ohio,10939000
+1991,OK,     Oklahoma,3175000
+1991,OR,     Oregon,2922000
+1991,PA,     Pennsylvania,11961000
+1991,RI,     Rhode Island,1004000
+1991,SC,     South Carolina,3560000
+1991,SD,     South Dakota,703000
+1991,TN,     Tennessee,4953000
+1991,TX,     Texas,17349000
+1991,UT,     Utah,1770000
+1991,VA,     Virginia,6286000
+1991,VT,     Vermont,567000
+1991,WA,     Washington,5018000
+1991,WI,     Wisconsin,4955000
+1991,WV,     West Virginia,1801000
+1991,WY,     Wyoming,460000
+1992,,,255029699
+1992,AK,     Alaska,587000
+1992,AL,     Alabama,4136000
+1992,AR,     Arkansas,2399000
+1992,AZ,     Arizona,3832000
+1992,CA,     California,30867000
+1992,CO,     Colorado,3470000
+1992,CT,     Connecticut,3281000
+1992,DC,     District of Columbia,589000
+1992,DE,     Delaware,689000
+1992,FL,     Florida,13488000
+1992,GA,     Georgia,6751000
+1992,HI,     Hawaii,1160000
+1992,IA,     Iowa,2812000
+1992,ID,     Idaho,1067000
+1992,IL,     Illinois,11631000
+1992,IN,     Indiana,5662000
+1992,KS,     Kansas,2523000
+1992,KY,     Kentucky,3755000
+1992,LA,     Louisiana,4287000
+1992,MA,     Massachusetts,5998000
+1992,MD,     Maryland,4908000
+1992,ME,     Maine,1235000
+1992,MI,     Michigan,9437000
+1992,MN,     Minnesota,4480000
+1992,MO,     Missouri,5193000
+1992,MS,     Mississippi,2614000
+1992,MT,     Montana,824000
+1992,NC,     North Carolina,6843000
+1992,ND,     North Dakota,636000
+1992,NE,     Nebraska,1606000
+1992,NH,     New Hampshire,1111000
+1992,NJ,     New Jersey,7789000
+1992,NM,     New Mexico,1581000
+1992,NV,     Nevada,1327000
+1992,NY,     New York,18119000
+1992,OH,     Ohio,11016000
+1992,OK,     Oklahoma,3212000
+1992,OR,     Oregon,2977000
+1992,PA,     Pennsylvania,12009000
+1992,RI,     Rhode Island,1005000
+1992,SC,     South Carolina,3603000
+1992,SD,     South Dakota,711000
+1992,TN,     Tennessee,5024000
+1992,TX,     Texas,17656000
+1992,UT,     Utah,1813000
+1992,VA,     Virginia,6377000
+1992,VT,     Vermont,570000
+1992,WA,     Washington,5136000
+1992,WI,     Wisconsin,5007000
+1992,WV,     West Virginia,1812000
+1992,WY,     Wyoming,466000
+1993,,,257782608
+1993,AK,     Alaska,599000
+1993,AL,     Alabama,4187000
+1993,AR,     Arkansas,2424000
+1993,AZ,     Arizona,3936000
+1993,CA,     California,31211000
+1993,CO,     Colorado,3566000
+1993,CT,     Connecticut,3277000
+1993,DC,     District of Columbia,578000
+1993,DE,     Delaware,700000
+1993,FL,     Florida,13679000
+1993,GA,     Georgia,6917000
+1993,HI,     Hawaii,1172000
+1993,IA,     Iowa,2814000
+1993,ID,     Idaho,1099000
+1993,IL,     Illinois,11697000
+1993,IN,     Indiana,5713000
+1993,KS,     Kansas,2531000
+1993,KY,     Kentucky,3789000
+1993,LA,     Louisiana,4295000
+1993,MA,     Massachusetts,6012000
+1993,MD,     Maryland,4965000
+1993,ME,     Maine,1239000
+1993,MI,     Michigan,9478000
+1993,MN,     Minnesota,4517000
+1993,MO,     Missouri,5234000
+1993,MS,     Mississippi,2643000
+1993,MT,     Montana,839000
+1993,NC,     North Carolina,6945000
+1993,ND,     North Dakota,635000
+1993,NE,     Nebraska,1607000
+1993,NH,     New Hampshire,1125000
+1993,NJ,     New Jersey,7879000
+1993,NM,     New Mexico,1616000
+1993,NV,     Nevada,1389000
+1993,NY,     New York,18197000
+1993,OH,     Ohio,11091000
+1993,OK,     Oklahoma,3231000
+1993,OR,     Oregon,3032000
+1993,PA,     Pennsylvania,12048000
+1993,RI,     Rhode Island,1000000
+1993,SC,     South Carolina,3643000
+1993,SD,     South Dakota,715000
+1993,TN,     Tennessee,5099000
+1993,TX,     Texas,18031000
+1993,UT,     Utah,1860000
+1993,VA,     Virginia,6491000
+1993,VT,     Vermont,576000
+1993,WA,     Washington,5255000
+1993,WI,     Wisconsin,5038000
+1993,WV,     West Virginia,1820000
+1993,WY,     Wyoming,470000
+1994,,,260327021
+1994,AK,     Alaska,606000
+1994,AL,     Alabama,4219000
+1994,AR,     Arkansas,2453000
+1994,AZ,     Arizona,4075000
+1994,CA,     California,31431000
+1994,CO,     Colorado,3656000
+1994,CT,     Connecticut,3275000
+1994,DC,     District of Columbia,570000
+1994,DE,     Delaware,706000
+1994,FL,     Florida,13953000
+1994,GA,     Georgia,7055000
+1994,HI,     Hawaii,1179000
+1994,IA,     Iowa,2829000
+1994,ID,     Idaho,1133000
+1994,IL,     Illinois,11752000
+1994,IN,     Indiana,5752000
+1994,KS,     Kansas,2554000
+1994,KY,     Kentucky,3827000
+1994,LA,     Louisiana,4315000
+1994,MA,     Massachusetts,6041000
+1994,MD,     Maryland,5006000
+1994,ME,     Maine,1240000
+1994,MI,     Michigan,9496000
+1994,MN,     Minnesota,4567000
+1994,MO,     Missouri,5278000
+1994,MS,     Mississippi,2669000
+1994,MT,     Montana,856000
+1994,NC,     North Carolina,7070000
+1994,ND,     North Dakota,638000
+1994,NE,     Nebraska,1623000
+1994,NH,     New Hampshire,1137000
+1994,NJ,     New Jersey,7904000
+1994,NM,     New Mexico,1654000
+1994,NV,     Nevada,1457000
+1994,NY,     New York,18169000
+1994,OH,     Ohio,11102000
+1994,OK,     Oklahoma,3258000
+1994,OR,     Oregon,3086000
+1994,PA,     Pennsylvania,12052000
+1994,RI,     Rhode Island,997000
+1994,SC,     South Carolina,3664000
+1994,SD,     South Dakota,721000
+1994,TN,     Tennessee,5175000
+1994,TX,     Texas,18378000
+1994,UT,     Utah,1908000
+1994,VA,     Virginia,6552000
+1994,VT,     Vermont,580000
+1994,WA,     Washington,5343000
+1994,WI,     Wisconsin,5082000
+1994,WV,     West Virginia,1822000
+1994,WY,     Wyoming,476000
+1995,,,262803276
+1995,AK,     Alaska,604000
+1995,AL,     Alabama,4253000
+1995,AR,     Arkansas,2484000
+1995,AZ,     Arizona,4218000
+1995,CA,     California,31589000
+1995,CO,     Colorado,3747000
+1995,CT,     Connecticut,3275000
+1995,DC,     District of Columbia,554000
+1995,DE,     Delaware,717000
+1995,FL,     Florida,14166000
+1995,GA,     Georgia,7201000
+1995,HI,     Hawaii,1187000
+1995,IA,     Iowa,2842000
+1995,ID,     Idaho,1163000
+1995,IL,     Illinois,11830000
+1995,IN,     Indiana,5803000
+1995,KS,     Kansas,2565000
+1995,KY,     Kentucky,3860000
+1995,LA,     Louisiana,4342000
+1995,MA,     Massachusetts,6074000
+1995,MD,     Maryland,5042000
+1995,ME,     Maine,1241000
+1995,MI,     Michigan,9549000
+1995,MN,     Minnesota,4610000
+1995,MO,     Missouri,5324000
+1995,MS,     Mississippi,2697000
+1995,MT,     Montana,870000
+1995,NC,     North Carolina,7195000
+1995,ND,     North Dakota,641000
+1995,NE,     Nebraska,1637000
+1995,NH,     New Hampshire,1148000
+1995,NJ,     New Jersey,7945000
+1995,NM,     New Mexico,1685000
+1995,NV,     Nevada,1530000
+1995,NY,     New York,18136000
+1995,OH,     Ohio,11151000
+1995,OK,     Oklahoma,3278000
+1995,OR,     Oregon,3141000
+1995,PA,     Pennsylvania,12072000
+1995,RI,     Rhode Island,990000
+1995,SC,     South Carolina,3673000
+1995,SD,     South Dakota,729000
+1995,TN,     Tennessee,5256000
+1995,TX,     Texas,18724000
+1995,UT,     Utah,1951000
+1995,VA,     Virginia,6618000
+1995,VT,     Vermont,585000
+1995,WA,     Washington,5431000
+1995,WI,     Wisconsin,5123000
+1995,WV,     West Virginia,1828000
+1995,WY,     Wyoming,480000
+1996,,,265228572
+1996,AK,     Alaska,607000
+1996,AL,     Alabama,4273000
+1996,AR,     Arkansas,2510000
+1996,AZ,     Arizona,4428000
+1996,CA,     California,31878000
+1996,CO,     Colorado,3823000
+1996,CT,     Connecticut,3274000
+1996,DC,     District of Columbia,543000
+1996,DE,     Delaware,725000
+1996,FL,     Florida,14400000
+1996,GA,     Georgia,7353000
+1996,HI,     Hawaii,1184000
+1996,IA,     Iowa,2852000
+1996,ID,     Idaho,1189000
+1996,IL,     Illinois,11847000
+1996,IN,     Indiana,5841000
+1996,KS,     Kansas,2572000
+1996,KY,     Kentucky,3884000
+1996,LA,     Louisiana,4351000
+1996,MA,     Massachusetts,6092000
+1996,MD,     Maryland,5072000
+1996,ME,     Maine,1243000
+1996,MI,     Michigan,9594000
+1996,MN,     Minnesota,4658000
+1996,MO,     Missouri,5359000
+1996,MS,     Mississippi,2716000
+1996,MT,     Montana,879000
+1996,NC,     North Carolina,7323000
+1996,ND,     North Dakota,644000
+1996,NE,     Nebraska,1652000
+1996,NH,     New Hampshire,1162000
+1996,NJ,     New Jersey,7988000
+1996,NM,     New Mexico,1713000
+1996,NV,     Nevada,1603000
+1996,NY,     New York,18185000
+1996,OH,     Ohio,11173000
+1996,OK,     Oklahoma,3301000
+1996,OR,     Oregon,3204000
+1996,PA,     Pennsylvania,12056000
+1996,RI,     Rhode Island,990000
+1996,SC,     South Carolina,3699000
+1996,SD,     South Dakota,732000
+1996,TN,     Tennessee,5320000
+1996,TX,     Texas,19128000
+1996,UT,     Utah,2000000
+1996,VA,     Virginia,6675000
+1996,VT,     Vermont,589000
+1996,WA,     Washington,5533000
+1996,WI,     Wisconsin,5160000
+1996,WV,     West Virginia,1826000
+1996,WY,     Wyoming,481000
+1997,,,267783607
+1997,AK,     Alaska,609000
+1997,AL,     Alabama,4319000
+1997,AR,     Arkansas,2523000
+1997,AZ,     Arizona,4555000
+1997,CA,     California,32268000
+1997,CO,     Colorado,3893000
+1997,CT,     Connecticut,3270000
+1997,DC,     District of Columbia,529000
+1997,DE,     Delaware,732000
+1997,FL,     Florida,14654000
+1997,GA,     Georgia,7486000
+1997,HI,     Hawaii,1187000
+1997,IA,     Iowa,2852000
+1997,ID,     Idaho,1210000
+1997,IL,     Illinois,11896000
+1997,IN,     Indiana,5864000
+1997,KS,     Kansas,2595000
+1997,KY,     Kentucky,3908000
+1997,LA,     Louisiana,4352000
+1997,MA,     Massachusetts,6118000
+1997,MD,     Maryland,5094000
+1997,ME,     Maine,1242000
+1997,MI,     Michigan,9774000
+1997,MN,     Minnesota,4686000
+1997,MO,     Missouri,5402000
+1997,MS,     Mississippi,2731000
+1997,MT,     Montana,879000
+1997,NC,     North Carolina,7425000
+1997,ND,     North Dakota,641000
+1997,NE,     Nebraska,1657000
+1997,NH,     New Hampshire,1173000
+1997,NJ,     New Jersey,8053000
+1997,NM,     New Mexico,1730000
+1997,NV,     Nevada,1677000
+1997,NY,     New York,18137000
+1997,OH,     Ohio,11186000
+1997,OK,     Oklahoma,3317000
+1997,OR,     Oregon,3243000
+1997,PA,     Pennsylvania,12020000
+1997,RI,     Rhode Island,987000
+1997,SC,     South Carolina,3760000
+1997,SD,     South Dakota,738000
+1997,TN,     Tennessee,5368000
+1997,TX,     Texas,19439000
+1997,UT,     Utah,2059000
+1997,VA,     Virginia,6734000
+1997,VT,     Vermont,589000
+1997,WA,     Washington,5610000
+1997,WI,     Wisconsin,5170000
+1997,WV,     West Virginia,1816000
+1997,WY,     Wyoming,480000
+1998,,,270248003
+1998,AK,     Alaska,614000
+1998,AL,     Alabama,4352000
+1998,AR,     Arkansas,2538000
+1998,AZ,     Arizona,4669000
+1998,CA,     California,32667000
+1998,CO,     Colorado,3971000
+1998,CT,     Connecticut,3274000
+1998,DC,     District of Columbia,523000
+1998,DE,     Delaware,744000
+1998,FL,     Florida,14916000
+1998,GA,     Georgia,7642000
+1998,HI,     Hawaii,1193000
+1998,IA,     Iowa,2862000
+1998,ID,     Idaho,1229000
+1998,IL,     Illinois,12045000
+1998,IN,     Indiana,5899000
+1998,KS,     Kansas,2629000
+1998,KY,     Kentucky,3936000
+1998,LA,     Louisiana,4369000
+1998,MA,     Massachusetts,6147000
+1998,MD,     Maryland,5135000
+1998,ME,     Maine,1244000
+1998,MI,     Michigan,9817000
+1998,MN,     Minnesota,4725000
+1998,MO,     Missouri,5439000
+1998,MS,     Mississippi,2752000
+1998,MT,     Montana,880000
+1998,NC,     North Carolina,7546000
+1998,ND,     North Dakota,638000
+1998,NE,     Nebraska,1663000
+1998,NH,     New Hampshire,1185000
+1998,NJ,     New Jersey,8115000
+1998,NM,     New Mexico,1737000
+1998,NV,     Nevada,1747000
+1998,NY,     New York,18175000
+1998,OH,     Ohio,11209000
+1998,OK,     Oklahoma,3347000
+1998,OR,     Oregon,3282000
+1998,PA,     Pennsylvania,12001000
+1998,RI,     Rhode Island,988000
+1998,SC,     South Carolina,3836000
+1998,SD,     South Dakota,738000
+1998,TN,     Tennessee,5431000
+1998,TX,     Texas,19760000
+1998,UT,     Utah,2100000
+1998,VA,     Virginia,6791000
+1998,VT,     Vermont,591000
+1998,WA,     Washington,5689000
+1998,WI,     Wisconsin,5224000
+1998,WV,     West Virginia,1811000
+1998,WY,     Wyoming,481000
+1999,,,272690813
+1999,AK,     Alaska,619500
+1999,AL,     Alabama,4369862
+1999,AR,     Arkansas,2551373
+1999,AZ,     Arizona,4778332
+1999,CA,     California,33145121
+1999,CO,     Colorado,4056133
+1999,CT,     Connecticut,3282031
+1999,DC,     District of Columbia,519000
+1999,DE,     Delaware,753538
+1999,FL,     Florida,15111244
+1999,GA,     Georgia,7788240
+1999,HI,     Hawaii,1185497
+1999,IA,     Iowa,2869413
+1999,ID,     Idaho,1251700
+1999,IL,     Illinois,12128370
+1999,IN,     Indiana,5942901
+1999,KS,     Kansas,2654052
+1999,KY,     Kentucky,3960825
+1999,LA,     Louisiana,4372035
+1999,MA,     Massachusetts,6175169
+1999,MD,     Maryland,5171634
+1999,ME,     Maine,1253040
+1999,MI,     Michigan,9863775
+1999,MN,     Minnesota,4775508
+1999,MO,     Missouri,5468338
+1999,MS,     Mississippi,2768619
+1999,MT,     Montana,882779
+1999,NC,     North Carolina,7650789
+1999,ND,     North Dakota,633666
+1999,NE,     Nebraska,1666028
+1999,NH,     New Hampshire,1201134
+1999,NJ,     New Jersey,8143412
+1999,NM,     New Mexico,1739844
+1999,NV,     Nevada,1809253
+1999,NY,     New York,18196601
+1999,OH,     Ohio,11256654
+1999,OK,     Oklahoma,3358044
+1999,OR,     Oregon,3316154
+1999,PA,     Pennsylvania,11994016
+1999,RI,     Rhode Island,990819
+1999,SC,     South Carolina,3885736
+1999,SD,     South Dakota,733133
+1999,TN,     Tennessee,5483535
+1999,TX,     Texas,20044141
+1999,UT,     Utah,2129836
+1999,VA,     Virginia,6872912
+1999,VT,     Vermont,593740
+1999,WA,     Washington,5756361
+1999,WI,     Wisconsin,5250446
+1999,WV,     West Virginia,1806928
+1999,WY,     Wyoming,479602
+2000,,,281421906
+2000,AK,     Alaska,626932
+2000,AL,     Alabama,4447100
+2000,AR,     Arkansas,2673400
+2000,AZ,     Arizona,5130632
+2000,CA,     California,33871648
+2000,CO,     Colorado,4301261
+2000,CT,     Connecticut,3405565
+2000,DC,     District of Columbia,572059
+2000,DE,     Delaware,783600
+2000,FL,     Florida,15982378
+2000,GA,     Georgia,8186453
+2000,HI,     Hawaii,1211537
+2000,IA,     Iowa,2926324
+2000,ID,     Idaho,1293953
+2000,IL,     Illinois,12419293
+2000,IN,     Indiana,6080485
+2000,KS,     Kansas,2688418
+2000,KY,     Kentucky,4041769
+2000,LA,     Louisiana,4468976
+2000,MA,     Massachusetts,6349097
+2000,MD,     Maryland,5296486
+2000,ME,     Maine,1274923
+2000,MI,     Michigan,9938444
+2000,MN,     Minnesota,4919479
+2000,MO,     Missouri,5595211
+2000,MS,     Mississippi,2844658
+2000,MT,     Montana,902195
+2000,NC,     North Carolina,8049313
+2000,ND,     North Dakota,642200
+2000,NE,     Nebraska,1711263
+2000,NH,     New Hampshire,1235786
+2000,NJ,     New Jersey,8414350
+2000,NM,     New Mexico,1819046
+2000,NV,     Nevada,1998257
+2000,NY,     New York,18976457
+2000,OH,     Ohio,11353140
+2000,OK,     Oklahoma,3450654
+2000,OR,     Oregon,3421399
+2000,PA,     Pennsylvania,12281054
+2000,RI,     Rhode Island,1048319
+2000,SC,     South Carolina,4012012
+2000,SD,     South Dakota,754844
+2000,TN,     Tennessee,5689283
+2000,TX,     Texas,20851820
+2000,UT,     Utah,2233169
+2000,VA,     Virginia,7078515
+2000,VT,     Vermont,608827
+2000,WA,     Washington,5894121
+2000,WI,     Wisconsin,5363675
+2000,WV,     West Virginia,1808344
+2000,WY,     Wyoming,493782
+2001,,,285317559
+2001,AK,     Alaska,633630
+2001,AL,     Alabama,4468912
+2001,AR,     Arkansas,2694698
+2001,AZ,     Arizona,5306966
+2001,CA,     California,34600463
+2001,CO,     Colorado,4430989
+2001,CT,     Connecticut,3434602
+2001,DC,     District of Columbia,573822
+2001,DE,     Delaware,796599
+2001,FL,     Florida,16373330
+2001,GA,     Georgia,8405677
+2001,HI,     Hawaii,1227024
+2001,IA,     Iowa,2931967
+2001,ID,     Idaho,1320585
+2001,IL,     Illinois,12520227
+2001,IN,     Indiana,6126743
+2001,KS,     Kansas,2702125
+2001,KY,     Kentucky,4068816
+2001,LA,     Louisiana,4470368
+2001,MA,     Massachusetts,6401164
+2001,MD,     Maryland,5386079
+2001,ME,     Maine,1284470
+2001,MI,     Michigan,10006266
+2001,MN,     Minnesota,4984535
+2001,MO,     Missouri,5637309
+2001,MS,     Mississippi,2859733
+2001,MT,     Montana,905382
+2001,NC,     North Carolina,8206105
+2001,ND,     North Dakota,636550
+2001,NE,     Nebraska,1720039
+2001,NH,     New Hampshire,1259359
+2001,NJ,     New Jersey,8511116
+2001,NM,     New Mexico,1830935
+2001,NV,     Nevada,2097722
+2001,NY,     New York,19084350
+2001,OH,     Ohio,11389785
+2001,OK,     Oklahoma,3469577
+2001,OR,     Oregon,3473441
+2001,PA,     Pennsylvania,12303104
+2001,RI,     Rhode Island,1059659
+2001,SC,     South Carolina,4062125
+2001,SD,     South Dakota,758324
+2001,TN,     Tennessee,5749398
+2001,TX,     Texas,21370983
+2001,UT,     Utah,2278712
+2001,VA,     Virginia,7196750
+2001,VT,     Vermont,612978
+2001,WA,     Washington,5993390
+2001,WI,     Wisconsin,5405947
+2001,WV,     West Virginia,1800975
+2001,WY,     Wyoming,493754
+2002,,,287973924
+2002,AK,     Alaska,641482
+2002,AL,     Alabama,4478896
+2002,AR,     Arkansas,2706268
+2002,AZ,     Arizona,5441125
+2002,CA,     California,35001986
+2002,CO,     Colorado,4501051
+2002,CT,     Connecticut,3458587
+2002,DC,     District of Columbia,569157
+2002,DE,     Delaware,805945
+2002,FL,     Florida,16691701
+2002,GA,     Georgia,8544005
+2002,HI,     Hawaii,1240663
+2002,IA,     Iowa,2935840
+2002,ID,     Idaho,1343124
+2002,IL,     Illinois,12586447
+2002,IN,     Indiana,6156913
+2002,KS,     Kansas,2711769
+2002,KY,     Kentucky,4089822
+2002,LA,     Louisiana,4476192
+2002,MA,     Massachusetts,6421800
+2002,MD,     Maryland,5450525
+2002,ME,     Maine,1294894
+2002,MI,     Michigan,10043221
+2002,MN,     Minnesota,5024791
+2002,MO,     Missouri,5669544
+2002,MS,     Mississippi,2866733
+2002,MT,     Montana,910372
+2002,NC,     North Carolina,8305820
+2002,ND,     North Dakota,633911
+2002,NE,     Nebraska,1727564
+2002,NH,     New Hampshire,1274405
+2002,NJ,     New Jersey,8575252
+2002,NM,     New Mexico,1852044
+2002,NV,     Nevada,2167455
+2002,NY,     New York,19134293
+2002,OH,     Ohio,11408699
+2002,OK,     Oklahoma,3489700
+2002,OR,     Oregon,3520355
+2002,PA,     Pennsylvania,12328827
+2002,RI,     Rhode Island,1068326
+2002,SC,     South Carolina,4103770
+2002,SD,     South Dakota,760437
+2002,TN,     Tennessee,5789796
+2002,TX,     Texas,21736925
+2002,UT,     Utah,2318789
+2002,VA,     Virginia,7287829
+2002,VT,     Vermont,616408
+2002,WA,     Washington,6067060
+2002,WI,     Wisconsin,5439692
+2002,WV,     West Virginia,1804884
+2002,WY,     Wyoming,498830
+2003,,,290788976
+2003,AK,     Alaska,648280
+2003,AL,     Alabama,4503726
+2003,AR,     Arkansas,2727774
+2003,AZ,     Arizona,5579222
+2003,CA,     California,35462712
+2003,CO,     Colorado,4547633
+2003,CT,     Connecticut,3486960
+2003,DC,     District of Columbia,557620
+2003,DE,     Delaware,818166
+2003,FL,     Florida,16999181
+2003,GA,     Georgia,8676460
+2003,HI,     Hawaii,1248755
+2003,IA,     Iowa,2941976
+2003,ID,     Idaho,1367034
+2003,IL,     Illinois,12649087
+2003,IN,     Indiana,6199571
+2003,KS,     Kansas,2724786
+2003,KY,     Kentucky,4118189
+2003,LA,     Louisiana,4493665
+2003,MA,     Massachusetts,6420357
+2003,MD,     Maryland,5512310
+2003,ME,     Maine,1309205
+2003,MI,     Michigan,10082364
+2003,MN,     Minnesota,5064172
+2003,MO,     Missouri,5719204
+2003,MS,     Mississippi,2882594
+2003,MT,     Montana,918157
+2003,NC,     North Carolina,8421190
+2003,ND,     North Dakota,633400
+2003,NE,     Nebraska,1737475
+2003,NH,     New Hampshire,1288705
+2003,NJ,     New Jersey,8642412
+2003,NM,     New Mexico,1878562
+2003,NV,     Nevada,2242207
+2003,NY,     New York,19212425
+2003,OH,     Ohio,11437680
+2003,OK,     Oklahoma,3506469
+2003,OR,     Oregon,3564330
+2003,PA,     Pennsylvania,12370761
+2003,RI,     Rhode Island,1076084
+2003,SC,     South Carolina,4148744
+2003,SD,     South Dakota,764905
+2003,TN,     Tennessee,5845208
+2003,TX,     Texas,22103374
+2003,UT,     Utah,2352119
+2003,VA,     Virginia,7365284
+2003,VT,     Vermont,619343
+2003,WA,     Washington,6131298
+2003,WI,     Wisconsin,5474290
+2003,WV,     West Virginia,1811440
+2003,WY,     Wyoming,502111
+2004,,,293656842
+2004,AK,     Alaska,657755
+2004,AL,     Alabama,4525375
+2004,AR,     Arkansas,2750000
+2004,AZ,     Arizona,5739879
+2004,CA,     California,35842038
+2004,CO,     Colorado,4601821
+2004,CT,     Connecticut,3498966
+2004,DC,     District of Columbia,554239
+2004,DE,     Delaware,830069
+2004,FL,     Florida,17385430
+2004,GA,     Georgia,8918129
+2004,HI,     Hawaii,1262124
+2004,IA,     Iowa,2952904
+2004,ID,     Idaho,1395140
+2004,IL,     Illinois,12712016
+2004,IN,     Indiana,6226537
+2004,KS,     Kansas,2733697
+2004,KY,     Kentucky,4141835
+2004,LA,     Louisiana,4506685
+2004,MA,     Massachusetts,6407382
+2004,MD,     Maryland,5561332
+2004,ME,     Maine,1314985
+2004,MI,     Michigan,10104206
+2004,MN,     Minnesota,5096546
+2004,MO,     Missouri,5759532
+2004,MS,     Mississippi,2900768
+2004,MT,     Montana,926920
+2004,NC,     North Carolina,8540468
+2004,ND,     North Dakota,636308
+2004,NE,     Nebraska,1747704
+2004,NH,     New Hampshire,1299169
+2004,NJ,     New Jersey,8685166
+2004,NM,     New Mexico,1903006
+2004,NV,     Nevada,2332898
+2004,NY,     New York,19280727
+2004,OH,     Ohio,11450143
+2004,OK,     Oklahoma,3523546
+2004,OR,     Oregon,3591363
+2004,PA,     Pennsylvania,12394471
+2004,RI,     Rhode Island,1079916
+2004,SC,     South Carolina,4197892
+2004,SD,     South Dakota,770621
+2004,TN,     Tennessee,5893298
+2004,TX,     Texas,22471549
+2004,UT,     Utah,2420708
+2004,VA,     Virginia,7481332
+2004,VT,     Vermont,621233
+2004,WA,     Washington,6207046
+2004,WI,     Wisconsin,5503533
+2004,WV,     West Virginia,1812548
+2004,WY,     Wyoming,505887
+2005,,,296507061
+2005,AK,     Alaska,663253
+2005,AL,     Alabama,4548327
+2005,AR,     Arkansas,2775708
+2005,AZ,     Arizona,5953007
+2005,CA,     California,36154147
+2005,CO,     Colorado,4663295
+2005,CT,     Connecticut,3500701
+2005,DC,     District of Columbia,582049
+2005,DE,     Delaware,841741
+2005,FL,     Florida,17768191
+2005,GA,     Georgia,9132553
+2005,HI,     Hawaii,1273278
+2005,IA,     Iowa,2965524
+2005,ID,     Idaho,1429367
+2005,IL,     Illinois,12765427
+2005,IN,     Indiana,6266019
+2005,KS,     Kansas,2748172
+2005,KY,     Kentucky,4172608
+2005,LA,     Louisiana,4507331
+2005,MA,     Massachusetts,6433367
+2005,MD,     Maryland,5589599
+2005,ME,     Maine,1318220
+2005,MI,     Michigan,10100833
+2005,MN,     Minnesota,5126739
+2005,MO,     Missouri,5797703
+2005,MS,     Mississippi,2908496
+2005,MT,     Montana,934737
+2005,NC,     North Carolina,8672459
+2005,ND,     North Dakota,634605
+2005,NE,     Nebraska,1758163
+2005,NH,     New Hampshire,1306819
+2005,NJ,     New Jersey,8703150
+2005,NM,     New Mexico,1925985
+2005,NV,     Nevada,2412301
+2005,NY,     New York,19315721
+2005,OH,     Ohio,11470685
+2005,OK,     Oklahoma,3543442
+2005,OR,     Oregon,3638871
+2005,PA,     Pennsylvania,12405348
+2005,RI,     Rhode Island,1073579
+2005,SC,     South Carolina,4246933
+2005,SD,     South Dakota,774883
+2005,TN,     Tennessee,5955745
+2005,TX,     Texas,22928508
+2005,UT,     Utah,2490334
+2005,VA,     Virginia,7564327
+2005,VT,     Vermont,622387
+2005,WA,     Washington,6291899
+2005,WI,     Wisconsin,5527644
+2005,WV,     West Virginia,1814083
+2005,WY,     Wyoming,508798
+2006,,,299398484
+2006,AK,     Alaska,670053
+2006,AL,     Alabama,4599030
+2006,AR,     Arkansas,2810872
+2006,AZ,     Arizona,6166318
+2006,CA,     California,36457549
+2006,CO,     Colorado,4753377
+2006,CT,     Connecticut,3504809
+2006,DC,     District of Columbia,581530
+2006,DE,     Delaware,853476
+2006,FL,     Florida,18089888
+2006,GA,     Georgia,9363941
+2006,HI,     Hawaii,1285498
+2006,IA,     Iowa,2982085
+2006,ID,     Idaho,1466465
+2006,IL,     Illinois,12831970
+2006,IN,     Indiana,6313520
+2006,KS,     Kansas,2764075
+2006,KY,     Kentucky,4206074
+2006,LA,     Louisiana,4287768
+2006,MA,     Massachusetts,6437193
+2006,MD,     Maryland,5615727
+2006,ME,     Maine,1321574
+2006,MI,     Michigan,10095643
+2006,MN,     Minnesota,5167101
+2006,MO,     Missouri,5842713
+2006,MS,     Mississippi,2910540
+2006,MT,     Montana,944632
+2006,NC,     North Carolina,8856505
+2006,ND,     North Dakota,635867
+2006,NE,     Nebraska,1768331
+2006,NH,     New Hampshire,1314895
+2006,NJ,     New Jersey,8724560
+2006,NM,     New Mexico,1954599
+2006,NV,     Nevada,2495529
+2006,NY,     New York,19306183
+2006,OH,     Ohio,11478006
+2006,OK,     Oklahoma,3579212
+2006,OR,     Oregon,3700758
+2006,PA,     Pennsylvania,12440621
+2006,RI,     Rhode Island,1067610
+2006,SC,     South Carolina,4321249
+2006,SD,     South Dakota,781919
+2006,TN,     Tennessee,6038803
+2006,TX,     Texas,23507783
+2006,UT,     Utah,2550063
+2006,VA,     Virginia,7642884
+2006,VT,     Vermont,623908
+2006,WA,     Washington,6395798
+2006,WI,     Wisconsin,5556506
+2006,WV,     West Virginia,1818470
+2006,WY,     Wyoming,515004
+2007,,,301621157
+2007,AK,     Alaska,683478
+2007,AL,     Alabama,4627851
+2007,AR,     Arkansas,2834797
+2007,AZ,     Arizona,6338755
+2007,CA,     California,36553215
+2007,CO,     Colorado,4861515
+2007,CT,     Connecticut,3502309
+2007,DC,     District of Columbia,588292
+2007,DE,     Delaware,864764
+2007,FL,     Florida,18251243
+2007,GA,     Georgia,9544750
+2007,HI,     Hawaii,1283388
+2007,IA,     Iowa,2988046
+2007,ID,     Idaho,1499402
+2007,IL,     Illinois,12852548
+2007,IN,     Indiana,6345289
+2007,KS,     Kansas,2775997
+2007,KY,     Kentucky,4241474
+2007,LA,     Louisiana,4293204
+2007,MA,     Massachusetts,6449755
+2007,MD,     Maryland,5618344
+2007,ME,     Maine,1317207
+2007,MI,     Michigan,10071822
+2007,MN,     Minnesota,5197621
+2007,MO,     Missouri,5878415
+2007,MS,     Mississippi,2918785
+2007,MT,     Montana,957861
+2007,NC,     North Carolina,9061032
+2007,ND,     North Dakota,639715
+2007,NE,     Nebraska,1774571
+2007,NH,     New Hampshire,1315828
+2007,NJ,     New Jersey,8685920
+2007,NM,     New Mexico,1969915
+2007,NV,     Nevada,2565382
+2007,NY,     New York,19297729
+2007,OH,     Ohio,11466917
+2007,OK,     Oklahoma,3617316
+2007,OR,     Oregon,3747455
+2007,PA,     Pennsylvania,12432792
+2007,RI,     Rhode Island,1057832
+2007,SC,     South Carolina,4407709
+2007,SD,     South Dakota,796214
+2007,TN,     Tennessee,6156719
+2007,TX,     Texas,23904380
+2007,UT,     Utah,2645330
+2007,VA,     Virginia,7712091
+2007,VT,     Vermont,621254
+2007,WA,     Washington,6468424
+2007,WI,     Wisconsin,5601640
+2007,WV,     West Virginia,1812035
+2007,WY,     Wyoming,522830
+2008,,,304059724
+2008,AK,     Alaska,686293
+2008,AL,     Alabama,4661900
+2008,AR,     Arkansas,2855390
+2008,AZ,     Arizona,6500180
+2008,CA,     California,36756666
+2008,CO,     Colorado,4939456
+2008,CT,     Connecticut,3501252
+2008,DC,     District of Columbia,591833
+2008,DE,     Delaware,873092
+2008,FL,     Florida,18328340
+2008,GA,     Georgia,9685744
+2008,HI,     Hawaii,1288198
+2008,IA,     Iowa,3002555
+2008,ID,     Idaho,1523816
+2008,IL,     Illinois,12901563
+2008,IN,     Indiana,6376792
+2008,KS,     Kansas,2802134
+2008,KY,     Kentucky,4269245
+2008,LA,     Louisiana,4410796
+2008,MA,     Massachusetts,6497967
+2008,MD,     Maryland,5633597
+2008,ME,     Maine,1316456
+2008,MI,     Michigan,10003422
+2008,MN,     Minnesota,5220393
+2008,MO,     Missouri,5911605
+2008,MS,     Mississippi,2938618
+2008,MT,     Montana,967440
+2008,NC,     North Carolina,9222414
+2008,ND,     North Dakota,641481
+2008,NE,     Nebraska,1783432
+2008,NH,     New Hampshire,1315809
+2008,NJ,     New Jersey,8682661
+2008,NM,     New Mexico,1984356
+2008,NV,     Nevada,2600167
+2008,NY,     New York,19490297
+2008,OH,     Ohio,11485910
+2008,OK,     Oklahoma,3642361
+2008,OR,     Oregon,3790060
+2008,PA,     Pennsylvania,12448279
+2008,RI,     Rhode Island,1050788
+2008,SC,     South Carolina,4479800
+2008,SD,     South Dakota,804194
+2008,TN,     Tennessee,6214888
+2008,TX,     Texas,24326974
+2008,UT,     Utah,2736424
+2008,VA,     Virginia,7769089
+2008,VT,     Vermont,621270
+2008,WA,     Washington,6549224
+2008,WI,     Wisconsin,5627967
+2008,WV,     West Virginia,1814468
+2008,WY,     Wyoming,532668
+2009,,,307006550
+2009,AK,     Alaska,698473
+2009,AL,     Alabama,4708708
+2009,AR,     Arkansas,2889450
+2009,AZ,     Arizona,6595778
+2009,CA,     California,36961664
+2009,CO,     Colorado,5024748
+2009,CT,     Connecticut,3518288
+2009,DC,     District of Columbia,599657
+2009,DE,     Delaware,885122
+2009,FL,     Florida,18537969
+2009,GA,     Georgia,9829211
+2009,HI,     Hawaii,1295178
+2009,IA,     Iowa,3007856
+2009,ID,     Idaho,1545801
+2009,IL,     Illinois,12910409
+2009,IN,     Indiana,6423113
+2009,KS,     Kansas,2818747
+2009,KY,     Kentucky,4314113
+2009,LA,     Louisiana,4492076
+2009,MA,     Massachusetts,6593587
+2009,MD,     Maryland,5699478
+2009,ME,     Maine,1318301
+2009,MI,     Michigan,9969727
+2009,MN,     Minnesota,5266214
+2009,MO,     Missouri,5987580
+2009,MS,     Mississippi,2951996
+2009,MT,     Montana,974989
+2009,NC,     North Carolina,9380884
+2009,ND,     North Dakota,646844
+2009,NE,     Nebraska,1796619
+2009,NH,     New Hampshire,1324575
+2009,NJ,     New Jersey,8707739
+2009,NM,     New Mexico,2009671
+2009,NV,     Nevada,2643085
+2009,NY,     New York,19541453
+2009,OH,     Ohio,11542645
+2009,OK,     Oklahoma,3687050
+2009,OR,     Oregon,3825657
+2009,PA,     Pennsylvania,12604767
+2009,RI,     Rhode Island,1053209
+2009,SC,     South Carolina,4561242
+2009,SD,     South Dakota,812383
+2009,TN,     Tennessee,6296254
+2009,TX,     Texas,24782302
+2009,UT,     Utah,2784572
+2009,VA,     Virginia,7882590
+2009,VT,     Vermont,621760
+2009,WA,     Washington,6664195
+2009,WI,     Wisconsin,5654774
+2009,WV,     West Virginia,1819777
+2009,WY,     Wyoming,544270
+2010,,,309330219
+2010,AK,     Alaska,714146
+2010,AL,     Alabama,4785401
+2010,AR,     Arkansas,2921588
+2010,AZ,     Arizona,6413158
+2010,CA,     California,37338198
+2010,CO,     Colorado,5047692
+2010,CT,     Connecticut,3575498
+2010,DC,     District of Columbia,604912
+2010,DE,     Delaware,899792
+2010,FL,     Florida,18838613
+2010,GA,     Georgia,9712157
+2010,HI,     Hawaii,1363359
+2010,IA,     Iowa,3050202
+2010,ID,     Idaho,1571102
+2010,IL,     Illinois,12841980
+2010,IN,     Indiana,6490622
+2010,KS,     Kansas,2859143
+2010,KY,     Kentucky,4347223
+2010,LA,     Louisiana,4545343
+2010,MA,     Massachusetts,6555466
+2010,MD,     Maryland,5785681
+2010,ME,     Maine,1327379
+2010,MI,     Michigan,9877143
+2010,MN,     Minnesota,5310658
+2010,MO,     Missouri,5995715
+2010,MS,     Mississippi,2970072
+2010,MT,     Montana,990958
+2010,NC,     North Carolina,9560234
+2010,ND,     North Dakota,674629
+2010,NE,     Nebraska,1830141
+2010,NH,     New Hampshire,1316807
+2010,NJ,     New Jersey,8799593
+2010,NM,     New Mexico,2065913
+2010,NV,     Nevada,2704283
+2010,NY,     New York,19395206
+2010,OH,     Ohio,11537968
+2010,OK,     Oklahoma,3760184
+2010,OR,     Oregon,3838332
+2010,PA,     Pennsylvania,12717722
+2010,RI,     Rhode Island,1052528
+2010,SC,     South Carolina,4637106
+2010,SD,     South Dakota,816598
+2010,TN,     Tennessee,6357436
+2010,TX,     Texas,25253466
+2010,UT,     Utah,2775479
+2010,VA,     Virginia,8023953
+2010,VT,     Vermont,625909
+2010,WA,     Washington,6742950
+2010,WI,     Wisconsin,5691659
+2010,WV,     West Virginia,1854368
+2010,WY,     Wyoming,564554
+2011,,,311587816
+2011,AK,     Alaska,723860
+2011,AL,     Alabama,4803689
+2011,AR,     Arkansas,2938582
+2011,AZ,     Arizona,6467315
+2011,CA,     California,37683933
+2011,CO,     Colorado,5116302
+2011,CT,     Connecticut,3586717
+2011,DC,     District of Columbia,619020
+2011,DE,     Delaware,908137
+2011,FL,     Florida,19082262
+2011,GA,     Georgia,9812460
+2011,HI,     Hawaii,1378129
+2011,IA,     Iowa,3064097
+2011,ID,     Idaho,1583744
+2011,IL,     Illinois,12859752
+2011,IN,     Indiana,6516353
+2011,KS,     Kansas,2870386
+2011,KY,     Kentucky,4366814
+2011,LA,     Louisiana,4574766
+2011,MA,     Massachusetts,6607003
+2011,MD,     Maryland,5839572
+2011,ME,     Maine,1328544
+2011,MI,     Michigan,9876801
+2011,MN,     Minnesota,5347299
+2011,MO,     Missouri,6008984
+2011,MS,     Mississippi,2977457
+2011,MT,     Montana,997667
+2011,NC,     North Carolina,9651103
+2011,ND,     North Dakota,684740
+2011,NE,     Nebraska,1842234
+2011,NH,     New Hampshire,1317807
+2011,NJ,     New Jersey,8834773
+2011,NM,     New Mexico,2078674
+2011,NV,     Nevada,2720028
+2011,NY,     New York,19501616
+2011,OH,     Ohio,11541007
+2011,OK,     Oklahoma,3784163
+2011,OR,     Oregon,3868229
+2011,PA,     Pennsylvania,12743948
+2011,RI,     Rhode Island,1050646
+2011,SC,     South Carolina,4673348
+2011,SD,     South Dakota,823593
+2011,TN,     Tennessee,6399787
+2011,TX,     Texas,25631778
+2011,UT,     Utah,2814347
+2011,VA,     Virginia,8104384
+2011,VT,     Vermont,626592
+2011,WA,     Washington,6823267
+2011,WI,     Wisconsin,5709843
+2011,WV,     West Virginia,1854908
+2011,WY,     Wyoming,567356
+2012,,,313873685
+2012,AK,     Alaska,730307
+2012,AL,     Alabama,4817528
+2012,AR,     Arkansas,2949828
+2012,AZ,     Arizona,6551149
+2012,CA,     California,37999878
+2012,CO,     Colorado,5189458
+2012,CT,     Connecticut,3591765
+2012,DC,     District of Columbia,633427
+2012,DE,     Delaware,917053
+2012,FL,     Florida,19320749
+2012,GA,     Georgia,9915646
+2012,HI,     Hawaii,1390090
+2012,IA,     Iowa,3075039
+2012,ID,     Idaho,1595590
+2012,IL,     Illinois,12868192
+2012,IN,     Indiana,6537782
+2012,KS,     Kansas,2885398
+2012,KY,     Kentucky,4379730
+2012,LA,     Louisiana,4602134
+2012,MA,     Massachusetts,6645303
+2012,MD,     Maryland,5884868
+2012,ME,     Maine,1328501
+2012,MI,     Michigan,9882519
+2012,MN,     Minnesota,5379646
+2012,MO,     Missouri,6024522
+2012,MS,     Mississippi,2986450
+2012,MT,     Montana,1005494
+2012,NC,     North Carolina,9748364
+2012,ND,     North Dakota,701345
+2012,NE,     Nebraska,1855350
+2012,NH,     New Hampshire,1321617
+2012,NJ,     New Jersey,8867749
+2012,NM,     New Mexico,2083540
+2012,NV,     Nevada,2754354
+2012,NY,     New York,19576125
+2012,OH,     Ohio,11553031
+2012,OK,     Oklahoma,3815780
+2012,OR,     Oregon,3899801
+2012,PA,     Pennsylvania,12764475
+2012,RI,     Rhode Island,1050304
+2012,SC,     South Carolina,4723417
+2012,SD,     South Dakota,834047
+2012,TN,     Tennessee,6454914
+2012,TX,     Texas,26060796
+2012,UT,     Utah,2854871
+2012,VA,     Virginia,8186628
+2012,VT,     Vermont,625953
+2012,WA,     Washington,6895318
+2012,WI,     Wisconsin,5724554
+2012,WV,     West Virginia,1856680
+2012,WY,     Wyoming,576626
+2013,,,316497531
+2013,AK,     Alaska,737259
+2013,AL,     Alabama,4833996
+2013,AR,     Arkansas,2958765
+2013,AZ,     Arizona,6634997
+2013,CA,     California,38431393
+2013,CO,     Colorado,5272086
+2013,CT,     Connecticut,3599341
+2013,DC,     District of Columbia,649111
+2013,DE,     Delaware,925240
+2013,FL,     Florida,19600311
+2013,GA,     Georgia,9994759
+2013,HI,     Hawaii,1408987
+2013,IA,     Iowa,3092341
+2013,ID,     Idaho,1612843
+2013,IL,     Illinois,12890552
+2013,IN,     Indiana,6570713
+2013,KS,     Kansas,2895801
+2013,KY,     Kentucky,4399583
+2013,LA,     Louisiana,4629284
+2013,MA,     Massachusetts,6708874
+2013,MD,     Maryland,5938737
+2013,ME,     Maine,1328702
+2013,MI,     Michigan,9898193
+2013,MN,     Minnesota,5422060
+2013,MO,     Missouri,6044917
+2013,MS,     Mississippi,2992206
+2013,MT,     Montana,1014864
+2013,NC,     North Carolina,9848917
+2013,ND,     North Dakota,723857
+2013,NE,     Nebraska,1868969
+2013,NH,     New Hampshire,1322616
+2013,NJ,     New Jersey,8911502
+2013,NM,     New Mexico,2086895
+2013,NV,     Nevada,2791494
+2013,NY,     New York,19695680
+2013,OH,     Ohio,11572005
+2013,OK,     Oklahoma,3853118
+2013,OR,     Oregon,3928068
+2013,PA,     Pennsylvania,12781296
+2013,RI,     Rhode Island,1053354
+2013,SC,     South Carolina,4771929
+2013,SD,     South Dakota,845510
+2013,TN,     Tennessee,6497269
+2013,TX,     Texas,26505637
+2013,UT,     Utah,2902787
+2013,VA,     Virginia,8270345
+2013,VT,     Vermont,626855
+2013,WA,     Washington,6973742
+2013,WI,     Wisconsin,5742953
+2013,WV,     West Virginia,1853595
+2013,WY,     Wyoming,583223
+2014,,,318907401
+2014,AK,     Alaska,737046
+2014,AL,     Alabama,4846411
+2014,AR,     Arkansas,2966835
+2014,AZ,     Arizona,6728783
+2014,CA,     California,38792291
+2014,CO,     Colorado,5355588
+2014,CT,     Connecticut,3594762
+2014,DC,     District of Columbia,659836
+2014,DE,     Delaware,935968
+2014,FL,     Florida,19905569
+2014,GA,     Georgia,10097132
+2014,HI,     Hawaii,1420257
+2014,IA,     Iowa,3109481
+2014,ID,     Idaho,1634806
+2014,IL,     Illinois,12882189
+2014,IN,     Indiana,6597880
+2014,KS,     Kansas,2902507
+2014,KY,     Kentucky,4412617
+2014,LA,     Louisiana,4648990
+2014,MA,     Massachusetts,6755124
+2014,MD,     Maryland,5975346
+2014,ME,     Maine,1330256
+2014,MI,     Michigan,9916306
+2014,MN,     Minnesota,5457125
+2014,MO,     Missouri,6063827
+2014,MS,     Mississippi,2993443
+2014,MT,     Montana,1023252
+2014,NC,     North Carolina,9940387
+2014,ND,     North Dakota,740040
+2014,NE,     Nebraska,1882980
+2014,NH,     New Hampshire,1327996
+2014,NJ,     New Jersey,8938844
+2014,NM,     New Mexico,2085567
+2014,NV,     Nevada,2838281
+2014,NY,     New York,19748858
+2014,OH,     Ohio,11596998
+2014,OK,     Oklahoma,3879610
+2014,OR,     Oregon,3971202
+2014,PA,     Pennsylvania,12793767
+2014,RI,     Rhode Island,1054907
+2014,SC,     South Carolina,4829160
+2014,SD,     South Dakota,853304
+2014,TN,     Tennessee,6547779
+2014,TX,     Texas,26979078
+2014,UT,     Utah,2944498
+2014,VA,     Virginia,8328098
+2014,VT,     Vermont,626767
+2014,WA,     Washington,7063166
+2014,WI,     Wisconsin,5759432
+2014,WV,     West Virginia,1848751
+2014,WY,     Wyoming,584304
+2015,,,320896618
+2015,AK,     Alaska,737709
+2015,AL,     Alabama,4853875
+2015,AR,     Arkansas,2977853
+2015,AZ,     Arizona,6817565
+2015,CA,     California,38993940
+2015,CO,     Colorado,5448819
+2015,CT,     Connecticut,3584730
+2015,DC,     District of Columbia,670377
+2015,DE,     Delaware,944076
+2015,FL,     Florida,20244914
+2015,GA,     Georgia,10199398
+2015,HI,     Hawaii,1431603
+2015,IA,     Iowa,3121997
+2015,ID,     Idaho,1652828
+2015,IL,     Illinois,12839047
+2015,IN,     Indiana,6612768
+2015,KS,     Kansas,2906721
+2015,KY,     Kentucky,4424611
+2015,LA,     Louisiana,4668960
+2015,MA,     Massachusetts,6784240
+2015,MD,     Maryland,5994983
+2015,ME,     Maine,1329453
+2015,MI,     Michigan,9917715
+2015,MN,     Minnesota,5482435
+2015,MO,     Missouri,6076204
+2015,MS,     Mississippi,2989390
+2015,MT,     Montana,1032073
+2015,NC,     North Carolina,10035186
+2015,ND,     North Dakota,756835
+2015,NE,     Nebraska,1893765
+2015,NH,     New Hampshire,1330111
+2015,NJ,     New Jersey,8935421
+2015,NM,     New Mexico,2080328
+2015,NV,     Nevada,2883758
+2015,NY,     New York,19747183
+2015,OH,     Ohio,11605090
+2015,OK,     Oklahoma,3907414
+2015,OR,     Oregon,4024634
+2015,PA,     Pennsylvania,12791904
+2015,RI,     Rhode Island,1055607
+2015,SC,     South Carolina,4894834
+2015,SD,     South Dakota,857919
+2015,TN,     Tennessee,6595056
+2015,TX,     Texas,27429639
+2015,UT,     Utah,2990632
+2015,VA,     Virginia,8367587
+2015,VT,     Vermont,626088
+2015,WA,     Washington,7160290
+2015,WI,     Wisconsin,5767891
+2015,WV,     West Virginia,1841053
+2015,WY,     Wyoming,586555
+2016,,,323405935
+2016,AK,     Alaska,741522
+2016,AL,     Alabama,4860545
+2016,AR,     Arkansas,2988231
+2016,AZ,     Arizona,6908642
+2016,CA,     California,39296476
+2016,CO,     Colorado,5530105
+2016,CT,     Connecticut,3587685
+2016,DC,     District of Columbia,684336
+2016,DE,     Delaware,952698
+2016,FL,     Florida,20656589
+2016,GA,     Georgia,10313620
+2016,HI,     Hawaii,1428683
+2016,IA,     Iowa,3130869
+2016,ID,     Idaho,1680026
+2016,IL,     Illinois,12835726
+2016,IN,     Indiana,6634007
+2016,KS,     Kansas,2907731
+2016,KY,     Kentucky,4436113
+2016,LA,     Louisiana,4686157
+2016,MA,     Massachusetts,6823721
+2016,MD,     Maryland,6024752
+2016,ME,     Maine,1330232
+2016,MI,     Michigan,9933445
+2016,MN,     Minnesota,5525050
+2016,MO,     Missouri,6091176
+2016,MS,     Mississippi,2985415
+2016,MT,     Montana,1038656
+2016,NC,     North Carolina,10156689
+2016,ND,     North Dakota,755548
+2016,NE,     Nebraska,1907603
+2016,NH,     New Hampshire,1335015
+2016,NJ,     New Jersey,8978416
+2016,NM,     New Mexico,2085432
+2016,NV,     Nevada,2939254
+2016,NY,     New York,19836286
+2016,OH,     Ohio,11622554
+2016,OK,     Oklahoma,3921207
+2016,OR,     Oregon,4085989
+2016,PA,     Pennsylvania,12787085
+2016,RI,     Rhode Island,1057566
+2016,SC,     South Carolina,4959822
+2016,SD,     South Dakota,861542
+2016,TN,     Tennessee,6649404
+2016,TX,     Texas,27904862
+2016,UT,     Utah,3044321
+2016,VA,     Virginia,8414380
+2016,VT,     Vermont,623354
+2016,WA,     Washington,7280934
+2016,WI,     Wisconsin,5772917
+2016,WV,     West Virginia,1828637
+2016,WY,     Wyoming,584910
+2017,,,
+2017,AK,     Alaska,739786
+2017,AL,     Alabama,4875120
+2017,AR,     Arkansas,3002997
+2017,AZ,     Arizona,7048876
+2017,CA,     California,39399349
+2017,CO,     Colorado,5615902
+2017,CT,     Connecticut,3573880
+2017,DC,     District of Columbia,695691
+2017,DE,     Delaware,957078
+2017,FL,     Florida,20976812
+2017,GA,     Georgia,10413055
+2017,HI,     Hawaii,1424203
+2017,IA,     Iowa,3143637
+2017,ID,     Idaho,1718904
+2017,IL,     Illinois,12786196
+2017,IN,     Indiana,6660082
+2017,KS,     Kansas,2910689
+2017,KY,     Kentucky,4453874
+2017,LA,     Louisiana,4670818
+2017,MA,     Massachusetts,6863246
+2017,MD,     Maryland,6024891
+2017,ME,     Maine,1335063
+2017,MI,     Michigan,9976447
+2017,MN,     Minnesota,5568155
+2017,MO,     Missouri,6108612
+2017,MS,     Mississippi,2989663
+2017,MT,     Montana,1053090
+2017,NC,     North Carolina,10270800
+2017,ND,     North Dakota,755176
+2017,NE,     Nebraska,1917575
+2017,NH,     New Hampshire,1349767
+2017,NJ,     New Jersey,8888543
+2017,NM,     New Mexico,2093395
+2017,NV,     Nevada,2972405
+2017,NY,     New York,19590719
+2017,OH,     Ohio,11664129
+2017,OK,     Oklahoma,3932640
+2017,OR,     Oregon,4146592
+2017,PA,     Pennsylvania,12790447
+2017,RI,     Rhode Island,1056486
+2017,SC,     South Carolina,5021219
+2017,SD,     South Dakota,873286
+2017,TN,     Tennessee,6708794
+2017,TX,     Texas,28322717
+2017,UT,     Utah,3103118
+2017,VA,     Virginia,8465207
+2017,VT,     Vermont,624525
+2017,WA,     Washington,7425432
+2017,WI,     Wisconsin,5792051
+2017,WV,     West Virginia,1817048
+2017,WY,     Wyoming,578934
+2018,,,
+2018,AK,     Alaska,735139
+2018,AL,     Alabama,4887681
+2018,AR,     Arkansas,3009733
+2018,AZ,     Arizona,7158024
+2018,CA,     California,39461588
+2018,CO,     Colorado,5691287
+2018,CT,     Connecticut,3571520
+2018,DC,     District of Columbia,701547
+2018,DE,     Delaware,965479
+2018,FL,     Florida,21244317
+2018,GA,     Georgia,10511131
+2018,HI,     Hawaii,1420593
+2018,IA,     Iowa,3148618
+2018,ID,     Idaho,1750536
+2018,IL,     Illinois,12723071
+2018,IN,     Indiana,6695497
+2018,KS,     Kansas,2911359
+2018,KY,     Kentucky,4461153
+2018,LA,     Louisiana,4659690
+2018,MA,     Massachusetts,6882635
+2018,MD,     Maryland,6035802
+2018,ME,     Maine,1339057
+2018,MI,     Michigan,9984072
+2018,MN,     Minnesota,5606249
+2018,MO,     Missouri,6121623
+2018,MS,     Mississippi,2981020
+2018,MT,     Montana,1060665
+2018,NC,     North Carolina,10381615
+2018,ND,     North Dakota,758080
+2018,NE,     Nebraska,1925614
+2018,NH,     New Hampshire,1353465
+2018,NJ,     New Jersey,8886025
+2018,NM,     New Mexico,2092741
+2018,NV,     Nevada,3027341
+2018,NY,     New York,19530351
+2018,OH,     Ohio,11676341
+2018,OK,     Oklahoma,3940235
+2018,OR,     Oregon,4181886
+2018,PA,     Pennsylvania,12800922
+2018,RI,     Rhode Island,1058287
+2018,SC,     South Carolina,5084156
+2018,SD,     South Dakota,878698
+2018,TN,     Tennessee,6771631
+2018,TX,     Texas,28628666
+2018,UT,     Utah,3153550
+2018,VA,     Virginia,8501286
+2018,VT,     Vermont,624358
+2018,WA,     Washington,7523869
+2018,WI,     Wisconsin,5807406
+2018,WV,     West Virginia,1804291
+2018,WY,     Wyoming,577601
+2019,,,
+2019,AK,     Alaska,733603
+2019,AL,     Alabama,4907965
+2019,AR,     Arkansas,3020985
+2019,AZ,     Arizona,7291843
+2019,CA,     California,39437610
+2019,CO,     Colorado,5758486
+2019,CT,     Connecticut,3566022
+2019,DC,     District of Columbia,708253
+2019,DE,     Delaware,976668
+2019,FL,     Florida,21492056
+2019,GA,     Georgia,10628020
+2019,HI,     Hawaii,1415615
+2019,IA,     Iowa,3159596
+2019,ID,     Idaho,1789060
+2019,IL,     Illinois,12667017
+2019,IN,     Indiana,6731010
+2019,KS,     Kansas,2912635
+2019,KY,     Kentucky,4472345
+2019,LA,     Louisiana,4658285
+2019,MA,     Massachusetts,6894883
+2019,MD,     Maryland,6054954
+2019,ME,     Maine,1345770
+2019,MI,     Michigan,9984795
+2019,MN,     Minnesota,5640053
+2019,MO,     Missouri,6140475
+2019,MS,     Mississippi,2978227
+2019,MT,     Montana,1070123
+2019,NC,     North Carolina,10501384
+2019,ND,     North Dakota,763724
+2019,NE,     Nebraska,1932571
+2019,NH,     New Hampshire,1360783
+2019,NJ,     New Jersey,8891258
+2019,NM,     New Mexico,2099634
+2019,NV,     Nevada,3090771
+2019,NY,     New York,19463131
+2019,OH,     Ohio,11696507
+2019,OK,     Oklahoma,3960676
+2019,OR,     Oregon,4216116
+2019,PA,     Pennsylvania,12798883
+2019,RI,     Rhode Island,1058158
+2019,SC,     South Carolina,5157702
+2019,SD,     South Dakota,887127
+2019,TN,     Tennessee,6830325
+2019,TX,     Texas,28986794
+2019,UT,     Utah,3203383
+2019,VA,     Virginia,8556642
+2019,VT,     Vermont,624046
+2019,WA,     Washington,7614024
+2019,WI,     Wisconsin,5824581
+2019,WV,     West Virginia,1795263
+2019,WY,     Wyoming,580116
+2020,,,
+2020,AK,     Alaska,731158
+2020,AL,     Alabama,4921532
+2020,AR,     Arkansas,3030522
+2020,AZ,     Arizona,7421401
+2020,CA,     California,39368078
+2020,CO,     Colorado,5807719
+2020,CT,     Connecticut,3557006
+2020,DC,     District of Columbia,712816
+2020,DE,     Delaware,986809
+2020,FL,     Florida,21733312
+2020,GA,     Georgia,10710017
+2020,HI,     Hawaii,1407006
+2020,IA,     Iowa,3163561
+2020,ID,     Idaho,1826913
+2020,IL,     Illinois,12587530
+2020,IN,     Indiana,6754953
+2020,KS,     Kansas,2913805
+2020,KY,     Kentucky,4477251
+2020,LA,     Louisiana,4645318
+2020,MA,     Massachusetts,6893574
+2020,MD,     Maryland,6055802
+2020,ME,     Maine,1350141
+2020,MI,     Michigan,9966555
+2020,MN,     Minnesota,5657342
+2020,MO,     Missouri,6151548
+2020,MS,     Mississippi,2966786
+2020,MT,     Montana,1080577
+2020,NC,     North Carolina,10600823
+2020,ND,     North Dakota,765309
+2020,NE,     Nebraska,1937552
+2020,NH,     New Hampshire,1366275
+2020,NJ,     New Jersey,8882371
+2020,NM,     New Mexico,2106319
+2020,NV,     Nevada,3138259
+2020,NY,     New York,19336776
+2020,OH,     Ohio,11693217
+2020,OK,     Oklahoma,3980783
+2020,OR,     Oregon,4241507
+2020,PA,     Pennsylvania,12783254
+2020,RI,     Rhode Island,1057125
+2020,SC,     South Carolina,5218040
+2020,SD,     South Dakota,892717
+2020,TN,     Tennessee,6886834
+2020,TX,     Texas,29360759
+2020,UT,     Utah,3249879
+2020,VA,     Virginia,8590563
+2020,VT,     Vermont,623347
+2020,WA,     Washington,7693612
+2020,WI,     Wisconsin,5832655
+2020,WV,     West Virginia,1784787
+2020,WY,     Wyoming,582328
+2021,,,
+2021,AK,     Alaska,734182
+2021,AL,     Alabama,5049846
+2021,AR,     Arkansas,3028122
+2021,AZ,     Arizona,7264877
+2021,CA,     California,39142991
+2021,CO,     Colorado,5811297
+2021,CT,     Connecticut,3623355
+2021,DC,     District of Columbia,668791
+2021,DE,     Delaware,1004807
+2021,FL,     Florida,21828069
+2021,GA,     Georgia,10788029
+2021,HI,     Hawaii,1447154
+2021,IA,     Iowa,3197689
+2021,ID,     Idaho,1904314
+2021,IL,     Illinois,12686469
+2021,IN,     Indiana,6813532
+2021,KS,     Kansas,2937922
+2021,KY,     Kentucky,4506589
+2021,LA,     Louisiana,4627098
+2021,MA,     Massachusetts,6989690
+2021,MD,     Maryland,6174610
+2021,ME,     Maine,1377238
+2021,MI,     Michigan,10037504
+2021,MN,     Minnesota,5711471
+2021,MO,     Missouri,6169823
+2021,MS,     Mississippi,2949586
+2021,MT,     Montana,1106227
+2021,NC,     North Carolina,10565885
+2021,ND,     North Dakota,777934
+2021,NE,     Nebraska,1963554
+2021,NH,     New Hampshire,1387505
+2021,NJ,     New Jersey,9267961
+2021,NM,     New Mexico,2116677
+2021,NV,     Nevada,3146402
+2021,NY,     New York,19857492
+2021,OH,     Ohio,11764342
+2021,OK,     Oklahoma,3991225
+2021,OR,     Oregon,4256301
+2021,PA,     Pennsylvania,13012059
+2021,RI,     Rhode Island,1096985
+2021,SC,     South Carolina,5193266
+2021,SD,     South Dakota,896164
+2021,TN,     Tennessee,6968351
+2021,TX,     Texas,29558864
+2021,UT,     Utah,3339113
+2021,VA,     Virginia,8657365
+2021,VT,     Vermont,646972
+2021,WA,     Washington,7740745
+2021,WI,     Wisconsin,5880101
+2021,WV,     West Virginia,1785526
+2021,WY,     Wyoming,579483
+2022,,,
+2022,AK,     Alaska,
+2022,AL,     Alabama,
+2022,AR,     Arkansas,
+2022,AZ,     Arizona,
+2022,CA,     California,
+2022,CO,     Colorado,
+2022,CT,     Connecticut,
+2022,DC,     District of Columbia,
+2022,DE,     Delaware,
+2022,FL,     Florida,
+2022,GA,     Georgia,
+2022,HI,     Hawaii,
+2022,IA,     Iowa,
+2022,ID,     Idaho,
+2022,IL,     Illinois,
+2022,IN,     Indiana,
+2022,KS,     Kansas,
+2022,KY,     Kentucky,
+2022,LA,     Louisiana,
+2022,MA,     Massachusetts,
+2022,MD,     Maryland,
+2022,ME,     Maine,
+2022,MI,     Michigan,
+2022,MN,     Minnesota,
+2022,MO,     Missouri,
+2022,MS,     Mississippi,
+2022,MT,     Montana,
+2022,NC,     North Carolina,
+2022,ND,     North Dakota,
+2022,NE,     Nebraska,
+2022,NH,     New Hampshire,
+2022,NJ,     New Jersey,
+2022,NM,     New Mexico,
+2022,NV,     Nevada,
+2022,NY,     New York,
+2022,OH,     Ohio,
+2022,OK,     Oklahoma,
+2022,OR,     Oregon,
+2022,PA,     Pennsylvania,
+2022,RI,     Rhode Island,
+2022,SC,     South Carolina,
+2022,SD,     South Dakota,
+2022,TN,     Tennessee,
+2022,TX,     Texas,
+2022,UT,     Utah,
+2022,VA,     Virginia,
+2022,VT,     Vermont,
+2022,WA,     Washington,
+2022,WI,     Wisconsin,
+2022,WV,     West Virginia,
+2022,WY,     Wyoming,
+2023,,,
+2023,AK,     Alaska,
+2023,AL,     Alabama,
+2023,AR,     Arkansas,
+2023,AZ,     Arizona,
+2023,CA,     California,
+2023,CO,     Colorado,
+2023,CT,     Connecticut,
+2023,DC,     District of Columbia,
+2023,DE,     Delaware,
+2023,FL,     Florida,
+2023,GA,     Georgia,
+2023,HI,     Hawaii,
+2023,IA,     Iowa,
+2023,ID,     Idaho,
+2023,IL,     Illinois,
+2023,IN,     Indiana,
+2023,KS,     Kansas,
+2023,KY,     Kentucky,
+2023,LA,     Louisiana,
+2023,MA,     Massachusetts,
+2023,MD,     Maryland,
+2023,ME,     Maine,
+2023,MI,     Michigan,
+2023,MN,     Minnesota,
+2023,MO,     Missouri,
+2023,MS,     Mississippi,
+2023,MT,     Montana,
+2023,NC,     North Carolina,
+2023,ND,     North Dakota,
+2023,NE,     Nebraska,
+2023,NH,     New Hampshire,
+2023,NJ,     New Jersey,
+2023,NM,     New Mexico,
+2023,NV,     Nevada,
+2023,NY,     New York,
+2023,OH,     Ohio,
+2023,OK,     Oklahoma,
+2023,OR,     Oregon,
+2023,PA,     Pennsylvania,
+2023,RI,     Rhode Island,
+2023,SC,     South Carolina,
+2023,SD,     South Dakota,
+2023,TN,     Tennessee,
+2023,TX,     Texas,
+2023,UT,     Utah,
+2023,VA,     Virginia,
+2023,VT,     Vermont,
+2023,WA,     Washington,
+2023,WI,     Wisconsin,
+2023,WV,     West Virginia,
+2023,WY,     Wyoming,
+2024,,,
+2024,AK,     Alaska,
+2024,AL,     Alabama,5157699
+2024,AR,     Arkansas,
+2024,AZ,     Arizona,
+2024,CA,     California,
+2024,CO,     Colorado,
+2024,CT,     Connecticut,
+2024,DC,     District of Columbia,
+2024,DE,     Delaware,
+2024,FL,     Florida,
+2024,GA,     Georgia,
+2024,HI,     Hawaii,
+2024,IA,     Iowa,
+2024,ID,     Idaho,
+2024,IL,     Illinois,
+2024,IN,     Indiana,
+2024,KS,     Kansas,
+2024,KY,     Kentucky,
+2024,LA,     Louisiana,
+2024,MA,     Massachusetts,
+2024,MD,     Maryland,
+2024,ME,     Maine,
+2024,MI,     Michigan,
+2024,MN,     Minnesota,
+2024,MO,     Missouri,
+2024,MS,     Mississippi,
+2024,MT,     Montana,
+2024,NC,     North Carolina,
+2024,ND,     North Dakota,
+2024,NE,     Nebraska,
+2024,NH,     New Hampshire,
+2024,NJ,     New Jersey,
+2024,NM,     New Mexico,
+2024,NV,     Nevada,
+2024,NY,     New York,
+2024,OH,     Ohio,
+2024,OK,     Oklahoma,
+2024,OR,     Oregon,
+2024,PA,     Pennsylvania,
+2024,RI,     Rhode Island,
+2024,SC,     South Carolina,
+2024,SD,     South Dakota,
+2024,TN,     Tennessee,
+2024,TX,     Texas,
+2024,UT,     Utah,
+2024,VA,     Virginia,
+2024,VT,     Vermont,
+2024,WA,     Washington,
+2024,WI,     Wisconsin,
+2024,WV,     West Virginia,
+2024,WY,     Wyoming,
+2025,,,345206793
+2025,AK,     Alaska,737270
+2025,AL,     Alabama,5193088
+2025,AR,     Arkansas,3114791
+2025,AZ,     Arizona,7623818
+2025,CA,     California,39355309
+2025,CO,     Colorado,6012561
+2025,CT,     Connecticut,3688496
+2025,DC,     District of Columbia,693645
+2025,DE,     Delaware,1059952
+2025,FL,     Florida,23462518
+2025,GA,     Georgia,11302748
+2025,HI,     Hawaii,1432820
+2025,IA,     Iowa,3238387
+2025,ID,     Idaho,2029733
+2025,IL,     Illinois,12719141
+2025,IN,     Indiana,6973333
+2025,KS,     Kansas,2977220
+2025,KY,     Kentucky,4606864
+2025,LA,     Louisiana,4618189
+2025,MA,     Massachusetts,7154084
+2025,MD,     Maryland,6265347
+2025,ME,     Maine,1414874
+2025,MI,     Michigan,10127884
+2025,MN,     Minnesota,5830405
+2025,MO,     Missouri,6270541
+2025,MS,     Mississippi,2954160
+2025,MT,     Montana,1144694
+2025,NC,     North Carolina,11197968
+2025,ND,     North Dakota,799358
+2025,NE,     Nebraska,2018006
+2025,NH,     New Hampshire,1415342
+2025,NJ,     New Jersey,9548215
+2025,NM,     New Mexico,2125498
+2025,NV,     Nevada,3282188
+2025,NY,     New York,20002427
+2025,OH,     Ohio,11900510
+2025,OK,     Oklahoma,4123288
+2025,OR,     Oregon,4273586
+2025,PA,     Pennsylvania,13059432
+2025,RI,     Rhode Island,1114521
+2025,SC,     South Carolina,5570274
+2025,SD,     South Dakota,935094
+2025,TN,     Tennessee,7315076
+2025,TX,     Texas,31709821
+2025,UT,     Utah,3538904
+2025,VA,     Virginia,8880107
+2025,VT,     Vermont,644663
+2025,WA,     Washington,8001020
+2025,WI,     Wisconsin,5972787
+2025,WV,     West Virginia,1766147
+2025,WY,     Wyoming,588753
+2026,,,345206793
+2026,AK,     Alaska,737270
+2026,AL,     Alabama,5193088
+2026,AR,     Arkansas,3114791
+2026,AZ,     Arizona,7623818
+2026,CA,     California,39355309
+2026,CO,     Colorado,6012561
+2026,CT,     Connecticut,3688496
+2026,DC,     District of Columbia,693645
+2026,DE,     Delaware,1059952
+2026,FL,     Florida,23462518
+2026,GA,     Georgia,11302748
+2026,HI,     Hawaii,1432820
+2026,IA,     Iowa,3238387
+2026,ID,     Idaho,2029733
+2026,IL,     Illinois,12719141
+2026,IN,     Indiana,6973333
+2026,KS,     Kansas,2977220
+2026,KY,     Kentucky,4606864
+2026,LA,     Louisiana,4618189
+2026,MA,     Massachusetts,7154084
+2026,MD,     Maryland,6265347
+2026,ME,     Maine,1414874
+2026,MI,     Michigan,10127884
+2026,MN,     Minnesota,5830405
+2026,MO,     Missouri,6270541
+2026,MS,     Mississippi,2954160
+2026,MT,     Montana,1144694
+2026,NC,     North Carolina,11197968
+2026,ND,     North Dakota,799358
+2026,NE,     Nebraska,2018006
+2026,NH,     New Hampshire,1415342
+2026,NJ,     New Jersey,9548215
+2026,NM,     New Mexico,2125498
+2026,NV,     Nevada,3282188
+2026,NY,     New York,20002427
+2026,OH,     Ohio,11900510
+2026,OK,     Oklahoma,4123288
+2026,OR,     Oregon,4273586
+2026,PA,     Pennsylvania,13059432
+2026,RI,     Rhode Island,1114521
+2026,SC,     South Carolina,5570274
+2026,SD,     South Dakota,935094
+2026,TN,     Tennessee,7315076
+2026,TX,     Texas,31709821
+2026,UT,     Utah,3538904
+2026,VA,     Virginia,8880107
+2026,VT,     Vermont,644663
+2026,WA,     Washington,8001020
+2026,WI,     Wisconsin,5972787
+2026,WV,     West Virginia,1766147
+2026,WY,     Wyoming,588753
