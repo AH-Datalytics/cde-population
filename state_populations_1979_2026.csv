@@ -1,5 +1,4 @@
 year,state_abbr,state_name,population
-1979,,,220099000
 1979,AK,     Alaska,406000
 1979,AL,     Alabama,3769000
 1979,AR,     Arkansas,2180000
@@ -51,7 +50,6 @@ year,state_abbr,state_name,population
 1979,WI,     Wisconsin,4720000
 1979,WV,     West Virginia,1878000
 1979,WY,     Wyoming,450000
-1980,,,225349264
 1980,AK,     Alaska,440142
 1980,AL,     Alabama,3861466
 1980,AR,     Arkansas,2284037
@@ -103,7 +101,6 @@ year,state_abbr,state_name,population
 1980,WI,     Wisconsin,4680917
 1980,WV,     West Virginia,1930787
 1980,WY,     Wyoming,468954
-1981,,,229465714
 1981,AK,     Alaska,412000
 1981,AL,     Alabama,3916000
 1981,AR,     Arkansas,2294000
@@ -155,7 +152,6 @@ year,state_abbr,state_name,population
 1981,WI,     Wisconsin,4739000
 1981,WV,     West Virginia,1951000
 1981,WY,     Wyoming,492000
-1982,,,231664458
 1982,AK,     Alaska,438000
 1982,AL,     Alabama,3943000
 1982,AR,     Arkansas,2291000
@@ -207,7 +203,6 @@ year,state_abbr,state_name,population
 1982,WI,     Wisconsin,4765000
 1982,WV,     West Virginia,1948000
 1982,WY,     Wyoming,502000
-1983,,,233791994
 1983,AK,     Alaska,479000
 1983,AL,     Alabama,3959000
 1983,AR,     Arkansas,2328000
@@ -259,7 +254,6 @@ year,state_abbr,state_name,population
 1983,WI,     Wisconsin,4751000
 1983,WV,     West Virginia,1965000
 1983,WY,     Wyoming,514000
-1984,,,235824902
 1984,AK,     Alaska,500000
 1984,AL,     Alabama,3990000
 1984,AR,     Arkansas,2349000
@@ -311,7 +305,6 @@ year,state_abbr,state_name,population
 1984,WI,     Wisconsin,4766000
 1984,WV,     West Virginia,1952000
 1984,WY,     Wyoming,511000
-1985,,,237923795
 1985,AK,     Alaska,521000
 1985,AL,     Alabama,4021000
 1985,AR,     Arkansas,2359000
@@ -363,7 +356,6 @@ year,state_abbr,state_name,population
 1985,WI,     Wisconsin,4775000
 1985,WV,     West Virginia,1936000
 1985,WY,     Wyoming,509000
-1986,,,240132887
 1986,AK,     Alaska,534000
 1986,AL,     Alabama,4053000
 1986,AR,     Arkansas,2372000
@@ -415,7 +407,6 @@ year,state_abbr,state_name,population
 1986,WI,     Wisconsin,4785000
 1986,WV,     West Virginia,1919000
 1986,WY,     Wyoming,507000
-1987,,,242288918
 1987,AK,     Alaska,525000
 1987,AL,     Alabama,4083000
 1987,AR,     Arkansas,2388000
@@ -467,7 +458,6 @@ year,state_abbr,state_name,population
 1987,WI,     Wisconsin,4807000
 1987,WV,     West Virginia,1897000
 1987,WY,     Wyoming,490000
-1988,,,244498982
 1988,AK,     Alaska,513000
 1988,AL,     Alabama,4127000
 1988,AR,     Arkansas,2422000
@@ -519,7 +509,6 @@ year,state_abbr,state_name,population
 1988,WI,     Wisconsin,4858000
 1988,WV,     West Virginia,1884000
 1988,WY,     Wyoming,471000
-1989,,,246819230
 1989,AK,     Alaska,527000
 1989,AL,     Alabama,4118000
 1989,AR,     Arkansas,2406000
@@ -571,7 +560,6 @@ year,state_abbr,state_name,population
 1989,WI,     Wisconsin,4867000
 1989,WV,     West Virginia,1857000
 1989,WY,     Wyoming,475000
-1990,,,249464396
 1990,AK,     Alaska,550043
 1990,AL,     Alabama,4040587
 1990,AR,     Arkansas,2350725
@@ -623,7 +611,6 @@ year,state_abbr,state_name,population
 1990,WI,     Wisconsin,4891769
 1990,WV,     West Virginia,1793477
 1990,WY,     Wyoming,453588
-1991,,,252153092
 1991,AK,     Alaska,570000
 1991,AL,     Alabama,4089000
 1991,AR,     Arkansas,2372000
@@ -675,7 +662,6 @@ year,state_abbr,state_name,population
 1991,WI,     Wisconsin,4955000
 1991,WV,     West Virginia,1801000
 1991,WY,     Wyoming,460000
-1992,,,255029699
 1992,AK,     Alaska,587000
 1992,AL,     Alabama,4136000
 1992,AR,     Arkansas,2399000
@@ -727,7 +713,6 @@ year,state_abbr,state_name,population
 1992,WI,     Wisconsin,5007000
 1992,WV,     West Virginia,1812000
 1992,WY,     Wyoming,466000
-1993,,,257782608
 1993,AK,     Alaska,599000
 1993,AL,     Alabama,4187000
 1993,AR,     Arkansas,2424000
@@ -779,7 +764,6 @@ year,state_abbr,state_name,population
 1993,WI,     Wisconsin,5038000
 1993,WV,     West Virginia,1820000
 1993,WY,     Wyoming,470000
-1994,,,260327021
 1994,AK,     Alaska,606000
 1994,AL,     Alabama,4219000
 1994,AR,     Arkansas,2453000
@@ -831,7 +815,6 @@ year,state_abbr,state_name,population
 1994,WI,     Wisconsin,5082000
 1994,WV,     West Virginia,1822000
 1994,WY,     Wyoming,476000
-1995,,,262803276
 1995,AK,     Alaska,604000
 1995,AL,     Alabama,4253000
 1995,AR,     Arkansas,2484000
@@ -883,7 +866,6 @@ year,state_abbr,state_name,population
 1995,WI,     Wisconsin,5123000
 1995,WV,     West Virginia,1828000
 1995,WY,     Wyoming,480000
-1996,,,265228572
 1996,AK,     Alaska,607000
 1996,AL,     Alabama,4273000
 1996,AR,     Arkansas,2510000
@@ -935,7 +917,6 @@ year,state_abbr,state_name,population
 1996,WI,     Wisconsin,5160000
 1996,WV,     West Virginia,1826000
 1996,WY,     Wyoming,481000
-1997,,,267783607
 1997,AK,     Alaska,609000
 1997,AL,     Alabama,4319000
 1997,AR,     Arkansas,2523000
@@ -987,7 +968,6 @@ year,state_abbr,state_name,population
 1997,WI,     Wisconsin,5170000
 1997,WV,     West Virginia,1816000
 1997,WY,     Wyoming,480000
-1998,,,270248003
 1998,AK,     Alaska,614000
 1998,AL,     Alabama,4352000
 1998,AR,     Arkansas,2538000
@@ -1039,7 +1019,6 @@ year,state_abbr,state_name,population
 1998,WI,     Wisconsin,5224000
 1998,WV,     West Virginia,1811000
 1998,WY,     Wyoming,481000
-1999,,,272690813
 1999,AK,     Alaska,619500
 1999,AL,     Alabama,4369862
 1999,AR,     Arkansas,2551373
@@ -1091,7 +1070,6 @@ year,state_abbr,state_name,population
 1999,WI,     Wisconsin,5250446
 1999,WV,     West Virginia,1806928
 1999,WY,     Wyoming,479602
-2000,,,281421906
 2000,AK,     Alaska,626932
 2000,AL,     Alabama,4447100
 2000,AR,     Arkansas,2673400
@@ -1143,7 +1121,6 @@ year,state_abbr,state_name,population
 2000,WI,     Wisconsin,5363675
 2000,WV,     West Virginia,1808344
 2000,WY,     Wyoming,493782
-2001,,,285317559
 2001,AK,     Alaska,633630
 2001,AL,     Alabama,4468912
 2001,AR,     Arkansas,2694698
@@ -1195,7 +1172,6 @@ year,state_abbr,state_name,population
 2001,WI,     Wisconsin,5405947
 2001,WV,     West Virginia,1800975
 2001,WY,     Wyoming,493754
-2002,,,287973924
 2002,AK,     Alaska,641482
 2002,AL,     Alabama,4478896
 2002,AR,     Arkansas,2706268
@@ -1247,7 +1223,6 @@ year,state_abbr,state_name,population
 2002,WI,     Wisconsin,5439692
 2002,WV,     West Virginia,1804884
 2002,WY,     Wyoming,498830
-2003,,,290788976
 2003,AK,     Alaska,648280
 2003,AL,     Alabama,4503726
 2003,AR,     Arkansas,2727774
@@ -1299,7 +1274,6 @@ year,state_abbr,state_name,population
 2003,WI,     Wisconsin,5474290
 2003,WV,     West Virginia,1811440
 2003,WY,     Wyoming,502111
-2004,,,293656842
 2004,AK,     Alaska,657755
 2004,AL,     Alabama,4525375
 2004,AR,     Arkansas,2750000
@@ -1351,7 +1325,6 @@ year,state_abbr,state_name,population
 2004,WI,     Wisconsin,5503533
 2004,WV,     West Virginia,1812548
 2004,WY,     Wyoming,505887
-2005,,,296507061
 2005,AK,     Alaska,663253
 2005,AL,     Alabama,4548327
 2005,AR,     Arkansas,2775708
@@ -1403,7 +1376,6 @@ year,state_abbr,state_name,population
 2005,WI,     Wisconsin,5527644
 2005,WV,     West Virginia,1814083
 2005,WY,     Wyoming,508798
-2006,,,299398484
 2006,AK,     Alaska,670053
 2006,AL,     Alabama,4599030
 2006,AR,     Arkansas,2810872
@@ -1455,7 +1427,6 @@ year,state_abbr,state_name,population
 2006,WI,     Wisconsin,5556506
 2006,WV,     West Virginia,1818470
 2006,WY,     Wyoming,515004
-2007,,,301621157
 2007,AK,     Alaska,683478
 2007,AL,     Alabama,4627851
 2007,AR,     Arkansas,2834797
@@ -1507,7 +1478,6 @@ year,state_abbr,state_name,population
 2007,WI,     Wisconsin,5601640
 2007,WV,     West Virginia,1812035
 2007,WY,     Wyoming,522830
-2008,,,304059724
 2008,AK,     Alaska,686293
 2008,AL,     Alabama,4661900
 2008,AR,     Arkansas,2855390
@@ -1559,7 +1529,6 @@ year,state_abbr,state_name,population
 2008,WI,     Wisconsin,5627967
 2008,WV,     West Virginia,1814468
 2008,WY,     Wyoming,532668
-2009,,,307006550
 2009,AK,     Alaska,698473
 2009,AL,     Alabama,4708708
 2009,AR,     Arkansas,2889450
@@ -1611,7 +1580,6 @@ year,state_abbr,state_name,population
 2009,WI,     Wisconsin,5654774
 2009,WV,     West Virginia,1819777
 2009,WY,     Wyoming,544270
-2010,,,309330219
 2010,AK,     Alaska,714146
 2010,AL,     Alabama,4785401
 2010,AR,     Arkansas,2921588
@@ -1663,7 +1631,6 @@ year,state_abbr,state_name,population
 2010,WI,     Wisconsin,5691659
 2010,WV,     West Virginia,1854368
 2010,WY,     Wyoming,564554
-2011,,,311587816
 2011,AK,     Alaska,723860
 2011,AL,     Alabama,4803689
 2011,AR,     Arkansas,2938582
@@ -1715,7 +1682,6 @@ year,state_abbr,state_name,population
 2011,WI,     Wisconsin,5709843
 2011,WV,     West Virginia,1854908
 2011,WY,     Wyoming,567356
-2012,,,313873685
 2012,AK,     Alaska,730307
 2012,AL,     Alabama,4817528
 2012,AR,     Arkansas,2949828
@@ -1767,7 +1733,6 @@ year,state_abbr,state_name,population
 2012,WI,     Wisconsin,5724554
 2012,WV,     West Virginia,1856680
 2012,WY,     Wyoming,576626
-2013,,,316497531
 2013,AK,     Alaska,737259
 2013,AL,     Alabama,4833996
 2013,AR,     Arkansas,2958765
@@ -1819,7 +1784,6 @@ year,state_abbr,state_name,population
 2013,WI,     Wisconsin,5742953
 2013,WV,     West Virginia,1853595
 2013,WY,     Wyoming,583223
-2014,,,318907401
 2014,AK,     Alaska,737046
 2014,AL,     Alabama,4846411
 2014,AR,     Arkansas,2966835
@@ -1871,7 +1835,6 @@ year,state_abbr,state_name,population
 2014,WI,     Wisconsin,5759432
 2014,WV,     West Virginia,1848751
 2014,WY,     Wyoming,584304
-2015,,,320896618
 2015,AK,     Alaska,737709
 2015,AL,     Alabama,4853875
 2015,AR,     Arkansas,2977853
@@ -1923,7 +1886,6 @@ year,state_abbr,state_name,population
 2015,WI,     Wisconsin,5767891
 2015,WV,     West Virginia,1841053
 2015,WY,     Wyoming,586555
-2016,,,323405935
 2016,AK,     Alaska,741522
 2016,AL,     Alabama,4860545
 2016,AR,     Arkansas,2988231
@@ -1975,7 +1937,6 @@ year,state_abbr,state_name,population
 2016,WI,     Wisconsin,5772917
 2016,WV,     West Virginia,1828637
 2016,WY,     Wyoming,584910
-2017,,,
 2017,AK,     Alaska,739786
 2017,AL,     Alabama,4875120
 2017,AR,     Arkansas,3002997
@@ -2027,7 +1988,6 @@ year,state_abbr,state_name,population
 2017,WI,     Wisconsin,5792051
 2017,WV,     West Virginia,1817048
 2017,WY,     Wyoming,578934
-2018,,,
 2018,AK,     Alaska,735139
 2018,AL,     Alabama,4887681
 2018,AR,     Arkansas,3009733
@@ -2079,7 +2039,6 @@ year,state_abbr,state_name,population
 2018,WI,     Wisconsin,5807406
 2018,WV,     West Virginia,1804291
 2018,WY,     Wyoming,577601
-2019,,,
 2019,AK,     Alaska,733603
 2019,AL,     Alabama,4907965
 2019,AR,     Arkansas,3020985
@@ -2131,7 +2090,6 @@ year,state_abbr,state_name,population
 2019,WI,     Wisconsin,5824581
 2019,WV,     West Virginia,1795263
 2019,WY,     Wyoming,580116
-2020,,,
 2020,AK,     Alaska,731158
 2020,AL,     Alabama,4921532
 2020,AR,     Arkansas,3030522
@@ -2183,7 +2141,6 @@ year,state_abbr,state_name,population
 2020,WI,     Wisconsin,5832655
 2020,WV,     West Virginia,1784787
 2020,WY,     Wyoming,582328
-2021,,,
 2021,AK,     Alaska,734182
 2021,AL,     Alabama,5049846
 2021,AR,     Arkansas,3028122
@@ -2235,163 +2192,159 @@ year,state_abbr,state_name,population
 2021,WI,     Wisconsin,5880101
 2021,WV,     West Virginia,1785526
 2021,WY,     Wyoming,579483
-2022,,,
-2022,AK,     Alaska,
-2022,AL,     Alabama,
-2022,AR,     Arkansas,
-2022,AZ,     Arizona,
-2022,CA,     California,
-2022,CO,     Colorado,
-2022,CT,     Connecticut,
-2022,DC,     District of Columbia,
-2022,DE,     Delaware,
-2022,FL,     Florida,
-2022,GA,     Georgia,
-2022,HI,     Hawaii,
-2022,IA,     Iowa,
-2022,ID,     Idaho,
-2022,IL,     Illinois,
-2022,IN,     Indiana,
-2022,KS,     Kansas,
-2022,KY,     Kentucky,
-2022,LA,     Louisiana,
-2022,MA,     Massachusetts,
-2022,MD,     Maryland,
-2022,ME,     Maine,
-2022,MI,     Michigan,
-2022,MN,     Minnesota,
-2022,MO,     Missouri,
-2022,MS,     Mississippi,
-2022,MT,     Montana,
-2022,NC,     North Carolina,
-2022,ND,     North Dakota,
-2022,NE,     Nebraska,
-2022,NH,     New Hampshire,
-2022,NJ,     New Jersey,
-2022,NM,     New Mexico,
-2022,NV,     Nevada,
-2022,NY,     New York,
-2022,OH,     Ohio,
-2022,OK,     Oklahoma,
-2022,OR,     Oregon,
-2022,PA,     Pennsylvania,
-2022,RI,     Rhode Island,
-2022,SC,     South Carolina,
-2022,SD,     South Dakota,
-2022,TN,     Tennessee,
-2022,TX,     Texas,
-2022,UT,     Utah,
-2022,VA,     Virginia,
-2022,VT,     Vermont,
-2022,WA,     Washington,
-2022,WI,     Wisconsin,
-2022,WV,     West Virginia,
-2022,WY,     Wyoming,
-2023,,,
-2023,AK,     Alaska,
-2023,AL,     Alabama,
-2023,AR,     Arkansas,
-2023,AZ,     Arizona,
-2023,CA,     California,
-2023,CO,     Colorado,
-2023,CT,     Connecticut,
-2023,DC,     District of Columbia,
-2023,DE,     Delaware,
-2023,FL,     Florida,
-2023,GA,     Georgia,
-2023,HI,     Hawaii,
-2023,IA,     Iowa,
-2023,ID,     Idaho,
-2023,IL,     Illinois,
-2023,IN,     Indiana,
-2023,KS,     Kansas,
-2023,KY,     Kentucky,
-2023,LA,     Louisiana,
-2023,MA,     Massachusetts,
-2023,MD,     Maryland,
-2023,ME,     Maine,
-2023,MI,     Michigan,
-2023,MN,     Minnesota,
-2023,MO,     Missouri,
-2023,MS,     Mississippi,
-2023,MT,     Montana,
-2023,NC,     North Carolina,
-2023,ND,     North Dakota,
-2023,NE,     Nebraska,
-2023,NH,     New Hampshire,
-2023,NJ,     New Jersey,
-2023,NM,     New Mexico,
-2023,NV,     Nevada,
-2023,NY,     New York,
-2023,OH,     Ohio,
-2023,OK,     Oklahoma,
-2023,OR,     Oregon,
-2023,PA,     Pennsylvania,
-2023,RI,     Rhode Island,
-2023,SC,     South Carolina,
-2023,SD,     South Dakota,
-2023,TN,     Tennessee,
-2023,TX,     Texas,
-2023,UT,     Utah,
-2023,VA,     Virginia,
-2023,VT,     Vermont,
-2023,WA,     Washington,
-2023,WI,     Wisconsin,
-2023,WV,     West Virginia,
-2023,WY,     Wyoming,
-2024,,,
-2024,AK,     Alaska,
+2022,AK,     Alaska,733583
+2022,AL,     Alabama,5074296
+2022,AR,     Arkansas,3045637
+2022,AZ,     Arizona,7359197
+2022,CA,     California,39029342
+2022,CO,     Colorado,5839926
+2022,CT,     Connecticut,3626205
+2022,DC,     District of Columbia,671803
+2022,DE,     Delaware,1018396
+2022,FL,     Florida,22244823
+2022,GA,     Georgia,10912876
+2022,HI,     Hawaii,1440196
+2022,IA,     Iowa,3200517
+2022,ID,     Idaho,1939033
+2022,IL,     Illinois,12582032
+2022,IN,     Indiana,6833037
+2022,KS,     Kansas,2937150
+2022,KY,     Kentucky,4512310
+2022,LA,     Louisiana,4590241
+2022,MA,     Massachusetts,6981974
+2022,MD,     Maryland,6164660
+2022,ME,     Maine,1385340
+2022,MI,     Michigan,10034113
+2022,MN,     Minnesota,5717184
+2022,MO,     Missouri,6177957
+2022,MS,     Mississippi,2940057
+2022,MT,     Montana,1122867
+2022,NC,     North Carolina,10698973
+2022,ND,     North Dakota,779261
+2022,NE,     Nebraska,1967923
+2022,NH,     New Hampshire,1395231
+2022,NJ,     New Jersey,9261699
+2022,NM,     New Mexico,2113344
+2022,NV,     Nevada,3177772
+2022,NY,     New York,19677151
+2022,OH,     Ohio,11756058
+2022,OK,     Oklahoma,4019800
+2022,OR,     Oregon,4240137
+2022,PA,     Pennsylvania,12972008
+2022,RI,     Rhode Island,1093734
+2022,SC,     South Carolina,5282634
+2022,SD,     South Dakota,909824
+2022,TN,     Tennessee,7051339
+2022,TX,     Texas,30029572
+2022,UT,     Utah,3380800
+2022,VA,     Virginia,8683619
+2022,VT,     Vermont,647064
+2022,WA,     Washington,7785786
+2022,WI,     Wisconsin,5892539
+2022,WV,     West Virginia,1775156
+2022,WY,     Wyoming,581381
+2023,AK,     Alaska,733406
+2023,AL,     Alabama,5108468
+2023,AR,     Arkansas,3067732
+2023,AZ,     Arizona,7431344
+2023,CA,     California,38965193
+2023,CO,     Colorado,5877610
+2023,CT,     Connecticut,3617176
+2023,DC,     District of Columbia,678972
+2023,DE,     Delaware,1031890
+2023,FL,     Florida,22610726
+2023,GA,     Georgia,11029227
+2023,HI,     Hawaii,1435138
+2023,IA,     Iowa,3207004
+2023,ID,     Idaho,1964726
+2023,IL,     Illinois,12549689
+2023,IN,     Indiana,6862199
+2023,KS,     Kansas,2940546
+2023,KY,     Kentucky,4526154
+2023,LA,     Louisiana,4573749
+2023,MA,     Massachusetts,7001399
+2023,MD,     Maryland,6180253
+2023,ME,     Maine,1395722
+2023,MI,     Michigan,10037261
+2023,MN,     Minnesota,5737915
+2023,MO,     Missouri,6196156
+2023,MS,     Mississippi,2939690
+2023,MT,     Montana,1132812
+2023,NC,     North Carolina,10835491
+2023,ND,     North Dakota,783926
+2023,NE,     Nebraska,1978379
+2023,NH,     New Hampshire,1402054
+2023,NJ,     New Jersey,9290841
+2023,NM,     New Mexico,2114371
+2023,NV,     Nevada,3194176
+2023,NY,     New York,19571216
+2023,OH,     Ohio,11785935
+2023,OK,     Oklahoma,4053824
+2023,OR,     Oregon,4233358
+2023,PA,     Pennsylvania,12961683
+2023,RI,     Rhode Island,1095962
+2023,SC,     South Carolina,5373555
+2023,SD,     South Dakota,919318
+2023,TN,     Tennessee,7126489
+2023,TX,     Texas,30503301
+2023,UT,     Utah,3417734
+2023,VA,     Virginia,8715698
+2023,VT,     Vermont,647464
+2023,WA,     Washington,7812880
+2023,WI,     Wisconsin,5910955
+2023,WV,     West Virginia,1770071
+2023,WY,     Wyoming,584057
+2024,AK,     Alaska,740133
 2024,AL,     Alabama,5157699
-2024,AR,     Arkansas,
-2024,AZ,     Arizona,
-2024,CA,     California,
-2024,CO,     Colorado,
-2024,CT,     Connecticut,
-2024,DC,     District of Columbia,
-2024,DE,     Delaware,
-2024,FL,     Florida,
-2024,GA,     Georgia,
-2024,HI,     Hawaii,
-2024,IA,     Iowa,
-2024,ID,     Idaho,
-2024,IL,     Illinois,
-2024,IN,     Indiana,
-2024,KS,     Kansas,
-2024,KY,     Kentucky,
-2024,LA,     Louisiana,
-2024,MA,     Massachusetts,
-2024,MD,     Maryland,
-2024,ME,     Maine,
-2024,MI,     Michigan,
-2024,MN,     Minnesota,
-2024,MO,     Missouri,
-2024,MS,     Mississippi,
-2024,MT,     Montana,
-2024,NC,     North Carolina,
-2024,ND,     North Dakota,
-2024,NE,     Nebraska,
-2024,NH,     New Hampshire,
-2024,NJ,     New Jersey,
-2024,NM,     New Mexico,
-2024,NV,     Nevada,
-2024,NY,     New York,
-2024,OH,     Ohio,
-2024,OK,     Oklahoma,
-2024,OR,     Oregon,
-2024,PA,     Pennsylvania,
-2024,RI,     Rhode Island,
-2024,SC,     South Carolina,
-2024,SD,     South Dakota,
-2024,TN,     Tennessee,
-2024,TX,     Texas,
-2024,UT,     Utah,
-2024,VA,     Virginia,
-2024,VT,     Vermont,
-2024,WA,     Washington,
-2024,WI,     Wisconsin,
-2024,WV,     West Virginia,
-2024,WY,     Wyoming,
-2025,,,345206793
+2024,AR,     Arkansas,3088354
+2024,AZ,     Arizona,7582384
+2024,CA,     California,39431263
+2024,CO,     Colorado,5957493
+2024,CT,     Connecticut,3675069
+2024,DC,     District of Columbia,702250
+2024,DE,     Delaware,1051917
+2024,FL,     Florida,23372215
+2024,GA,     Georgia,11180878
+2024,HI,     Hawaii,1446146
+2024,IA,     Iowa,3241488
+2024,ID,     Idaho,2001619
+2024,IL,     Illinois,12710158
+2024,IN,     Indiana,6924275
+2024,KS,     Kansas,2970606
+2024,KY,     Kentucky,4588372
+2024,LA,     Louisiana,4597740
+2024,MA,     Massachusetts,7136171
+2024,MD,     Maryland,6263220
+2024,ME,     Maine,1405012
+2024,MI,     Michigan,10140459
+2024,MN,     Minnesota,5793151
+2024,MO,     Missouri,6245466
+2024,MS,     Mississippi,2943045
+2024,MT,     Montana,1137233
+2024,NC,     North Carolina,11046024
+2024,ND,     North Dakota,796568
+2024,NE,     Nebraska,2005465
+2024,NH,     New Hampshire,1409032
+2024,NJ,     New Jersey,9500851
+2024,NM,     New Mexico,2130256
+2024,NV,     Nevada,3267467
+2024,NY,     New York,19867248
+2024,OH,     Ohio,11883304
+2024,OK,     Oklahoma,4095393
+2024,OR,     Oregon,4272371
+2024,PA,     Pennsylvania,13078751
+2024,RI,     Rhode Island,1112308
+2024,SC,     South Carolina,5478831
+2024,SD,     South Dakota,924669
+2024,TN,     Tennessee,7227750
+2024,TX,     Texas,31290831
+2024,UT,     Utah,3503613
+2024,VA,     Virginia,8811195
+2024,VT,     Vermont,648493
+2024,WA,     Washington,7958180
+2024,WI,     Wisconsin,5960975
+2024,WV,     West Virginia,1769979
+2024,WY,     Wyoming,587618
 2025,AK,     Alaska,737270
 2025,AL,     Alabama,5193088
 2025,AR,     Arkansas,3114791
@@ -2443,7 +2396,6 @@ year,state_abbr,state_name,population
 2025,WI,     Wisconsin,5972787
 2025,WV,     West Virginia,1766147
 2025,WY,     Wyoming,588753
-2026,,,345206793
 2026,AK,     Alaska,737270
 2026,AL,     Alabama,5193088
 2026,AR,     Arkansas,3114791
