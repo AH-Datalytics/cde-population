@@ -1,0 +1,57 @@
+Level,Code,Name,Division,Region,Pop_2025,Pop_2026
+National,US,United States,,,341784857,341784857
+Region,,Northeast,,Northeast,58042054,58042054
+Region,,Midwest,,Midwest,69762666,69762666
+Region,,South,,South,133833983,133833983
+Region,,West,,West,80146154,80146154
+State,CT,Connecticut,New England,Northeast,3688496,3688496
+State,ME,Maine,New England,Northeast,1414874,1414874
+State,MA,Massachusetts,New England,Northeast,7154084,7154084
+State,NH,New Hampshire,New England,Northeast,1415342,1415342
+State,NJ,New Jersey,Middle Atlantic,Northeast,9548215,9548215
+State,NY,New York,Middle Atlantic,Northeast,20002427,20002427
+State,PA,Pennsylvania,Middle Atlantic,Northeast,13059432,13059432
+State,RI,Rhode Island,New England,Northeast,1114521,1114521
+State,VT,Vermont,New England,Northeast,644663,644663
+State,IL,Illinois,East North Central,Midwest,12719141,12719141
+State,IN,Indiana,East North Central,Midwest,6973333,6973333
+State,IA,Iowa,West North Central,Midwest,3238387,3238387
+State,KS,Kansas,West North Central,Midwest,2977220,2977220
+State,MI,Michigan,East North Central,Midwest,10127884,10127884
+State,MN,Minnesota,West North Central,Midwest,5830405,5830405
+State,MO,Missouri,West North Central,Midwest,6270541,6270541
+State,NE,Nebraska,West North Central,Midwest,2018006,2018006
+State,ND,North Dakota,West North Central,Midwest,799358,799358
+State,OH,Ohio,East North Central,Midwest,11900510,11900510
+State,SD,South Dakota,West North Central,Midwest,935094,935094
+State,WI,Wisconsin,East North Central,Midwest,5972787,5972787
+State,AL,Alabama,East South Central,South,5193088,5193088
+State,AR,Arkansas,West South Central,South,3114791,3114791
+State,DE,Delaware,South Atlantic,South,1059952,1059952
+State,DC,District of Columbia,South Atlantic,South,693645,693645
+State,FL,Florida,South Atlantic,South,23462518,23462518
+State,GA,Georgia,South Atlantic,South,11302748,11302748
+State,KY,Kentucky,East South Central,South,4606864,4606864
+State,LA,Louisiana,West South Central,South,4618189,4618189
+State,MD,Maryland,South Atlantic,South,6265347,6265347
+State,MS,Mississippi,East South Central,South,2954160,2954160
+State,NC,North Carolina,South Atlantic,South,11197968,11197968
+State,OK,Oklahoma,West South Central,South,4123288,4123288
+State,SC,South Carolina,South Atlantic,South,5570274,5570274
+State,TN,Tennessee,East South Central,South,7315076,7315076
+State,TX,Texas,West South Central,South,31709821,31709821
+State,VA,Virginia,South Atlantic,South,8880107,8880107
+State,WV,West Virginia,South Atlantic,South,1766147,1766147
+State,AK,Alaska,Pacific,West,737270,737270
+State,AZ,Arizona,Mountain,West,7623818,7623818
+State,CA,California,Pacific,West,39355309,39355309
+State,CO,Colorado,Mountain,West,6012561,6012561
+State,HI,Hawaii,Pacific,West,1432820,1432820
+State,ID,Idaho,Mountain,West,2029733,2029733
+State,MT,Montana,Mountain,West,1144694,1144694
+State,NV,Nevada,Mountain,West,3282188,3282188
+State,NM,New Mexico,Mountain,West,2125498,2125498
+State,OR,Oregon,Pacific,West,4273586,4273586
+State,UT,Utah,Mountain,West,3538904,3538904
+State,WA,Washington,Pacific,West,8001020,8001020
+State,WY,Wyoming,Mountain,West,588753,588753
