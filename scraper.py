@@ -9,7 +9,11 @@ split across up to three MSA fields and undercount multi-county agencies
 the full agency population. ORIs from the API are already 9-character
 (RTCI format), so no suffix padding is needed.
 
-One request per agency (~19,600), stdlib only, ~30-60 min with 16 threads.
+One request per agency (~19,600). Uses requests.Session with per-thread
+connection pooling — the CDE server aggressively resets fresh TLS
+connections, so pooled keep-alive connections are required for throughput
+(a urllib version with one connection per request ran 6+ hours and hit
+the GitHub Actions job limit).
 
 Usage:
     python scraper.py                    # default output: cde_populations.csv
@@ -18,13 +22,13 @@ Usage:
 
 import argparse
 import csv
-import json
 import sys
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
-from urllib.request import urlopen, Request
-from urllib.error import URLError, HTTPError
+
+import requests
 
 if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
@@ -52,13 +56,26 @@ NON_AGENCY_KEYS = {
 }
 
 
+_local = threading.local()
+
+
+def _session():
+    if not hasattr(_local, "session"):
+        s = requests.Session()
+        s.headers["User-Agent"] = "cde-population-scraper"
+        _local.session = s
+    return _local.session
+
+
 def get_json(url, timeout=30, retries=4):
     for attempt in range(retries):
         try:
-            req = Request(url, headers={"User-Agent": "cde-population-scraper"})
-            with urlopen(req, timeout=timeout) as resp:
-                return json.loads(resp.read())
-        except (HTTPError, URLError, TimeoutError, json.JSONDecodeError):
+            r = _session().get(url, timeout=timeout)
+            if r.status_code in (429, 500, 502, 503, 504):
+                raise requests.RequestException(f"HTTP {r.status_code}")
+            r.raise_for_status()
+            return r.json()
+        except (requests.RequestException, ValueError):
             if attempt == retries - 1:
                 raise
             time.sleep(2 ** attempt)
