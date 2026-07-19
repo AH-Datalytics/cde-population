@@ -145,6 +145,8 @@ def main():
     ap.add_argument("--workers", type=int, default=16)
     ap.add_argument("--limit", type=int, default=0,
                     help="only fetch first N agencies (testing)")
+    ap.add_argument("--all", action="store_true",
+                    help="scrape every CDE agency, ignoring rtci_oris.txt")
     args = ap.parse_args()
 
     now = datetime.now(timezone.utc)
@@ -154,6 +156,18 @@ def main():
     print("Fetching agency list...")
     agencies = get_agencies()
     print(f"Total agencies: {len(agencies)}")
+
+    # Scope to the ORIs the RTCI pipeline actually uses (regenerate
+    # rtci_oris.txt from the RTCI populations.csv when agencies are added)
+    if not args.all:
+        try:
+            with open("rtci_oris.txt") as f:
+                wanted = {line.strip() for line in f if line.strip()}
+            agencies = [a for a in agencies if a["ori"] in wanted]
+            print(f"Filtered to RTCI ORIs: {len(agencies)} of {len(wanted)} wanted")
+        except FileNotFoundError:
+            print("rtci_oris.txt not found — scraping all agencies")
+
     if args.limit:
         agencies = agencies[:args.limit]
 
@@ -201,8 +215,8 @@ def main():
         print(f"Carried forward {carried} populations from previous CSV")
 
     # Sanity gate: a partial/failed run must not clobber good data
-    if not args.limit and len(results) < 15000:
-        print(f"ERROR: only {len(results)} populations fetched (expected ~17k+). "
+    if not args.limit and len(results) < 0.9 * len(agencies):
+        print(f"ERROR: only {len(results)} of {len(agencies)} agencies resolved. "
               "Not writing output.")
         sys.exit(1)
 
