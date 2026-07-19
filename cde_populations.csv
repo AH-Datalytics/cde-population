@@ -479,22 +479,27 @@ AL0670000,Winston County Sheriff's Office,AL,16954
 AL0070400,Woodstock Police Department,AL,1647
 AL0390800,Woodville Police Department,AL,758
 AL0600100,York Police Department,AL,2248
+AR0600700,Alexander Police Department,AR,3891
 AR0170200,Alma Police Department,AR,6066
 AR0240300,Altus Police Department,AR,676
 AR0100500,Amity Police Department,AR,678
 AR0100100,Arkadelphia Police Department,AR,9781
 AR0010000,Arkansas County Sheriff's Office,AR,4500
 AR0601100,Arkansas State Hospital,AR,0
+ARASP0000,Arkansas State Police,AR,0
 AR0731200,Arkansas State University: Beebe,AR,0
 AR0160500,Arkansas State University: Jonesboro,AR,0
 AR0340700,Arkansas State University: Newport,AR,0
 AR0580400,Arkansas Tech University,AR,0
+AR0680300,Ash Flat Police Department,AR,1180
+AR0410100,Ashdown Police Department,AR,4051
 AR0020000,Ashley County Sheriff's Office,AR,10998
 AR0580200,Atkins Police Department,AR,2883
 AR0740100,Augusta Police Department,AR,1814
 AR0430500,Austin Police Department,AR,4161
 AR0730200,Bald Knob Police Department,AR,2535
 AR0660300,Barling Police Department,AR,5415
+AR0320100,Batesville Police Department,AR,11626
 AR0030000,Baxter County Sheriff's Office,AR,25518
 AR0160400,Bay Police Department,AR,1803
 AR0730300,Beebe Police Department,AR,9269
@@ -504,6 +509,7 @@ AR0630100,Benton Police Department,AR,38869
 AR0040100,Bentonville Police Department,AR,63670
 AR0080100,Berryville Police Department,AR,5789
 AR0380500,Black Rock Police Department,AR,641
+AR0470100,Blytheville Police Department,AR,12123
 AR0661400,Bonanza Police Department,AR,612
 AR0160700,Bono Police Department,AR,2946
 AR0050000,Boone County Sheriff's Office,AR,24005
@@ -524,11 +530,13 @@ AR0160200,Caraway Police Department,AR,1086
 AR0430300,Carlisle Police Department,AR,1957
 AR0080000,Carroll County Sheriff's Office,AR,17983
 AR0161400,Cash Police Department,AR,282
+AR0680100,Cave City Police Department,AR,2029
 AR0040900,Cave Springs Police Department,AR,6491
 AR0171200,Cedarville Police Department,AR,1463
 AR0041300,Centerton Police Department,AR,28061
 AR0661300,Central City Police Department,AR,471
 AR0240200,Charleston Police Department,AR,2767
+AR0680400,Cherokee Village Police Department,AR,5028
 AR0190300,Cherry Valley Police Department,AR,574
 AR0090000,Chicot County Sheriff's Office,AR,5768
 AR0480200,Clarendon Police Department,AR,1420
@@ -549,6 +557,7 @@ AR0180000,Crittenden County Sheriff's Office,AR,7295
 AR0190000,Cross County Sheriff's Office,AR,6930
 AR0020100,Crossett Police Department,AR,4436
 AR0200000,Dallas County Sheriff's Office,AR,2874
+AR0710300,Damascus Police Department,AR,391
 AR0750200,Danville Police Department,AR,1982
 AR0750100,Dardanelle Police Department,AR,4537
 AR0670100,De Queen Police Department,AR,6065
@@ -571,6 +580,7 @@ AR0471000,Etowah Police Department,AR,238
 AR0090200,Eudora Police Department,AR,1504
 AR0080200,Eureka Springs Police Department,AR,2194
 AR0680500,Evening Shade Police Department,AR,440
+AR0710100,Fairfield Bay Police Department,AR,2187
 AR0720500,Farmington Police Department,AR,11345
 AR0230000,Faulkner County Sheriff's Office,AR,46951
 AR0720100,Fayetteville Police Department,AR,105335
@@ -585,6 +595,7 @@ AR0260000,Garland County Sheriff's Office,AR,50561
 AR0030300,Gassville Police Department,AR,2202
 AR0040500,Gentry Police Department,AR,4904
 AR0010300,Gillett Police Department,AR,621
+AR0550200,Glenwood Police Department,AR,2025
 AR0721600,Goshen Police Department,AR,2456
 AR0470700,Gosnell Police Department,AR,2639
 AR0270000,Grant County Sheriff's Office,AR,13337
@@ -600,6 +611,7 @@ AR0230500,Guy Police Department,AR,776
 AR0660600,Hackett Police Department,AR,861
 AR0020200,Hamburg Police Department,AR,2351
 AR0070100,Hampton Police Department,AR,1151
+AR0680200,Hardy Police Department,AR,780
 AR0560300,Harrisburg Police Department,AR,2195
 AR0050100,Harrison Police Department,AR,13891
 AR0660900,Hartford Police Department,AR,497
@@ -615,11 +627,14 @@ AR0680600,Highland Police Department,AR,1062
 AR0290100,Hope Police Department,AR,8355
 AR0300000,Hot Spring County Sheriff's Office,AR,22300
 AR0260100,Hot Springs Police Department,AR,37980
+AR063019E,Hot Springs Village Police Department,AR,15957
 AR0310000,Howard County Sheriff's Office,AR,7343
 AR0380200,Hoxie Police Department,AR,2586
 AR0620200,Hughes Police Department,AR,959
+AR0010400,Humphrey Police Department,AR,435
 AR0661700,Huntington Police Department,AR,488
 AR0440100,Huntsville Police Department,AR,3575
+AR0320000,Independence County Sheriff's Office,AR,26375
 AR0330000,Izard County Sheriff's Office,AR,14499
 AR0340000,Jackson County Sheriff's Office,AR,5061
 AR0600100,Jacksonville Police Department,AR,29036
@@ -647,16 +662,20 @@ AR0370300,Lewisville Police Department,AR,858
 AR0400000,Lincoln County Sheriff's Office,AR,10847
 AR0720600,Lincoln Police Department,AR,2393
 AR0041600,Little Flock Police Department,AR,3036
+AR0410000,Little River County Sheriff's Office,AR,7514
 AR0600200,Little Rock Police Department,AR,205320
 AR0420000,Logan County Sheriff's Office,AR,14471
 AR0430000,Lonoke County Sheriff's Office,AR,29205
 AR0430400,Lonoke Police Department,AR,4294
 AR0040600,Lowell Police Department,AR,12019
+AR0470500,Luxora Police Department,AR,849
 AR0620600,Madison  Police Department,AR,706
 AR0440000,Madison County Sheriff's Office,AR,14672
 AR0140100,Magnolia Police Department,AR,10667
 AR0300100,Malvern Police Department,AR,11144
 AR0250200,Mammoth Spring Police Department,AR,953
+AR0470400,Manila Police Department,AR,3747
+AR0660700,Mansfield Police Department,AR,1067
 AR0390100,Marianna Police Department,AR,3192
 AR0450000,Marion County Sheriff's Office,AR,14610
 AR0180400,Marion Police Department,AR,13466
@@ -672,6 +691,7 @@ AR0570100,Mena Police Department,AR,5602
 AR0150400,Menifee Police Department,AR,324
 AR0460000,Miller County Sheriff's Office,AR,13113
 AR0310400,Mineral Springs Police Department,AR,1035
+AR0470000,Mississippi County Sheriff's Office,AR,8365
 AR0160600,Monette Police Department,AR,1570
 AR0480000,Monroe County Sheriff's Office,AR,2421
 AR0490000,Montgomery County Sheriff's Office,AR,8482
@@ -691,6 +711,7 @@ AR0600300,North Little Rock Police Department,AR,64455
 AR0041400,Northwest Arkansas Community College,AR,0
 AR0041700,Northwest Arkansas Regional Airport,AR,0
 AR0750300,Ola Police Department,AR,926
+AR0470200,Osceola Police Department,AR,6385
 AR0520000,Ouachita County Sheriff's Office,AR,11504
 AR0240100,Ozark Police Department,AR,3616
 AR0730500,Pangburn Police Department,AR,498
@@ -706,6 +727,7 @@ AR0110200,Piggott Police Department,AR,3496
 AR0110900,Piggott Public School,AR,0
 AR0550000,Pike County Sheriff's Office,AR,6595
 AR0350100,Pine Bluff Police Department,AR,38257
+AR0321100,Pleasant Plains Police Department,AR,346
 AR0150300,Plumerville Police Department,AR,754
 AR0610100,Pocahontas Police Department,AR,7781
 AR0560000,Poinsett County Sheriff's Office,AR,7523
@@ -717,6 +739,7 @@ AR0590000,Prairie County Sheriff's Office,AR,4192
 AR0720300,Prairie Grove Police Department,AR,8998
 AR0500100,Prescott Police Department,AR,2941
 AR0600000,Pulaski County Sheriff's Office,AR,49735
+AR0120200,Quitman Police Department,AR,704
 AR0610000,Randolph County Sheriff's Office,AR,11413
 AR0380400,Ravenden Police Department,AR,420
 AR0350300,Redfield Police Department,AR,1497
@@ -739,6 +762,7 @@ AR0700200,Smackover Police Department,AR,1560
 AR0351900,Southeast Arkansas College,AR,0
 AR0140500,Southern Arkansas University,AR,0
 AR0520600,Southern Arkansas University Tech,AR,0
+AR0720200,Springdale Police Department,AR,93007
 AR0010500,St. Charles Police Department,AR,188
 AR0620000,St. Francis County Sheriff's Office,AR,7727
 AR0370200,Stamps Police Department,AR,1187
@@ -778,6 +802,7 @@ AR039040X,State Park: Louisiana Purchase State Park,AR,0
 AR059050X,State Park: Lower White River Museum State Park,AR,0
 AR025040X,State Park: Mammoth Spring State Park,AR,0
 AR013050X,State Park: Marks' Mills Battleground State Park,AR,0
+AR0410400,State Park: Millwood State Park,AR,0
 AR0541800,State Park: Mississippi River State Park,AR,0
 AR0060400,State Park: Moro Bay State Park,AR,0
 AR0420400,State Park: Mount Magazine State Park,AR,0
@@ -982,6 +1007,7 @@ CA0190200,Arcadia Police Department,CA,53974
 CA0120100,Arcata Police Department,CA,18741
 CA0400100,Arroyo Grande Police Department,CA,18203
 CA0190300,Artesia Police Department,CA,15497
+CA0150100,Arvin Police Department,CA,19698
 CA0400800,Atascadero Police Department,CA,29742
 CA040015M,Atascadero State Hospital,CA,0
 CA0410100,Atherton Police Department,CA,6986
@@ -990,11 +1016,13 @@ CA0310100,Auburn Police Department,CA,13777
 CA0190400,Avalon Police Department,CA,3224
 CA0160800,Avenal Police Department,CA,14286
 CA0190500,Azusa Police Department,CA,47939
+CA0150200,Bakersfield Police Department,CA,420589
 CA0190600,Baldwin Park Police Department,CA,68586
 CA0191N00,Baldwin Park Unified School District,CA,0
 CA0330100,Banning Police Department,CA,32480
 CA0360100,Barstow Police Department,CA,24770
 CADIT1600,Bear River Band,CA,0
+CA0151500,Bear Valley Police Department,CA,5466
 CA0330200,Beaumont Police Department,CA,61160
 CA0190900,Bell Gardens Police Department,CA,37125
 CA0190700,Bell Police Department,CA,31562
@@ -1006,6 +1034,7 @@ CA0010300,Berkeley Police Department,CA,121235
 CA0191000,Beverly Hills Police Department,CA,30651
 CA036200X,Big Bear Lake Police Department,CA,5045
 CA0040100,Biggs Police Department,CA,1938
+CA0140100,Bishop Police Department,CA,3727
 CADI03900,Blue Lake Tribal,CA,0
 CA0330300,Blythe Police Department,CA,17214
 CA0191100,Bradbury Police Department,CA,874
@@ -1022,6 +1051,7 @@ CA0040000,Butte County Sheriff's Office,CA,65255
 CA0192H0X,Calabasas Police Department,CA,22016
 CA0050000,Calaveras County Sheriff's Office,CA,42987
 CA0130200,Calexico Police Department,CA,38785
+CA0151100,California City Police Department,CA,12745
 CA0101900,"California Department of Forestry and Fire Protection, Fresno-Kings",CA,0
 CA0090300,California Department of Forestry and Fire Protection: Amador-El Dorado,CA,0
 CA0041200,California Department of Forestry and Fire Protection: Butte,CA,0
@@ -1072,6 +1102,7 @@ CA0120800,California State Polytechnic University: Humboldt,CA,0
 CA0197800,California State Polytechnic University: Pomona,CA,0
 CA0400700,California State Polytechnic University: San Luis Obispo,CA,0
 CA0481500,California State Polytechnic University: Solano,CA,0
+CA0151200,California State University: Bakersfield,CA,0
 CA0562200,California State University: Channel Islands,CA,0
 CA0049700,California State University: Chico,CA,0
 CA0198100,California State University: Dominguez Hills,CA,0
@@ -1089,6 +1120,7 @@ CA0373200,California State University: San Marcos,CA,0
 CA0501000,California State University: Stanislaus,CA,0
 CA033400X,Calimesa Police Department,CA,11400
 CA0130300,Calipatria Police Department,CA,6443
+CA0280100,Calistoga Police Department,CA,4973
 CA0560100,Camarillo Police Department,CA,69673
 CA0430200,Campbell Police Department,CA,42679
 CA033410X,Canyon Lake Police Department,CA,11180
@@ -1111,9 +1143,13 @@ CA0349600,Citrus Heights Police Department,CA,86751
 CA0050100,City of Angels Police Department,CA,3744
 CA0191300,Claremont Police Department,CA,35825
 CA0070300,Clayton Police Department,CA,10901
+CA0170200,Clearlake Police Department,CA,16622
 CA0490100,Cloverdale Police Department,CA,8726
+CA0100100,Clovis Police Department,CA,129862
 CA0103500,Clovis Unified School District,CA,0
 CA0330500,Coachella Police Department,CA,45992
+CA0100200,Coalinga Police Department,CA,16497
+CA010015M,Coalinga State Hospital,CA,0
 CA0541100,College of the Sequoias,CA,0
 CA0410500,Colma Police Department,CA,1411
 CA0360300,Colton Police Department,CA,53417
@@ -1145,6 +1181,7 @@ CA0570100,Davis Police Department,CA,67181
 CA0370400,Del Mar Police Department,CA,3891
 CA0080000,Del Norte County Sheriff's Office,CA,20677
 CA0270200,Del Rey Oaks Police Department,CA,1546
+CA0150300,Delano Police Department,CA,54060
 CA0330600,Desert Hot Springs Police Department,CA,34267
 CA0191W0X,Diamond Bar Police Department,CA,51635
 CA0540100,Dinuba Police Department,CA,26100
@@ -1190,6 +1227,7 @@ CA0412000,Foster City Police Department,CA,32395
 CA0300700,Fountain Valley Police Department,CA,55805
 CA0100400,Fowler Police Department,CA,7662
 CA0010500,Fremont Police Department,CA,227635
+CA0100000,Fresno County Sheriff's Office,CA,159621
 CA0100500,Fresno Police Department,CA,551969
 CA0300800,Fullerton Police Department,CA,139237
 CA0340200,Galt Police Department,CA,26827
@@ -1225,12 +1263,16 @@ CA0039995,Highway Patrol: Amador Area Office,CA,0
 CA0199945,Highway Patrol: Antelope Valley Area Office,CA,0
 CA0369965,Highway Patrol: Arrowhead Area Office,CA,0
 CA0319920,Highway Patrol: Auburn Area Office,CA,0
+CA0159920,Highway Patrol: Bakersfield Area Office,CA,0
 CA0199925,Highway Patrol: Baldwin Park Area Office,CA,0
 CA0369930,Highway Patrol: Barstow Area Office,CA,0
+CA0149925,Highway Patrol: Bishop Area Office,CA,0
 CA0339960,Highway Patrol: Blythe Area Office,CA,0
 CA0379901,Highway Patrol: Border Division Area Office,CA,0
 CA0379908,Highway Patrol: Border Investigative Services Unit,CA,0
+CA0269920,Highway Patrol: Bridgeport Area Office,CA,0
 CA0429955,Highway Patrol: Buellton Area Office,CA,0
+CA0159926,Highway Patrol: Buttonwillow Area Office,CA,0
 CA0139926,Highway Patrol: Calexico Commercial Vehicle Enforcement Facility,CA,0
 CA0309990,Highway Patrol: Capistrano Area Office,CA,0
 CA0349917,Highway Patrol: Capitol Protection Section,CA,0
@@ -1240,6 +1282,7 @@ CA0109912,Highway Patrol: Central Investigative Services Unit,CA,0
 CA0199990,Highway Patrol: Central Los Angeles Area Office,CA,0
 CA0049941,Highway Patrol: Chico Area Office,CA,0
 CA0249964,Highway Patrol: Chowchilla River Commercial Vehicle Enforcement Facility,CA,0
+CA0179951,Highway Patrol: Clear Lake Area Office,CA,0
 CA0109995,Highway Patrol: Coalinga Area Office,CA,0
 CA0409901,Highway Patrol: Coastal Division,CA,0
 CA0449909,"Highway Patrol: Coastal Investigative Services Unit, Monterey",CA,0
@@ -1260,12 +1303,15 @@ CA0199935,Highway Patrol: East Los Angeles Area Office,CA,0
 CA0349960,Highway Patrol: East Sacramento Area Office,CA,0
 CA0379980,Highway Patrol: El Cajon Area Office,CA,0
 CA0139925,Highway Patrol: El Centro Area Office,CA,0
+CA0159960,Highway Patrol: Fort Tejon Area Office,CA,0
+CA0109935,Highway Patrol: Fresno Area Office,CA,0
 CA0129926,Highway Patrol: Garberville Area Office,CA,0
 CA0439926,Highway Patrol: Gilroy Commercial Vehicle Enforcement Facility,CA,0
 CA0319921,Highway Patrol: Gold Run Area Office,CA,0
 CA0489901,Highway Patrol: Golden Gate Division,CA,0
 CA0019916,Highway Patrol: Golden Gate Investigative Services Unit,CA,0
 CA0349908,Highway Patrol: Governor's Protective Detail Section,CA,0
+CA0159924,Highway Patrol: Grapevine Commercial Vehicle Enforcement Facility,CA,0
 CA0299930,Highway Patrol: Grass Valley Area Office,CA,0
 CA0169940,Highway Patrol: Hanford Area Office,CA,0
 CA0019945,Highway Patrol: Hayward Area Office,CA,0
@@ -1276,6 +1322,8 @@ CA0339930,Highway Patrol: Indio Area Office,CA,0
 CA0369901,Highway Patrol: Inland Division,CA,0
 CA0369908,Highway Patrol: Inland Investigative Services Unit,CA,0
 CA0389921,"Highway Patrol: Judicial Protection Section, North",CA,0
+CA0159912,Highway Patrol: Kern County Auto Theft Task Force,CA,0
+CA0279935,Highway Patrol: King City Area Office,CA,0
 CA0249961,Highway Patrol: Los Banos Area Office,CA,0
 CA0209950,Highway Patrol: Madera Area Office,CA,0
 CA0219950,Highway Patrol: Marin Area Office,CA,0
@@ -1283,6 +1331,8 @@ CA0229955,Highway Patrol: Mariposa Area Office,CA,0
 CA0249960,Highway Patrol: Merced Area Office,CA,0
 CA0019991,Highway Patrol: Mission Grade Commercial Vehicle Enforcement Facility,CA,0
 CA0509965,Highway Patrol: Modesto Area Office,CA,0
+CA0159930,Highway Patrol: Mojave Area Office,CA,0
+CA0279930,Highway Patrol: Monterey Area Office,CA,0
 CA0569970,Highway Patrol: Moorpark Area Office,CA,0
 CA0369970,Highway Patrol: Morongo Basin Area Office,CA,0
 CA0479946,Highway Patrol: Mount Shasta Area Office,CA,0
@@ -1371,6 +1421,7 @@ CA0331600,Indian Wells Police Department,CA,5042
 CA0330900,Indio Police Department,CA,95514
 CA0193200,Industry Police Department,CA,254
 CA0193300,Inglewood Police Department,CA,101651
+CA0140000,Inyo County Sheriff's Office,CA,14605
 CA0030200,Ione Police Department,CA,9536
 CA0302600,Irvine Police Department,CA,321339
 CA0309600,Irvine Valley College,CA,0
@@ -1380,6 +1431,8 @@ CA0030300,Jackson Police Department,CA,5101
 CA033A000,Jurupa Valley Police Department,CA,108866
 CA0071300,Kensington Police Department,CA,5397
 CA0100700,Kerman Police Department,CA,17881
+CA0150000,Kern County Sheriff's Office,CA,298272
+CA0152100,Kern High School District,CA,0
 CA0270500,King City Police Department,CA,14065
 CA0160000,Kings County Sheriff's Office,CA,30319
 CA0100800,Kingsburg Police Department,CA,13310
@@ -1398,9 +1451,11 @@ CA0301100,Laguna Beach Police Department,CA,22455
 CA030420X,Laguna Hills Police Department,CA,30150
 CA030390X,Laguna Niguel Police Department,CA,64098
 CA030470X,Laguna Woods Police Department,CA,16922
+CA0170000,Lake County Sheriff's Office,CA,45812
 CA033300X,Lake Elsinore Police Department,CA,74375
 CA030430X,Lake Forest Police Department,CA,87471
 CA0471000,Lake Shastina Police Department,CA,2546
+CA0170100,Lakeport Police Department,CA,5122
 CA0193500,Lakewood Police Department,CA,77590
 CA019960X,Lancaster Police Department,CA,166019
 CA0180000,Lassen County Sheriff's Office,CA,15865
@@ -1433,6 +1488,7 @@ CA0194300,Lynwood Police Department,CA,62826
 CA0200000,Madera County Sheriff's Office,CA,78502
 CA0200200,Madera Police Department,CA,69753
 CA0192J0X,Malibu Police Department,CA,10218
+CA0260100,Mammoth Lakes Police Department,CA,7097
 CA0194400,Manhattan Beach Police Department,CA,32989
 CA0390300,Manteca Police Department,CA,97039
 CA0211300,Marin Community College,CA,0
@@ -1442,6 +1498,7 @@ CA0220000,Mariposa County Sheriff's Office,CA,17002
 CA0071400,Martinez Police Department,CA,36962
 CA0580100,Marysville Police Department,CA,12680
 CA0194500,Maywood Police Department,CA,23546
+CA0150500,McFarland Police Department,CA,14413
 CA0230000,Mendocino County Sheriff's Office,CA,60594
 CA0100900,Mendota Police Department,CA,12631
 CA0334900,Menifee Police Department,CA,120777
@@ -1455,6 +1512,7 @@ CA037A600,MiraCosta College,CA,0
 CA030350X,Mission Viejo Police Department,CA,91142
 CA0500200,Modesto Police Department,CA,221064
 CA0250000,Modoc County Sheriff's Office,CA,5792
+CA0260000,Mono County Sheriff's Office,CA,5818
 CA0194600,Monrovia Police Department,CA,37736
 CA0470500,Montague Police Department,CA,1158
 CA0360500,Montclair Police Department,CA,37576
@@ -1472,6 +1530,8 @@ CA0470600,Mount Shasta Police Department,CA,3101
 CA0431100,Mountain View Police Department,CA,88504
 CA033A100,Mt. San Jacinto College,CA,0
 CA0334200,Murrieta Police Department,CA,112892
+CA0280000,Napa County Sheriff's Office,CA,19884
+CA0280200,Napa Police Department,CA,76328
 CA028130X,Napa Special Investigations Bureau,CA,0
 CA0280800,Napa State Hospital,CA,0
 CA0370900,National City Police Department,CA,57748
@@ -1546,6 +1606,7 @@ CA0411300,Redwood City Police Department,CA,82769
 CA0101200,Reedley Police Department,CA,26368
 CA0360900,Rialto Police Department,CA,105159
 CA0071000,Richmond Police Department,CA,115149
+CA0150600,Ridgecrest Police Department,CA,28469
 CA0120700,Rio Dell Police Department,CA,3228
 CA019C700,Rio Hondo Community College,CA,0
 CA0480400,Rio Vista Police Department,CA,10309
@@ -1629,6 +1690,7 @@ CA0302000,Seal Beach Police Department,CA,24232
 CA0271000,Seaside Police Department,CA,31325
 CA0490600,Sebastopol Police Department,CA,7356
 CA0101500,Selma Police Department,CA,24439
+CA0150700,Shafter Police Department,CA,23483
 CA0459100,Shasta County Marshal,CA,0
 CA0450000,Shasta County Sheriff's Office,CA,76026
 CA0460000,Sierra County Sheriff's Office,CA,3080
@@ -1651,6 +1713,7 @@ CA0090200,South Lake Tahoe Police Department,CA,21206
 CA0197000,South Pasadena Police Department,CA,25370
 CA0411700,South San Francisco Police Department,CA,64363
 CA0280300,St. Helena Police Department,CA,5216
+CA0151400,Stallion Springs Police Department,CA,2628
 CA0500000,Stanislaus County Sheriff's Office,CA,109324
 CA0302100,Stanton Police Department,CA,42005
 CA0101700,State Center Community College District,CA,0
@@ -1663,6 +1726,8 @@ CA0510000,Sutter County Sheriff's Office,CA,29248
 CA0030500,Sutter Creek Police Department,CA,2722
 CADIT0400,Sycuan Tribal,CA,0
 CADIT1100,Table Mountain Rancheria,CA,0
+CA0150800,Taft Police Department,CA,6849
+CA0150900,Tehachapi Police Department,CA,10699
 CA0520000,Tehama County Sheriff's Office,CA,41766
 CA033380X,Temecula Police Department,CA,113026
 CA0197100,Temple City Police Department,CA,34654
@@ -1694,6 +1759,8 @@ CA0102400,Union Pacific Railroad: Fresno County,CA,0
 CA011030X,Union Pacific Railroad: Glenn County,CA,0
 CA012090X,Union Pacific Railroad: Humboldt County,CA,0
 CA013080X,Union Pacific Railroad: Imperial County,CA,0
+CA014030X,Union Pacific Railroad: Inyo County,CA,0
+CA0152200,Union Pacific Railroad: Kern County,CA,0
 CA0160500,Union Pacific Railroad: Kings County,CA,0
 CA018030X,Union Pacific Railroad: Lassen County,CA,0
 CA0190I00,Union Pacific Railroad: Los Angeles County,CA,0
@@ -1703,6 +1770,7 @@ CA0230900,Union Pacific Railroad: Mendocino County,CA,0
 CA024080X,Union Pacific Railroad: Merced County,CA,0
 CA025020X,Union Pacific Railroad: Modoc County,CA,0
 CA027150X,Union Pacific Railroad: Monterey County,CA,0
+CA028060X,Union Pacific Railroad: Napa County,CA,0
 CA029030X,Union Pacific Railroad: Nevada County,CA,0
 CA030290X,Union Pacific Railroad: Orange County,CA,0
 CA0311200,Union Pacific Railroad: Placer County,CA,0
@@ -1756,6 +1824,7 @@ CA0540700,Visalia Police Department,CA,147414
 CA0371300,Vista Police Department,CA,99445
 CA0071200,Walnut Creek Police Department,CA,70970
 CA0197400,Walnut Police Department,CA,26982
+CA0151000,Wasco Police Department,CA,27937
 CA0500800,Waterford Police Department,CA,9305
 CA0440300,Watsonville Police Department,CA,51037
 CA0470800,Weed Police Department,CA,2580
@@ -1790,6 +1859,7 @@ CO0020000,Alamosa County Sheriff's Office,CO,6869
 CO0020100,Alamosa Police Department,CO,9930
 CO0030900,Arapahoe Community College,CO,0
 CO0030000,Arapahoe County Sheriff's Office,CO,108141
+CO0040000,Archuleta County Sheriff's Office,CO,12476
 CO0300100,Arvada Police Department,CO,121261
 CO0490100,Aspen Police Department,CO,6452
 CO0621200,Ault Police Department,CO,2895
@@ -1848,6 +1918,7 @@ CO0620800,Dacono Police Department,CO,6851
 CO0390400,De Beque Police Department,CO,475
 CO0530200,Del Norte Police Department,CO,1398
 CO0150000,Delta County Sheriff's Office,CO,17825
+CO0438000,Delta Montrose Drug Task Force,CO,0
 CO0150100,Delta Police Department,CO,9851
 CODPD0000,Denver Police Department,CO,733212
 CO0590200,Dillon Police Department,CO,1000
@@ -1890,6 +1961,7 @@ CO0230000,Garfield County Sheriff's Office,CO,25666
 CO0240000,Gilpin County Sheriff's Office,CO,5891
 CO0030400,Glendale Police Department,CO,4432
 CO0230100,Glenwood Springs Police Department,CO,10389
+CO0300200,Golden Police Department,CO,20091
 CO0500400,Granada Police Department,CO,447
 CO0250100,Granby Police Department,CO,2364
 CO0250000,Grand County Sheriff's Office,CO,9733
@@ -1900,8 +1972,10 @@ CO0030700,Greenwood Village Police Department,CO,15201
 CO0260000,Gunnison County Sheriff's Office,CO,7952
 CO0260100,Gunnison Police Department,CO,6885
 CO0191000,Gypsum Police Department,CO,9529
+CO0480200,Haxtun Police Department,CO,964
 CO0540200,Hayden Police Department,CO,1917
 CO0270000,Hinsdale County Sheriff's Office,CO,738
+CO0480100,Holyoke Police Department,CO,2284
 CO0150300,Hotchkiss Police Department,CO,957
 CO0622400,Hudson Police Department,CO,1610
 CO0280000,Huerfano County Sheriff's Office,CO,6170
@@ -1909,6 +1983,7 @@ CO0370200,Hugo Police Department,CO,769
 CO0100100,Idaho Springs Police Department,CO,1675
 CO0340300,Ignacio Police Department,CO,846
 CO0290000,Jackson County Sheriff's Office,CO,1250
+CO0300000,Jefferson County Sheriff's Office,CO,197128
 CO0621000,Johnstown Police Department,CO,21551
 CO0621900,Keenesburg Police Department,CO,2343
 CO0620900,Kersey Police Department,CO,1496
@@ -1951,6 +2026,7 @@ CO0410000,Moffat County Sheriff's Office,CO,4018
 CO0530100,Monte Vista Police Department,CO,3976
 CO0420000,Montezuma County Sheriff's Office,CO,16595
 CO0430000,Montrose County Sheriff's Office,CO,21463
+CO0430100,Montrose Police Department,CO,21974
 CO0210700,Monument Police Department,CO,14284
 CO0440000,Morgan County Sheriff's Office,CO,10430
 CO0260200,Mount Crested Butte Police Department,CO,957
@@ -1964,12 +2040,14 @@ CO0430400,Olathe Police Department,CO,1960
 CO0450000,Otero County Sheriff's Office,CO,5680
 CO0460000,Ouray County Sheriff's Office,CO,3064
 CO0460100,Ouray Police Department,CO,916
+CO0040100,Pagosa Springs Police Department,CO,1839
 CO0390300,Palisade Police Department,CO,2610
 CO0210600,Palmer Lake Police Department,CO,2554
 CO0150200,Paonia Police Department,CO,1467
 CO0230200,Parachute Police Department,CO,1355
 CO0470000,Park County Sheriff's Office,CO,17820
 CO0180500,Parker Police Department,CO,67244
+CO0480000,Phillips County Sheriff's Office,CO,1237
 CO0210500,Pikes Peak Community College,CO,0
 CO0490000,Pitkin County Sheriff's Office,CO,6064
 CO0621300,Platteville Police Department,CO,3906
@@ -1985,8 +2063,11 @@ CO0520000,Rio Blanco County Sheriff's Office,CO,1962
 CO0530000,Rio Grande County Sheriff's Office,CO,5135
 CO0450200,Rocky Ford Police Department,CO,3760
 CO0540000,Routt County Sheriff's Office,CO,9751
+CO0550000,Saguache County Sheriff's Office,CO,4915
 CO0080200,Salida Police Department,CO,6083
+CO0560000,San Juan County Sheriff's Office,CO,854
 CO0570000,San Miguel County Sheriff's Office,CO,4088
+CO0580000,Sedgwick County Sheriff's Office,CO,2229
 CO0622800,Severance Police Department,CO,12689
 CO0030300,Sheridan Police Department,CO,5890
 CO0230500,Silt Police Department,CO,3772
@@ -2247,6 +2328,7 @@ FL0600200,Center Hill Police Department,FL,1105
 FL0080000,Charlotte County Sheriff's Office,FL,194478
 FL0200200,Chattahoochee Police Department,FL,3055
 FL0380200,Chiefland Police Department,FL,2473
+FL0670100,Chipley Police Department,FL,3760
 FL0090000,Citrus County Sheriff's Office,FL,171499
 FL0101200,Clay County School Board,FL,0
 FL0100000,Clay County Sheriff's Office,FL,218420
@@ -2255,8 +2337,10 @@ FL0350300,Clermont Police Department,FL,52925
 FL0260100,Clewiston Police Department,FL,7542
 FL0050300,Cocoa Beach Police Department,FL,11396
 FL0050200,Cocoa Police Department,FL,20135
+FL0061100,Coconut Creek Police Department,FL,59772
 FL0110000,Collier County Sheriff's Office,FL,382493
 FL0120000,Columbia County Sheriff's Office,FL,60966
+FL0061000,Cooper City Police Department,FL,35577
 FL0130200,Coral Gables Police Department,FL,50539
 FL0062800,Coral Springs Police Department,FL,141436
 FL0320200,Cottondale Police Department,FL,887
@@ -2303,7 +2387,9 @@ FL025A00X,"Department of Agriculture and Consumer Services, Office of Agricultur
 FL026A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Hendry",FL,0
 FL027A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Hernando",FL,0
 FL028A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Highlands",FL,0
+FL029A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Hillsborough",FL,0
 FL030A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Holmes",FL,0
+FL031A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Indian River",FL,0
 FL032A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Jackson",FL,0
 FL033A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Jefferson",FL,0
 FL034A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Lafayette",FL,0
@@ -2323,10 +2409,12 @@ FL046A00X,"Department of Agriculture and Consumer Services, Office of Agricultur
 FL047A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Okeechobee",FL,0
 FL048A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Orange",FL,0
 FL049A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Osceola",FL,0
+FL050A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Palm Beach",FL,0
 FL051A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Pasco",FL,0
 FL052A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Pinellas",FL,0
 FL053A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Polk",FL,0
 FL054A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Putnam",FL,0
+FL057A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Santa Rosa",FL,0
 FL058A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Sarasota",FL,0
 FL059A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Seminole",FL,0
 FL055A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: St. Johns",FL,0
@@ -2338,6 +2426,7 @@ FL063A00X,"Department of Agriculture and Consumer Services, Office of Agricultur
 FL064A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Volusia",FL,0
 FL065A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Wakulla",FL,0
 FL066A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Walton",FL,0
+FL067A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: Washington",FL,0
 FL0012900,"Department of Corrections, Office of the Inspector General: Alachua County",FL,0
 FL002040X,"Department of Corrections, Office of the Inspector General: Baker County",FL,0
 FL0031600,"Department of Corrections, Office of the Inspector General: Bay County",FL,0
@@ -2365,7 +2454,9 @@ FL0250400,"Department of Corrections, Office of the Inspector General: Hardee Co
 FL0260500,"Department of Corrections, Office of the Inspector General: Hendry County",FL,0
 FL0270500,"Department of Corrections, Office of the Inspector General: Hernando County",FL,0
 FL0280600,"Department of Corrections, Office of the Inspector General: Highlands County",FL,0
+FL0291800,"Department of Corrections, Office of the Inspector General: Hillsborough County",FL,0
 FL0300200,"Department of Corrections, Office of the Inspector General: Holmes County",FL,0
+FL0310600,"Department of Corrections, Office of the Inspector General: Indian River County",FL,0
 FL0320800,"Department of Corrections, Office of the Inspector General: Jackson County",FL,0
 FL033020X,"Department of Corrections, Office of the Inspector General: Jefferson County",FL,0
 FL0340300,"Department of Corrections, Office of the Inspector General: Lafayette County",FL,0
@@ -2390,6 +2481,7 @@ FL0510700,"Department of Corrections, Office of the Inspector General: Pasco Cou
 FL0522200,"Department of Corrections, Office of the Inspector General: Pinellas County",FL,0
 FL053210X,"Department of Corrections, Office of the Inspector General: Polk County",FL,0
 FL0540700,"Department of Corrections, Office of the Inspector General: Putnam County",FL,0
+FL057070X,"Department of Corrections, Office of the Inspector General: Santa Rosa County",FL,0
 FL0581100,"Department of Corrections, Office of the Inspector General: Sarasota County",FL,0
 FL0591100,"Department of Corrections, Office of the Inspector General: Seminole County",FL,0
 FL0550900,"Department of Corrections, Office of the Inspector General: St. Johns County",FL,0
@@ -2401,6 +2493,7 @@ FL0630400,"Department of Corrections, Office of the Inspector General: Union Cou
 FL0642400,"Department of Corrections, Office of the Inspector General: Volusia County",FL,0
 FL065040X,"Department of Corrections, Office of the Inspector General: Wakulla County",FL,0
 FL0660500,"Department of Corrections, Office of the Inspector General: Walton County",FL,0
+FL067050X,"Department of Corrections, Office of the Inspector General: Washington County",FL,0
 FL001A20X,"Department of Environmental Protection, Law Enforcement: Alachua County",FL,0
 FL002A20X,"Department of Environmental Protection, Law Enforcement: Baker County",FL,0
 FL003A20X,"Department of Environmental Protection, Law Enforcement: Bay County",FL,0
@@ -2428,7 +2521,9 @@ FL025A20X,"Department of Environmental Protection, Law Enforcement: Hardee Count
 FL026A20X,"Department of Environmental Protection, Law Enforcement: Hendry County",FL,0
 FL027A20X,"Department of Environmental Protection, Law Enforcement: Hernando County",FL,0
 FL028A20X,"Department of Environmental Protection, Law Enforcement: Highlands County",FL,0
+FL029A20X,"Department of Environmental Protection, Law Enforcement: Hillsborough County",FL,0
 FL030A20X,"Department of Environmental Protection, Law Enforcement: Holmes County",FL,0
+FL031A20X,"Department of Environmental Protection, Law Enforcement: Indian River County",FL,0
 FL032A20X,"Department of Environmental Protection, Law Enforcement: Jackson County",FL,0
 FL033A20X,"Department of Environmental Protection, Law Enforcement: Jefferson County",FL,0
 FL034A20X,"Department of Environmental Protection, Law Enforcement: Lafayette County",FL,0
@@ -2448,10 +2543,12 @@ FL046A20X,"Department of Environmental Protection, Law Enforcement: Okaloosa Cou
 FL047A20X,"Department of Environmental Protection, Law Enforcement: Okeechobee County",FL,0
 FL048A20X,"Department of Environmental Protection, Law Enforcement: Orange County",FL,0
 FL049A20X,"Department of Environmental Protection, Law Enforcement: Osceola County",FL,0
+FL050A20X,"Department of Environmental Protection, Law Enforcement: Palm Beach County",FL,0
 FL051A20X,"Department of Environmental Protection, Law Enforcement: Pasco County",FL,0
 FL052A20X,"Department of Environmental Protection, Law Enforcement: Pinellas County",FL,0
 FL053A20X,"Department of Environmental Protection, Law Enforcement: Polk County",FL,0
 FL054A20X,"Department of Environmental Protection, Law Enforcement: Putnam County",FL,0
+FL057A20X,"Department of Environmental Protection, Law Enforcement: Santa Rosa County",FL,0
 FL058A20X,"Department of Environmental Protection, Law Enforcement: Sarasota County",FL,0
 FL059A20X,"Department of Environmental Protection, Law Enforcement: Seminole County",FL,0
 FL055A20X,"Department of Environmental Protection, Law Enforcement: St. Johns County",FL,0
@@ -2463,9 +2560,11 @@ FL063A20X,"Department of Environmental Protection, Law Enforcement: Union County
 FL064A20X,"Department of Environmental Protection, Law Enforcement: Volusia County",FL,0
 FL065A20X,"Department of Environmental Protection, Law Enforcement: Wakulla County",FL,0
 FL066A20X,"Department of Environmental Protection, Law Enforcement: Walton County",FL,0
+FL067A20X,"Department of Environmental Protection, Law Enforcement: Washington County",FL,0
 FL0067000,Department of Insurance: Broward County,FL,0
 FL0167000,Department of Insurance: Duval County,FL,0
 FL0177000,Department of Insurance: Escambia County,FL,0
+FL0297000,Department of Insurance: Hillsborough County,FL,0
 FL0367000,Department of Insurance: Lee County,FL,0
 FL0137000,Department of Insurance: Miami-Dade County,FL,0
 FL0487000,Department of Insurance: Orange County,FL,0
@@ -2473,6 +2572,7 @@ FL0507000,Department of Insurance: Palm Beach County,FL,0
 FL0523000,Department of Insurance: Pinellas County,FL,0
 FL0160500,"Department of Law Enforcement: Duval County, Jacksonville",FL,0
 FL0170300,"Department of Law Enforcement: Escambia County, Pensacola",FL,0
+FL0290500,"Department of Law Enforcement: Hillsborough County, Tampa",FL,0
 FL0360500,"Department of Law Enforcement: Lee County, Fort Myers",FL,0
 FL0370400,"Department of Law Enforcement: Leon County, Tallahassee",FL,0
 FL0133000,"Department of Law Enforcement: Miami-Dade County, Miami",FL,0
@@ -2505,7 +2605,9 @@ FL025500X,Division of Alcoholic Beverages and Tobacco: Hardee County,FL,0
 FL026500X,Division of Alcoholic Beverages and Tobacco: Hendry County,FL,0
 FL027500X,Division of Alcoholic Beverages and Tobacco: Hernando County,FL,0
 FL028500X,Division of Alcoholic Beverages and Tobacco: Highlands County,FL,0
+FL0295000,Division of Alcoholic Beverages and Tobacco: Hillsborough County,FL,0
 FL030500X,Division of Alcoholic Beverages and Tobacco: Holmes County,FL,0
+FL031500X,Division of Alcoholic Beverages and Tobacco: Indian River County,FL,0
 FL0325000,Division of Alcoholic Beverages and Tobacco: Jackson County,FL,0
 FL033500X,Division of Alcoholic Beverages and Tobacco: Jefferson County,FL,0
 FL034500X,Division of Alcoholic Beverages and Tobacco: Lafayette County,FL,0
@@ -2530,6 +2632,7 @@ FL051500X,Division of Alcoholic Beverages and Tobacco: Pasco County,FL,0
 FL0525000,Division of Alcoholic Beverages and Tobacco: Pinellas County,FL,0
 FL0535000,Division of Alcoholic Beverages and Tobacco: Polk County,FL,0
 FL054500X,Division of Alcoholic Beverages and Tobacco: Putnam County,FL,0
+FL057500X,Division of Alcoholic Beverages and Tobacco: Santa Rosa County,FL,0
 FL0585000,Division of Alcoholic Beverages and Tobacco: Sarasota County,FL,0
 FL059500X,Division of Alcoholic Beverages and Tobacco: Seminole County,FL,0
 FL055500X,Division of Alcoholic Beverages and Tobacco: St. Johns County,FL,0
@@ -2541,6 +2644,7 @@ FL063500X,Division of Alcoholic Beverages and Tobacco: Union County,FL,0
 FL0645000,Division of Alcoholic Beverages and Tobacco: Volusia County,FL,0
 FL065500X,Division of Alcoholic Beverages and Tobacco: Wakulla County,FL,0
 FL066500X,Division of Alcoholic Beverages and Tobacco: Walton County,FL,0
+FL067500X,Division of Alcoholic Beverages and Tobacco: Washington County,FL,0
 FL0150000,Dixie County Sheriff's Office,FL,15719
 FL0131100,Doral Police Department,FL,85601
 FL0520400,Dunedin Police Department,FL,35898
@@ -2552,6 +2656,7 @@ FL0481000,Edgewood Police Department,FL,2912
 FL0131500,El Portal Police Department,FL,1981
 FL0170000,Escambia County Sheriff's Office,FL,274337
 FL0350100,Eustis Police Department,FL,25548
+FL0310100,Fellsmere Police Department,FL,5078
 FL0450100,Fernandina Beach Police Department,FL,13822
 FL0180200,Flagler Beach Police Department,FL,5676
 FL0180000,Flagler County Sheriff's Office,FL,130230
@@ -2585,7 +2690,9 @@ FL0258000,Florida Game Commission: Hardee County,FL,0
 FL0268000,Florida Game Commission: Hendry County,FL,0
 FL0278000,Florida Game Commission: Hernando County,FL,0
 FL0288000,Florida Game Commission: Highlands County,FL,0
+FL0298000,Florida Game Commission: Hillsborough County,FL,0
 FL0308000,Florida Game Commission: Holmes County,FL,0
+FL0318000,Florida Game Commission: Indian River County,FL,0
 FL0328000,Florida Game Commission: Jackson County,FL,0
 FL0338000,Florida Game Commission: Jefferson County,FL,0
 FL0348000,Florida Game Commission: Lafayette County,FL,0
@@ -2610,6 +2717,7 @@ FL0518000,Florida Game Commission: Pasco County,FL,0
 FL0528000,Florida Game Commission: Pinellas County,FL,0
 FL0538000,Florida Game Commission: Polk County,FL,0
 FL0548000,Florida Game Commission: Putnam County,FL,0
+FL0578000,Florida Game Commission: Santa Rosa County,FL,0
 FL0588000,Florida Game Commission: Sarasota County,FL,0
 FL0598000,Florida Game Commission: Seminole County,FL,0
 FL0558000,Florida Game Commission: St. Johns County,FL,0
@@ -2621,6 +2729,7 @@ FL0638000,Florida Game Commission: Union County,FL,0
 FL0648000,Florida Game Commission: Volusia County,FL,0
 FL0658000,Florida Game Commission: Wakulla County,FL,0
 FL0668000,Florida Game Commission: Walton County,FL,0
+FL0678000,Florida Game Commission: Washington County,FL,0
 FL0373800,Florida Gaming Control Commission,FL,0
 FL0360700,Florida Gulf Coast University,FL,0
 FL0133100,Florida International University,FL,0
@@ -2647,6 +2756,7 @@ FL0100100,Green Cove Springs Police Department,FL,10143
 FL0501200,Greenacres City Police Department,FL,45506
 FL0200400,Gretna Police Department,FL,1284
 FL0350500,Groveland Police Department,FL,26289
+FL0570200,Gulf Breeze Police Department,FL,7117
 FL0230000,Gulf County Sheriff's Office,FL,12055
 FL0501300,Gulf Stream Police Department,FL,1004
 FL0520500,Gulfport Police Department,FL,11615
@@ -2689,6 +2799,7 @@ FL0259000,Highway Patrol: Hardee County,FL,0
 FL0269000,Highway Patrol: Hendry County,FL,0
 FL0279000,Highway Patrol: Hernando County,FL,0
 FL0289000,Highway Patrol: Highlands County,FL,0
+FL0299000,Highway Patrol: Hillsborough County,FL,0
 FL0309000,Highway Patrol: Holmes County,FL,0
 FL0319000,Highway Patrol: Indian River County,FL,0
 FL0329000,Highway Patrol: Jackson County,FL,0
@@ -2715,6 +2826,7 @@ FL0519000,Highway Patrol: Pasco County,FL,0
 FL0529000,Highway Patrol: Pinellas County,FL,0
 FL0539000,Highway Patrol: Polk County,FL,0
 FL0549000,Highway Patrol: Putnam County,FL,0
+FL0579000,Highway Patrol: Santa Rosa County,FL,0
 FL0589000,Highway Patrol: Sarasota County,FL,0
 FL0599000,Highway Patrol: Seminole County,FL,0
 FL0559000,Highway Patrol: St. Johns County,FL,0
@@ -2726,6 +2838,9 @@ FL0639000,Highway Patrol: Union County,FL,0
 FL0649000,Highway Patrol: Volusia County,FL,0
 FL0659000,Highway Patrol: Wakulla County,FL,0
 FL0669000,Highway Patrol: Walton County,FL,0
+FL0679000,Highway Patrol: Washington County,FL,0
+FL0061400,Hillsboro Beach Police Department,FL,2042
+FL0290000,Hillsborough County Sheriff's Office,FL,1092535
 FL0640700,Holly Hill Police Department,FL,13235
 FL0060500,Hollywood Police Department,FL,159452
 FL0410400,Holmes Beach Police Department,FL,3059
@@ -2736,6 +2851,8 @@ FL0501500,Hypoluxo Police Department,FL,3007
 FL0050500,Indialantic Police Department,FL,3143
 FL0132500,Indian Creek Village Police Department,FL,90
 FL0050600,Indian Harbour Beach Police Department,FL,9003
+FL0310000,Indian River County Sheriff's Office,FL,117311
+FL0310400,Indian River Shores Police Department,FL,4521
 FL0520600,Indian Rocks Beach Police Department,FL,3628
 FL0521700,Indian Shores Police Department,FL,3355
 FL0540300,Interlachen Police Department,FL,1528
@@ -2745,6 +2862,7 @@ FL0160700,Jacksonville Aviation Authority,FL,0
 FL0160300,Jacksonville Beach Police Department,FL,23585
 FL0160000,Jacksonville Sheriff's Office,FL,1008920
 FL0240100,Jasper Police Department,FL,3636
+FL0570300,Jay Police Department,FL,597
 FL0330000,Jefferson County Sheriff's Office,FL,13268
 FL0240200,Jennings Police Department,FL,778
 FL0501600,Juno Beach Police Department,FL,3999
@@ -2774,6 +2892,7 @@ FL0502000,Lantana Police Department,FL,12778
 FL0520800,Largo Police Department,FL,82264
 FL0061700,Lauderdale Lakes Police Department,FL,37374
 FL0061600,Lauderdale-by-the-Sea Police Department,FL,6363
+FL0061800,Lauderhill Police Department,FL,76625
 FL0040300,Lawtey Police Department,FL,694
 FL0360400,Lee County Port Authority,FL,0
 FL0360000,Lee County Sheriff's Office,FL,519074
@@ -2818,6 +2937,7 @@ FL0130000,Miami-Dade County Police Department,FL,1200003
 FL0133700,Miami-Dade County Public Schools,FL,0
 FL0133900,Miccosukee Tribal,FL,0
 FL0200500,Midway Police Department,FL,3472
+FL0570100,Milton Police Department,FL,11419
 FL0350800,Minneola Police Department,FL,21352
 FL0062200,Miramar Police Department,FL,144398
 FL0440000,Monroe County Sheriff's Office,FL,53422
@@ -2881,8 +3001,10 @@ FL0620100,Perry Police Department,FL,7423
 FL0641100,Pierson Police Department,FL,1569
 FL0520000,Pinellas County Sheriff's Office,FL,257198
 FL0521100,Pinellas Park Police Department,FL,53531
+FL0290100,Plant City Police Department,FL,43909
 FL0060600,Plantation Police Department,FL,102187
 FL0530000,Polk County Sheriff's Office,FL,541319
+FL0060700,Pompano Beach Police Department,FL,118782
 FL0641400,Ponce Inlet Police Department,FL,3514
 FL006990X,Port Everglades Police Department,FL,0
 FL0641200,Port Orange Police Department,FL,67550
@@ -2902,15 +3024,18 @@ FL0591000,Sanford Airport,FL,0
 FL0590500,Sanford Police Department,FL,68469
 FL0360300,Sanibel Police Department,FL,6351
 FL0012700,Santa Fe College,FL,0
+FL0570000,Santa Rosa County Sheriff's Office,FL,190022
 FL0580900,Sarasota County Schools,FL,0
 FL0580000,Sarasota County Sheriff's Office,FL,287365
 FL0580100,Sarasota Police Department,FL,58428
 FL0580600,Sarasota-Manatee Airport Authority,FL,0
 FL0051000,Satellite Beach Police Department,FL,11402
 FL0062600,Sea Ranch Lakes Police Department,FL,580
+FL0310200,Sebastian Police Department,FL,27602
 FL0280300,Sebring Police Department,FL,12007
 FL0590000,Seminole County Sheriff's Office,FL,226944
 FL052990X,Seminole Police Department,FL,19390
+FL0063400,Seminole Tribal,FL,0
 FL0430300,Sewall's Point Police Department,FL,2091
 FL0460500,Shalimar Police Department,FL,761
 FL0320500,Sneads Police Department,FL,1800
@@ -2941,9 +3066,12 @@ FL0132900,Sweetwater Police Department,FL,21875
 FL0372200,Tallahassee Community College,FL,0
 FL0370300,Tallahassee Police Department,FL,206918
 FL0063100,Tamarac Police Department,FL,75399
+FL0290600,Tampa International Airport,FL,0
+FL0290200,Tampa Police Department,FL,421313
 FL0521800,Tarpon Springs Police Department,FL,26429
 FL0351100,Tavares Police Department,FL,22825
 FL0620000,Taylor County Sheriff's Office,FL,14098
+FL0290300,Temple Terrace Police Department,FL,27808
 FL0503100,Tequesta Police Department,FL,6317
 FL0051100,Titusville Police Department,FL,50153
 FL0521900,Treasure Island Police Department,FL,6511
@@ -2954,17 +3082,21 @@ FL0481400,University of Central Florida,FL,0
 FL0010600,University of Florida,FL,0
 FL0160600,University of North Florida,FL,0
 FL0522900,University of South Florida: St. Petersburg,FL,0
+FL0290700,University of South Florida: Tampa,FL,0
 FL0170400,University of West Florida,FL,0
 FL0460400,Valparaiso Police Department,FL,4874
 FL0580200,Venice Police Department,FL,31088
+FL0310300,Vero Beach Police Department,FL,17851
 FL0139200,Village of Pinecrest Police Department,FL,19153
 FL0132000,Virginia Gardens Police Department,FL,2360
 FL0641700,Volusia County Beach Management,FL,0
 FL0640000,Volusia County Sheriff's Office,FL,113940
 FL0650000,Wakulla County Sheriff's Office,FL,37352
 FL0660000,Walton County Sheriff's Office,FL,84629
+FL0670000,Washington County Sheriff's Office,FL,22622
 FL0250200,Wauchula Police Department,FL,5007
 FL0540400,Welaka Police Department,FL,773
+FL050950X,Wellington Police Department,FL,63687
 FL0051600,West Melbourne Police Department,FL,32715
 FL0132100,West Miami Police Department,FL,7256
 FL0500800,West Palm Beach Police Department,FL,130449
@@ -2984,6 +3116,7 @@ FL0510300,Zephyrhills Police Department,FL,23750
 GA1560100,Abbeville Police Department,GA,2873
 GA1370400,Abraham Baldwin Agricultural College,GA,0
 GA0330500,Acworth Police Department,GA,22673
+GA0080200,Adairsville Police Department,GA,5064
 GA0370100,Adel Police Department,GA,5800
 GA0830200,Adrian Police Department,GA,558
 GA044139E,Agnes Scott College,GA,0
@@ -3069,10 +3202,14 @@ GA1010100,Camilla Police Department,GA,4995
 GA0210000,Candler County Sheriff's Office,GA,7138
 GA0590400,Canon Police Department,GA,720
 GA0280100,Canton Police Department,GA,39311
+GA0220000,Carroll County Sheriff's Office,GA,79894
 GA0220100,Carrollton Police Department,GA,28697
+GA0080100,Cartersville Police Department,GA,25574
+GA0230000,Catoosa County Sheriff's Office,GA,55454
 GA0570300,Cave Spring Police Department,GA,1223
 GA1150100,Cedartown Police Department,GA,10352
 GA0760300,Centerville Police Department,GA,9228
+GA0440400,Chamblee Police Department,GA,32886
 GA0240000,Charlton County Sheriff's Office,GA,7488
 GA0251600,Chatham County Board of Education,GA,0
 GA0250100,Chatham County Police Department,GA,0
@@ -3252,6 +3389,7 @@ GA0540200,Hagan Police Department,GA,951
 GA0920200,Hahira Police Department,GA,3603
 GA0690600,Hall County Marshal,GA,0
 GA0690000,Hall County Sheriff's Office,GA,152703
+GA0720400,Hamilton Police Department,GA,1828
 GA0750300,Hampton Police Department,GA,9419
 GA0700000,Hancock County Sheriff's Office,GA,7374
 GA0600300,Hapeville Police Department,GA,6759
@@ -3376,6 +3514,7 @@ GA0140200,Morven Police Department,GA,507
 GA0350100,Moultrie Police Department,GA,14793
 GA0680400,Mount Airy Police Department,GA,1519
 GA1030100,Mount Vernon Police Department,GA,1807
+GA0220700,Mount Zion Police Department,GA,2131
 GA1190200,Mountain City Police Department,GA,978
 GA1050000,Murray County Sheriff's Office,GA,35849
 GA1060000,Muscogee  County Sheriff's Office,GA,0
@@ -3484,6 +3623,7 @@ GA0607200,South Fulton Police Department,GA,113122
 GA0340500,South Georgia State College,GA,0
 GA1260400,Southern Crescent Technical College,GA,0
 GA0430900,Southern Regional Technical College,GA,0
+GA1260000,Spalding County Sheriff's Office,GA,46910
 GA0370300,Sparks Police Department,GA,2071
 GA0700100,Sparta Police Department,GA,1307
 GA060369E,Spelman College,GA,0
@@ -3495,6 +3635,7 @@ GAGSP4000,State Patrol: Albany,GA,0
 GAGSP1000,State Patrol: Americus,GA,0
 GAGSP3200,State Patrol: Athens,GA,0
 GAGSP2700,State Patrol: Blue Ridge,GA,0
+GAGSP2300,State Patrol: Brunswick,GA,0
 GAGSP4300,State Patrol: Calhoun,GA,0
 GAGSP2800,State Patrol: Canton,GA,0
 GAGSP0300,State Patrol: Cartersville,GA,0
@@ -3766,6 +3907,7 @@ IA0420000,Hardin County Sheriff's Office,IA,8742
 IA0430000,Harrison County Sheriff's Office,IA,11938
 IA0840200,Hawarden Police Department,IA,2614
 IA0440000,Henry County Sheriff's Office,IA,10672
+IA0570300,Hiawatha Police Department,IA,7390
 IA0450000,Howard County Sheriff's Office,IA,5392
 IA0460000,Humboldt County Sheriff's Office,IA,4802
 IA0460100,Humboldt Police Department,IA,4772
@@ -3955,6 +4097,7 @@ ID0120000,Butte County Sheriff's Office,ID,2758
 ID0140100,Caldwell Police Department,ID,76553
 ID0130000,Camas County Sheriff's Office,ID,1284
 ID0140000,Canyon County Sheriff's Office,ID,59862
+ID0150000,Caribou County Sheriff's Office,ID,4078
 ID0160000,Cassia County Sheriff's Office,ID,26134
 ID0190300,Challis Police Department,ID,956
 ID0030100,Chubbuck Police Department,ID,16813
@@ -4023,6 +4166,7 @@ ID0280200,Post Falls Police Department,ID,47603
 ID0390000,Power County Sheriff's Office,ID,3519
 ID0210100,Preston Police Department,ID,6302
 ID0090100,Priest River Police Department,ID,1893
+ID0280500,Rathdrum Police Department,ID,13635
 ID0330100,Rexburg Police Department,ID,40934
 ID0260100,Rigby Police Department,ID,5847
 ID0340100,Rupert Police Department,ID,6415
@@ -4030,6 +4174,7 @@ ID0300200,Salmon Police Department,ID,3299
 ID0090200,Sandpoint Police Department,ID,10924
 ID0060400,Shelley Police Department,ID,5373
 ID0400000,Shoshone County Sheriff's Office,ID,8234
+ID0150100,Soda Springs Police Department,ID,3174
 ID0280400,Spirit Lake Police Department,ID,2496
 ID0220200,St. Anthony Police Department,ID,4196
 ID0050100,St. Maries Police Department,ID,2519
@@ -4162,6 +4307,7 @@ IL0310100,Carrollton Police Department,IL,2349
 IL1000100,Carterville Police Department,IL,5812
 IL0340100,Carthage Police Department,IL,2413
 IL0560200,Cary Police Department,IL,18087
+IL0120100,Casey Police Department,IL,2362
 IL0820400,Caseyville Police Department,IL,4396
 IL0090000,Cass County Sheriff's Office,IL,3747
 IL0920200,Catlin Police Department,IL,1902
@@ -4229,6 +4375,7 @@ IL0570700,Danvers Police Department,IL,1074
 IL0920300,Danville Police Department,IL,27702
 IL0222700,Darien Police Department,IL,22020
 IL0060200,De Pue Police Department,IL,1561
+IL0390400,De Soto Police Department,IL,1408
 IL0190000,DeKalb County Sheriff's Office,IL,16333
 IL0190800,DeKalb Police Department,IL,40558
 IL0200000,DeWitt County Sheriff's Office,IL,6647
@@ -4312,6 +4459,7 @@ IL0130200,Flora Police Department,IL,4611
 IL0163400,Flossmoor Police Department,IL,9303
 IL0902200,Fon du Lac Park District,IL,0
 IL0270000,Ford County Sheriff's Office,IL,5640
+IL0630800,Forest City Police Department,IL,208
 IL0163500,Forest Park Police Department,IL,13740
 IL0163600,Forest View Police Department,IL,759
 IL0710100,Forreston Police Department,IL,1395
@@ -4440,6 +4588,7 @@ IL0950500,Irvington Police Department,IL,562
 IL0492400,Island Lake Police Department,IL,8074
 IL0221100,Itasca Police Department,IL,9497
 IL0610300,Iuka Police Department,IL,486
+IL0390000,Jackson County Sheriff's Office,IL,22178
 IL0690100,Jacksonville Police Department,IL,17692
 IL0400000,Jasper County Sheriff's Office,IL,6364
 IL0410000,Jefferson County Sheriff's Office,IL,20263
@@ -4473,6 +4622,7 @@ IL0190900,Kirkland Police Department,IL,1615
 IL0480000,Knox County Sheriff's Office,IL,15421
 IL0480500,Knoxville Police Department,IL,2827
 IL0165800,La Grange Park Police Department,IL,13402
+IL0165700,La Grange Police Department,IL,15856
 IL0340600,La Harpe Police Department,IL,1128
 IL0061000,La Moille Police Department,IL,665
 IL0500000,La Salle County Sheriff's Office,IL,32851
@@ -4490,6 +4640,7 @@ IL0560900,Lake in the Hills Police Department,IL,28651
 IL0561600,Lakemoor Police Department,IL,6522
 IL0561700,Lakewood Police Department,IL,4291
 IL0080200,Lanark Police Department,IL,1451
+IL0165900,Lansing Police Department,IL,27898
 IL0510000,Lawrence County Sheriff's Office,IL,5611
 IL0510200,Lawrenceville Police Department,IL,4346
 IL0570500,Le Roy Police Department,IL,3489
@@ -4550,6 +4701,7 @@ IL0120200,Marshall Police Department,IL,3844
 IL0120300,Martinsville Police Department,IL,1076
 IL0601200,Maryville Police Department,IL,8375
 IL0821100,Mascoutah Police Department,IL,9205
+IL0630200,Mason City Police Department,IL,1961
 IL0630000,Mason County Sheriff's Office,IL,5434
 IL0640000,Massac County Sheriff's Office,IL,7117
 IL0166600,Matteson Police Department,IL,18455
@@ -4614,6 +4766,7 @@ IL0410100,Mount Vernon Police Department,IL,14062
 IL0580400,Mount Zion Police Department,IL,5868
 IL0870100,Moweaqua Police Department,IL,1717
 IL0491400,Mundelein Police Department,IL,32923
+IL0390200,Murphysboro Police Department,IL,7036
 IL0690600,Murrayville Police Department,IL,542
 IL0225000,Naperville Park District,IL,0
 IL0221400,Naperville Police Department,IL,154062
@@ -4643,6 +4796,7 @@ IL0167800,North Riverside Police Department,IL,7104
 IL0501700,North Utica Police Department,IL,1348
 IL0167500,Northbrook Police Department,IL,34398
 IL0166M00,Northeastern Illinois University,IL,0
+IL0191100,Northern Illinois University,IL,0
 IL0167600,Northfield Police Department,IL,5597
 IL0167700,Northlake Police Department,IL,12345
 IL016AC9E,Northwestern University: Chicago,IL,0
@@ -4773,6 +4927,7 @@ IL0850100,Rushville Police Department,IL,2889
 IL0610400,Salem Police Department,IL,6953
 IL0830000,Saline County Sheriff's Office,IL,9665
 IL0630400,San Jose Police Department,IL,465
+IL0610500,Sandoval Police Department,IL,1117
 IL0190300,Sandwich Police Department,IL,7321
 IL0840000,Sangamon County Sheriff's Office,IL,34407
 IL0822200,Sauget Police Department,IL,133
@@ -4801,6 +4956,7 @@ IL0451200,Sleepy Hollow Police Department,IL,3121
 IL0822800,Smithton Police Department,IL,3860
 IL0190400,Somonauk Police Department,IL,1756
 IL0030300,Sorento Police Department,IL,406
+IL0165A00,South Barrington Police Department,IL,5060
 IL1010700,South Beloit Police Department,IL,7983
 IL0166A00,South Chicago Heights Police Department,IL,3859
 IL0451300,South Elgin Police Department,IL,25198
@@ -5052,6 +5208,7 @@ IN0200000,Elkhart County Sheriff's Office,IN,111501
 IN0200100,Elkhart Police Department,IN,53640
 IN0530300,Ellettsville Police Department,IN,6875
 IN0480300,Elwood Police Department,IN,8517
+IN0820100,Evansville Police Department,IN,114905
 IN0270300,Fairmount Police Department,IN,2664
 IN0210000,Fayette County Sheriff's Office,IN,10107
 IN0290700,Fishers Police Department,IN,105143
@@ -5265,6 +5422,7 @@ IN0760000,Steuben County Sheriff's Office,IN,23158
 IN0320400,Stilesville Police Department,IN,278
 IN0770000,Sullivan County Sheriff's Office,IN,14655
 IN0770100,Sullivan Police Department,IN,4235
+IN0780000,Switzerland County Sheriff's Office,IN,8303
 IN0430300,Syracuse Police Department,IN,3235
 IN0620100,Tell City Police Department,IN,7518
 IN0840100,Terre Haute Police Department,IN,58565
@@ -5316,6 +5474,8 @@ IN0180400,Yorktown Police Department,IN,11993
 IN0060300,Zionsville Police Department,IN,33770
 KS0210100,Abilene Police Department,KS,6514
 KS0010000,Allen County Sheriff's Office,KS,4341
+KS0990100,Alma Police Department,KS,847
+KS0990300,Alta Vista Police Department,KS,413
 KS0500400,Altamont Police Department,KS,1042
 KS0560300,Americus Police Department,KS,780
 KS0872000,Andale Police Department,KS,927
@@ -5361,9 +5521,11 @@ KS0081200,Butler Community College,KS,0
 KS0080000,Butler County Sheriff's Office,KS,24377
 KS0960400,Caldwell Police Department,KS,994
 KS0630400,Caney Police Department,KS,1713
+KS0570900,Canton Police Department,KS,659
 KS0700300,Carbondale Police Department,KS,1295
 KS0100200,Cedar Vale Police Department,KS,473
 KS0670100,Chanute Police Department,KS,8487
+KS0210300,Chapman Police Department,KS,1391
 KS0090000,Chase County Sheriff's Office,KS,2489
 KS0800600,Chase Police Department,KS,388
 KS0100000,Chautauqua County Sheriff's Office,KS,1872
@@ -5402,12 +5564,16 @@ KS0220000,Doniphan County Sheriff's Office,KS,3268
 KS0230000,Douglas County Sheriff's Office,KS,13235
 KS0870800,Eastborough Police Department,KS,740
 KS0240000,Edwards County Sheriff's Office,KS,2692
+KS1050300,Edwardsville Police Department,KS,4756
 KS0080200,El Dorado Police Department,KS,12675
 KS0081300,El Dorado School District,KS,0
 KS0250000,Elk County Sheriff's Office,KS,1867
 KS0650100,Elkhart Police Department,KS,1690
+KS0050100,Ellinwood Police Department,KS,1960
 KS0260000,Ellis County Sheriff's Office,KS,4739
 KS0260200,Ellis Police Department,KS,1907
+KS0270000,Ellsworth County Sheriff's Office,KS,1531
+KS0270100,Ellsworth Police Department,KS,3128
 KS0220100,Elwood Police Department,KS,1143
 KS0560100,Emporia Police Department,KS,24419
 KS0560200,Emporia State University,KS,0
@@ -5425,6 +5591,7 @@ KS0300000,Franklin County Sheriff's Office,KS,11634
 KS1030100,Fredonia Police Department,KS,2054
 KS0190400,Frontenac Police Department,KS,3419
 KS0110200,Galena Police Department,KS,2770
+KS0570300,Galva Police Department,KS,823
 KS0280300,Garden City Community College,KS,0
 KS0280100,Garden City Police Department,KS,27988
 KS0871300,Garden Plain Police Department,KS,998
@@ -5441,8 +5608,10 @@ KS0330000,Graham County Sheriff's Office,KS,991
 KS0310200,Grandview Plaza Police Department,KS,1634
 KS0340000,Grant County Sheriff's Office,KS,1501
 KS0350000,Gray County Sheriff's Office,KS,4750
+KS0050200,Great Bend Police Department,KS,14211
 KS0360000,Greeley County Sheriff's Office,KS,1122
 KS0490200,Greensburg Police Department,KS,732
+KS0370000,Greenwood County Sheriff's Office,KS,5841
 KS0400300,Halstead Police Department,KS,2137
 KS0380000,Hamilton County Sheriff's Office,KS,2486
 KS0390000,Harper County Sheriff's Office,KS,2850
@@ -5452,6 +5621,7 @@ KS0780300,Haven Police Department,KS,1168
 KS0750600,Havensville Police Department,KS,132
 KS0260100,Hays Police Department,KS,21228
 KS0870200,Haysville Police Department,KS,11439
+KS0210200,Herington Police Department,KS,2118
 KS0400200,Hesston Police Department,KS,3478
 KS0070100,Hiawatha Police Department,KS,3110
 KS0220400,Highland Police Department,KS,935
@@ -5470,8 +5640,10 @@ KSKHP0900,Highway Patrol: Troop T,KS,0
 KS0330100,Hill City Police Department,KS,1369
 KS0580100,Hillsboro Police Department,KS,2659
 KS0420000,Hodgeman County Sheriff's Office,KS,1656
+KS0050300,Hoisington Police Department,KS,2587
 KS0280200,Holcomb Police Department,KS,2242
 KS0430100,Holton Police Department,KS,3427
+KS0270400,Holyrood Police Department,KS,382
 KS0070200,Horton Police Department,KS,1447
 KS0250100,Howard Police Department,KS,559
 KS0900100,Hoxie Police Department,KS,1170
@@ -5480,17 +5652,24 @@ KS0950100,Hugoton Police Department,KS,3543
 KS0010100,Humboldt Police Department,KS,1810
 KS0780100,Hutchinson Police Department,KS,39451
 KS0630200,Independence Police Department,KS,8222
+KS1051200,Independent School District: Kansas City,KS,0
+KS0570800,Inman Police Department,KS,1325
 KS0010200,Iola Police Department,KS,5287
 KSDI05100,Iowa Tribal,KS,0
 KS0430000,Jackson County Sheriff's Office,KS,9205
+KS0440000,Jefferson County Sheriff's Office,KS,12162
 KS0450000,Jewell County Sheriff's Office,KS,2890
 KS0462700,Johnson County Community College,KS,0
 KS0462000,Johnson County Park,KS,0
 KS0460000,Johnson County Sheriff's Office,KS,22646
 KS0310100,Junction City Police Department,KS,21835
+KS0270300,Kanopolis Police Department,KS,429
 KS0890500,Kansas Alcoholic Beverage Control,KS,0
 KS0892700,Kansas Attorney General Criminal Investigation Unit,KS,0
 KSKBI0000,Kansas Bureau of Investigation,KS,0
+KS1050900,Kansas City Fire Department Fire Investigation Division,KS,0
+KS1050700,Kansas City Kansas Community College,KS,0
+KS1050200,Kansas City Police Department,KS,156815
 KS0760200,Kansas Department of Wildlife and Parks,KS,0
 KSKHP0000,Kansas Highway Patrol,KS,0
 KS0891200,Kansas Lottery Security Division,KS,0
@@ -5498,6 +5677,7 @@ KS0891300,Kansas Racing Commission Security Division,KS,0
 KS0961100,Kansas Racing and Gaming Commission Law Enforcement,KS,0
 KS0290500,Kansas Racing and Gaming Commission: Boothill Casino,KS,0
 KS0872900,Kansas Racing and Gaming Commission: Gilley's Park City,KS,0
+KS1051100,Kansas Racing and Gaming Commission: Hollywood Casino,KS,0
 KS0191200,Kansas Racing and Gaming Commission: Kansas Crossing Casino,KS,0
 KS089280X,"Kansas State Gaming Agency, Enforcement Division",KS,0
 KS0810200,Kansas State University,KS,0
@@ -5525,6 +5705,7 @@ KS0461000,Lenexa Police Department,KS,59913
 KS0080700,Leon Police Department,KS,647
 KS0880100,Liberal Police Department,KS,19048
 KS0530000,Lincoln County Sheriff's Office,KS,2922
+KS0570200,Lindsborg Police Department,KS,3850
 KS0540000,Linn County Sheriff's Office,KS,5916
 KS0540500,Linn Valley Police Department,KS,1153
 KS0800500,Little River Police Department,KS,466
@@ -5537,13 +5718,18 @@ KS0930300,Macksville Police Department,KS,451
 KS0871500,Maize Police Department,KS,7411
 KS0580000,Marion County Sheriff's Office,KS,5022
 KS0580200,Marion Police Department,KS,1882
+KS0570600,Marquette Police Department,KS,595
 KS0590000,Marshall County Sheriff's Office,KS,4216
 KS0590100,Marysville Police Department,KS,3416
 KS0430400,Mayetta Police Department,KS,361
+KS0440400,McLouth Police Department,KS,833
+KS0570000,McPherson County Sheriff's Office,KS,7071
+KS0570100,McPherson Police Department,KS,14067
 KS0600000,Meade County Sheriff's Office,KS,2428
 KS0600100,Meade Police Department,KS,1421
 KS0040200,Medicine Lodge Police Department,KS,1694
 KS0700800,Melvern Police Department,KS,343
+KS0440300,Meriden Police Department,KS,713
 KS0460300,Merriam Police Department,KS,11679
 KS0890600,Metropolitan Topeka Airport Authority,KS,0
 KS0610000,Miami County Sheriff's Office,KS,16654
@@ -5558,6 +5744,7 @@ KS0010300,Moran Police Department,KS,462
 KS0640000,Morris County Sheriff's Office,KS,3160
 KS0650000,Morton County Sheriff's Office,KS,743
 KS0540100,Mound City Police Department,KS,638
+KS0570400,Moundridge Police Department,KS,1964
 KS0871400,Mount Hope Police Department,KS,803
 KS0190900,Mulberry Police Department,KS,411
 KS0960300,Mulvane Police Department,KS,7208
@@ -5569,6 +5756,7 @@ KS0400100,Newton Police Department,KS,18257
 KS0400600,North Newton Police Department,KS,1794
 KS0690000,Norton County Sheriff's Office,KS,2639
 KS0690100,Norton Police Department,KS,2664
+KS0440500,Nortonville Police Department,KS,582
 KS0550100,Oakley Police Department,KS,1987
 KS0200100,Oberlin Police Department,KS,1606
 KS0460500,Olathe Police Department,KS,150965
@@ -5578,17 +5766,20 @@ KS0700000,Osage County Sheriff's Office,KS,7705
 KS0610200,Osawatomie Police Department,KS,4188
 KS0710000,Osborne County Sheriff's Office,KS,2056
 KS0710100,Osborne Police Department,KS,1262
+KS0440600,Oskaloosa Police Department,KS,1067
 KS0500200,Oswego Police Department,KS,1616
 KS0720000,Ottawa County Sheriff's Office,KS,3640
 KS0300100,Ottawa Police Department,KS,12758
 KS0700500,Overbrook Police Department,KS,991
 KS0460600,Overland Park Police Department,KS,204173
 KS0960600,Oxford Police Department,KS,1035
+KS0440900,Ozawkie Police Department,KS,620
 KS0610100,Paola Police Department,KS,5855
 KS0871600,Park City Police Department,KS,9296
 KS0500100,Parsons Police Department,KS,9265
 KS0730000,Pawnee County Sheriff's Office,KS,2393
 KS0580300,Peabody Police Department,KS,911
+KS0440800,Perry Police Department,KS,845
 KS0740000,Phillips County Sheriff's Office,KS,4675
 KS0190100,Pittsburg Police Department,KS,20525
 KS0190700,Pittsburg State University,KS,0
@@ -5622,6 +5813,7 @@ KS0860100,Scott City Police Department,KS,3886
 KS0860000,Scott County Sheriff's Office,KS,972
 KS0700600,Scranton Police Department,KS,638
 KS0891000,Securities Office Investigation Section,KS,0
+KS0100100,Sedan Police Department,KS,982
 KS0870000,Sedgwick County Sheriff's Office,KS,38502
 KS0400400,Sedgwick Police Department,KS,1578
 KS0871900,Sedwick County Fire Department Arson Investigation,KS,0
@@ -5664,9 +5856,12 @@ KS0781100,Unified School District: Nickerson/South Hutchinson,KS,0
 KS0891700,Unified School District: Seaman,KS,0
 KS0891900,Unified School District: Shawnee Heights,KS,0
 KS0230200,University of Kansas: Main Campus,KS,0
+KS1050400,University of Kansas: Medical Center,KS,0
 KS0870500,Valley Center Police Department,KS,7429
+KS0440200,Valley Falls Police Department,KS,1060
 KS0260300,Victoria Police Department,KS,1129
 KS0980100,WaKeeney Police Department,KS,1761
+KS0990000,Wabaunsee County Sheriff's Office,KS,5905
 KS0140200,Wakefield Police Department,KS,834
 KS1000000,Wallace County Sheriff's Office,KS,1461
 KS0400700,Walton Police Department,KS,217
@@ -5684,8 +5879,11 @@ KS1020000,Wichita County Sheriff's Office,KS,2052
 KS0870300,Wichita Police Department,KS,401730
 KS0870600,Wichita State University,KS,0
 KS1030000,Wilson County Sheriff's Office,KS,4096
+KS0270200,Wilson Police Department,KS,829
+KS0440700,Winchester Police Department,KS,441
 KS0180200,Winfield Police Department,KS,11655
 KS1040000,Woodson County Sheriff's Office,KS,1804
+KS1050000,Wyandotte County Sheriff's Office,KS,0
 KS1040100,Yates Center Police Department,KS,1308
 KY0010000,Adair County Sheriff's Office,KY,14670
 KY0710300,Adairville Police Department,KY,890
@@ -5761,6 +5959,7 @@ KY0200000,Carlisle County Sheriff's Office,KY,4059
 KY0910100,Carlisle Police Department,KY,2165
 KY0210000,Carroll County Sheriff's Office,KY,7204
 KY0210100,Carrollton Police Department,KY,3971
+KY0220900,Carter County School District,KY,0
 KY0220000,Carter County Sheriff's Office,KY,20766
 KY0230000,Casey County Sheriff's Office,KY,13953
 KY0100200,Catlettsburg Police Department,KY,1715
@@ -5812,6 +6011,7 @@ KY0590200,Elsmere Police Department,KY,9380
 KY0520200,Eminence Police Department,KY,2806
 KY0590300,Erlanger Police Department,KY,20295
 KY0330700,Estill County Schools,KY,0
+KY0330000,Estill County Sheriff's Office,KY,11135
 KY1000300,Eubank Police Department,KY,335
 KY0480500,Evarts Police Department,KY,591
 KY0960100,Falmouth Police Department,KY,2204
@@ -5884,6 +6084,7 @@ KY0690200,Hustonville Police Department,KY,398
 KY0660100,Hyden Police Department,KY,274
 KY0591900,Independence Police Department,KY,30559
 KY0564400,Indian Hills Police Department,KY,2945
+KY0330100,Irvine Police Department,KY,2269
 KY0140300,Irvington Police Department,KY,1390
 KY0550000,Jackson County Sheriff's Office,KY,12617
 KY0130100,Jackson Police Department,KY,2069
@@ -6082,7 +6283,9 @@ KYKSP0300,State Police: Bowling Green,KY,0
 KYKSP0500,State Police: Campbellsburg,KY,0
 KYKSP2500,State Police: Cannabis Suppression Section,KY,0
 KYKSP1500,State Police: Columbia,KY,0
+KYKSP0600,State Police: Dry Ridge,KY,0
 KYKSP3300,State Police: East Drug Enforcement Branch,KY,0
+KYKSP3500,State Police: Electronic Crimes,KY,0
 KYKSP0400,State Police: Elizabethtown,KY,0
 KYKSP1200,State Police: Frankfort,KY,0
 KYKSP1000,State Police: Harlan,KY,0
@@ -6198,6 +6401,7 @@ LA0160000,De Soto Parish Sheriff's Office,LA,23074
 LA0360200,Delgado Community College,LA,0
 LA0320100,Denham Springs Police Department,LA,9325
 LA0171100,Department of Public Safety State Capitol Detail,LA,0
+LA036219E,Dillard University,LA,0
 LA0600800,Dixie Inn Police Department,LA,274
 LA0170000,East Baton Rouge Parish Sheriff's Office,LA,172971
 LA0180000,East Carroll Parish Sheriff's Office,LA,3665
@@ -6211,6 +6415,7 @@ LA0150100,Ferriday Police Department,LA,2949
 LA0430700,Fisher Police Department,LA,187
 LA0430500,Florien Police Department,LA,541
 LA0520700,Folsom Police Department,LA,843
+LA0210000,Franklin Parish Sheriff's Office,LA,19094
 LA0510200,Franklin Police Department,LA,6191
 LA0590200,Franklinton Police Department,LA,3581
 LA0290100,Golden Meadow Police Department,LA,1606
@@ -6238,11 +6443,14 @@ LA0260600,Jean Lafitte Police Department,LA,1817
 LA0230200,Jeanerette Police Department,LA,4499
 LA0270000,Jefferson Davis Parish Sheriff's Office,LA,16497
 LA0260000,Jefferson Parish Sheriff's Office,LA,327213
+LA0300100,Jena Police Department,LA,4124
 LA0270200,Jennings Police Department,LA,9155
+LA0570200,Kaplan Police Department,LA,4123
 LA0260300,Kenner Police Department,LA,64250
 LA0530200,Kentwood Police Department,LA,2205
 LA0020100,Kinder Police Department,LA,2075
 LA0490800,Krotz Springs Police Department,LA,869
+LA0300000,La Salle Parish Sheriff's Office,LA,9358
 LA0280000,Lafayette Parish Sheriff's Office,LA,77451
 LA0280300,Lafayette Police Department,LA,122489
 LA0290000,Lafourche Parish Sheriff's Office,LA,78411
@@ -6259,6 +6467,7 @@ LA0361700,"Louisiana State University: Health Sciences Center, New Orleans",LA,0
 LA0080500,"Louisiana State University: Health Sciences Center, Shreveport",LA,0
 LA0080600,Louisiana State University: Shreveport,LA,0
 LA0310700,Louisiana Tech University,LA,0
+LA0470100,Lutcher Police Department,LA,2826
 LA0330000,Madison Parish Sheriff's Office,LA,3420
 LA0200200,Mamou Police Department,LA,2790
 LA0520300,Mandeville Police Department,LA,13010
@@ -6270,6 +6479,7 @@ LA0100800,McNeese State University,LA,0
 LA0490700,Melville Police Department,LA,736
 LA0060200,Merryville Police Department,LA,943
 LA0600100,Minden Police Department,LA,11034
+LA0370100,Monroe Police Department,LA,46376
 LA0460200,Montpelier Police Department,LA,196
 LA0050600,Moreauville Police Department,LA,928
 LA0340000,Morehouse Parish Sheriff's Office,LA,14795
@@ -6286,7 +6496,9 @@ LA0190500,Norwood Police Department,LA,267
 LA0620100,Oak Grove Police Department,LA,1330
 LA0020200,Oakdale Police Department,LA,6446
 LA0020300,Oberlin Police Department,LA,1277
+LA0300200,Olla Police Department,LA,1293
 LA0490200,Opelousas Police Department,LA,15031
+LA0370000,Ouachita Parish Sheriff's Office,LA,97012
 LA0510400,Patterson Police Department,LA,5543
 LA0520500,Pearl River Police Department,LA,2675
 LA0400200,Pineville Police Department,LA,13864
@@ -6299,7 +6511,9 @@ LA0610100,Port Allen Police Department,LA,5005
 LA0490600,Port Barre Police Department,LA,1737
 LA0400000,Rapides Parish Sheriff's Office,LA,63837
 LA0010200,Rayne Police Department,LA,6920
+LA0420200,Rayville Police Department,LA,3160
 LA0410000,Red River Parish Sheriff's Office,LA,5591
+LA0420000,Richland Parish Sheriff's Office,LA,16527
 LA0240500,Rosedale Police Department,LA,639
 LA0530600,Roseland Police Department,LA,895
 LA0580300,Rosepine Police Department,LA,1428
@@ -6320,6 +6534,7 @@ LA0440000,St. Bernard Parish Sheriff's Office,LA,45339
 LA0450000,St. Charles Parish Sheriff's Office,LA,50244
 LA0240600,St. Gabriel Police Department,LA,6964
 LA0460000,St. Helena Parish Sheriff's Office,LA,10106
+LA0470000,St. James Parish Sheriff's Office,LA,13503
 LA0480000,St. John the Baptist Parish Sheriff's Office,LA,39342
 LA0490000,St. Landry Parish Sheriff's Office,LA,52375
 LA0500000,St. Martin Parish Sheriff's Office,LA,38442
@@ -6327,9 +6542,11 @@ LA0500200,St. Martinville Police Department,LA,5190
 LA0510000,St. Mary Parish Sheriff's Office,LA,18076
 LA0520000,St. Tammany Parish Sheriff's Office,LA,226235
 LALSP0000,State Police,LA,0
+LA0370300,Sterlington Police Department,LA,2721
 LA0100300,Sulphur Police Department,LA,20277
 LA0330100,Tallulah Police Department,LA,5542
 LA0530000,Tangipahoa Parish Sheriff's Office,LA,100704
+LA0370900,Tensas Basin Levee District,LA,0
 LA0540000,Tensas Parish Sheriff's Office,LA,3808
 LA0550000,Terrebonne Parish Sheriff's Office,LA,71999
 LA0290500,Thibodaux Police Department,LA,15488
@@ -6338,6 +6555,7 @@ LA036209E,Tulane University,LA,0
 LADI00500,Tunica-Biloxi Tribal,LA,0
 LA0560000,Union Parish Sheriff's Office,LA,15402
 LA0280700,University of Louisiana: Lafayette,LA,0
+LA0370400,University of Louisiana: Monroe,LA,0
 LA0360300,University of New Orleans,LA,0
 LA0570000,Vermilion Parish Sheriff's Office,LA,41328
 LA0580000,Vernon Parish Sheriff's Office,LA,36325
@@ -6352,6 +6570,7 @@ LA0270400,Welsh Police Department,LA,3261
 LA0610000,West Baton Rouge Parish Sheriff's Office,LA,13590
 LA0620000,West Carroll Parish Sheriff's Office,LA,7882
 LA0630000,West Feliciana Parish Sheriff's Office,LA,15237
+LA0370200,West Monroe Police Department,LA,12336
 LA0100500,Westlake Police Department,LA,4683
 LA0260400,Westwego Police Department,LA,8156
 LA0240300,White Castle Police Department,LA,1588
@@ -6366,6 +6585,7 @@ MA0090100,Acton Police Department,MA,24622
 MA0030100,Acushnet Police Department,MA,10708
 MA0020100,Adams Police Department,MA,7954
 MA0070100,Agawam Police Department,MA,28705
+MA0050100,Amesbury Police Department,MA,17607
 MA008289E,Amherst College,MA,0
 MA0080100,Amherst Police Department,MA,45764
 MA0050200,Andover Police Department,MA,36920
@@ -6410,6 +6630,7 @@ MA0050400,Boxford Police Department,MA,8348
 MA0140800,Boylston Police Department,MA,5104
 MA0110300,Braintree Police Department,MA,39044
 MA009579E,Brandeis University,MA,0
+MA0010300,Brewster Police Department,MA,10453
 MA0120200,Bridgewater Police Department,MA,29721
 MA0122900,Bridgewater State University,MA,0
 MA0070300,Brimfield Police Department,MA,3734
@@ -6428,6 +6649,7 @@ MA0091200,Carlisle Police Department,MA,5324
 MA0120400,Carver Police Department,MA,11831
 MA0060400,Charlemont Police Department,MA,1177
 MA0141000,Charlton Police Department,MA,13647
+MA0010400,Chatham Police Department,MA,6723
 MA0091300,Chelmsford Police Department,MA,37003
 MA0130300,Chelsea Police Department,MA,40069
 MA0020400,Cheshire Police Department,MA,3174
@@ -6593,6 +6815,7 @@ MA0052100,Nahant Police Department,MA,3331
 MA0100100,Nantucket Police Department,MA,14742
 MA0093200,Natick Police Department,MA,37320
 MA0111600,Needham Police Department,MA,33018
+MA0031100,New Bedford Police Department,MA,101139
 MA0143100,New Braintree Police Department,MA,1012
 MA0021800,New Marlborough Police Department,MA,1497
 MA0061700,New Salem Police Department,MA,1034
@@ -6686,6 +6909,7 @@ MA301SP00,State Police: Barnstable County,MA,0
 MA302SP00,State Police: Berkshire County,MA,7994
 MA303SP00,State Police: Bristol County,MA,0
 MA304SP00,State Police: Dukes County,MA,0
+MA305SP00,State Police: Essex County,MA,0
 MA306SP00,State Police: Franklin County,MA,2065
 MA307SP00,State Police: Hampden County,MA,0
 MA308SP00,State Police: Hampshire County,MA,1537
@@ -6733,6 +6957,7 @@ MA0094600,Wakefield Police Department,MA,29706
 MA0072000,Wales Police Department,MA,1823
 MA0112400,Walpole Police Department,MA,26289
 MA0094700,Waltham Police Department,MA,66089
+MADI01000,Wampanoag Tribe of Gay Head,MA,0
 MA0081700,Ware Police Department,MA,10169
 MA0122500,Wareham Police Department,MA,23525
 MA0145300,Warren Police Department,MA,5103
@@ -7173,6 +7398,7 @@ MI1232200,Coldwater Police Department,MI,14566
 MI5632300,Coleman Police Department,MI,1262
 MI1185300,Coloma Township Police Department,MI,6387
 MI7532500,Colon Police Department,MI,1192
+MI3832600,Columbia Township Police Department,MI,7533
 MI631830X,Commerce Township Police Department,MI,40499
 MI7532900,Constantine Police Department,MI,2002
 MI7833500,Corunna Police Department,MI,3006
@@ -7216,6 +7442,7 @@ MI1337900,Emmett Township Police Department,MI,11761
 MI5838100,Erie Township Police Department,MI,4365
 MI2138200,Escanaba Police Department,MI,12267
 MI0938300,Essexville Police Department,MI,3285
+MI6738500,Evart Police Department,MI,1790
 MI3238700,Fair Haven Township Police Department,MI,1064
 MI6338900,Farmington Hills Police Department,MI,84262
 MI6338800,Farmington Police Department,MI,11544
@@ -7263,6 +7490,7 @@ MI4596900,Grand Traverse Tribal,MI,0
 MI7088300,Grand Valley State University,MI,0
 MI4143700,Grandville Police Department,MI,17368
 MI6243800,Grant Police Department,MI,994
+MI2912900,Gratiot County Sheriff's Office,MI,23116
 MI2044000,Grayling Police Department,MI,1974
 MI4786500,Green Oak Township Police Department,MI,19996
 MI5944200,Greenville Police Department,MI,9185
@@ -7318,6 +7546,8 @@ MI2749400,Ironwood Police Department,MI,4917
 MI3713700,Isabella County Sheriff's Office,MI,42469
 MI5249500,Ishpeming Police Department,MI,6222
 MI5290500,Ishpeming Township Police Department,MI,3454
+MI3813800,Jackson County Sheriff's Office,MI,61876
+MI3849700,Jackson Police Department,MI,30824
 MI3049800,Jonesville Police Department,MI,2164
 MI3913900,Kalamazoo County Sheriff's Office,MI,105442
 MI3949900,Kalamazoo Police Department,MI,73244
@@ -7432,6 +7662,7 @@ MI6116100,Muskegon County Sheriff's Office,MI,58030
 MI6160400,Muskegon Heights Police Department,MI,9782
 MI6160300,Muskegon Police Department,MI,37306
 MI6160500,Muskegon Township Police Department,MI,17862
+MI3860600,Napoleon Township Police Department,MI,6748
 MI0860700,Nashville Police Department,MI,1617
 MI5260900,Negaunee Police Department,MI,4688
 MI5061000,New Baltimore Police Department,MI,12141
@@ -7453,6 +7684,7 @@ MI2262600,Norway Police Department,MI,2842
 MIDI07000,Nottawaseppi Huron Band of Potawatomi,MI,0
 MI6362700,Novi Police Department,MI,68068
 MI6362800,Oak Park Police Department,MI,29380
+MI6392700,Oakland Community College,MI,0
 MI6316300,Oakland County Sheriff's Office,MI,18816
 MI631870X,Oakland Township Police Department,MI,20888
 MI6388800,Oakland University,MI,0
@@ -7464,6 +7696,7 @@ MI6616600,Ontonagon County Sheriff's Office,MI,5812
 MI1437200,Ontwa Township-Edwardsburg Police Department,MI,6819
 MI6363600,Orchard Lake Police Department,MI,2246
 MI631880X,Orion Township Police Department,MI,36512
+MI6716700,Osceola County Sheriff's Office,MI,19229
 MI6816800,Oscoda County Sheriff's Office,MI,8663
 MI3563900,Oscoda Township Police Department,MI,7206
 MI2564000,Otisville Police Department,MI,805
@@ -7550,7 +7783,9 @@ MI5875000,South Rockwood Police Department,MI,1580
 MI6375100,Southfield Police Department,MI,76992
 MI8275200,Southgate Police Department,MI,28880
 MI4175400,Sparta Police Department,MI,4343
+MI3875500,Spring Arbor Township Police Department,MI,8536
 MI631920X,Springfield Township Police Department,MI,15035
+MI3875800,Springport Township Police Department,MI,2138
 MI7372000,St. Charles Police Department,MI,1932
 MI7417400,St. Clair County Sheriff's Office,MI,99513
 MI7472100,St. Clair Police Department,MI,5920
@@ -7599,6 +7834,7 @@ MI3403400,State Police: Ionia County,MI,0
 MI3503500,State Police: Iosco County,MI,0
 MI3603600,State Police: Iron County,MI,0
 MI3703700,State Police: Isabella County,MI,0
+MI3803800,State Police: Jackson County,MI,0
 MI3903900,State Police: Kalamazoo County,MI,0
 MI4004000,State Police: Kalkaska County,MI,0
 MI4104100,State Police: Kent County,MI,0
@@ -8078,6 +8314,7 @@ MN0730600,Waite Park Police Department,MN,8545
 MN0110200,Walker Police Department,MN,983
 MN0640700,Walnut Grove Police Department,MN,729
 MN0680200,Warroad Police Department,MN,2026
+MN0810000,Waseca County Sheriff's Office,MN,5993
 MN0810300,Waseca Police Department,MN,9030
 MN0820000,Washington County Sheriff's Office,MN,77899
 MN0400400,Waterville Police Department,MN,1768
@@ -8134,6 +8371,7 @@ MO0390500,Battlefield Police Department,MO,6291
 MO0950500,Bel-Nor Police Department,MO,1348
 MO0950300,Bella Villa Police Department,MO,729
 MO0950400,Bellefontaine Neighbors Police Department,MO,10329
+MO0700400,Bellflower Police Department,MO,339
 MO0190200,Belton Police Department,MO,26341
 MO0080000,Benton County Sheriff's Office,MO,16151
 MO1010700,Benton Police Department,MO,922
@@ -8181,6 +8419,7 @@ MO0890400,Camden Police Department,MO,178
 MO0150100,Camdenton Police Department,MO,4052
 MO0250100,Cameron Police Department,MO,6985
 MO0350100,Campbell Police Department,MO,1494
+MO0720700,Canalou Police Department,MO,145
 MO0560100,Canton Police Department,MO,2741
 MO0160000,Cape Girardeau County Sheriff's Office,MO,26628
 MO0160100,Cape Girardeau Police Department,MO,41080
@@ -8202,6 +8441,7 @@ MO1010100,Chaffee Police Department,MO,3010
 MO0210000,Chariton County Sheriff's Office,MO,4554
 MO0670100,Charleston Police Department,MO,4412
 MO0959A00,Chesterfield Police Department,MO,49345
+MO0590100,Chillicothe Police Department,MO,9246
 MO0220000,Christian County Sheriff's Office,MO,39482
 MO0230000,Clark County Sheriff's Office,MO,4640
 MO0951300,Clarkson Valley Police Department,MO,2544
@@ -8228,6 +8468,7 @@ MO1050100,Crane Police Department,MO,1525
 MO0280000,Crawford County Sheriff's Office,MO,15040
 MO0951800,Crestwood Police Department,MO,12200
 MO0951900,Creve Coeur Police Department,MO,18463
+MO0850100,Crocker Police Department,MO,912
 MO0731500,Crowder College,MO,0
 MO0500100,Crystal City Police Department,MO,4695
 MO0891300,Crystal Lakes Police Department,MO,398
@@ -8268,6 +8509,7 @@ MO0900100,Ellington Police Department,MO,760
 MO0952500,Ellisville Police Department,MO,10458
 MO0180200,Ellsinore Police Department,MO,420
 MO0570100,Elsberry Police Department,MO,2122
+MO1020300,Eminence Police Department,MO,535
 MO0980600,Emma Police Department,MO,205
 MO0952600,Eureka Police Department,MO,13682
 MO0240300,Excelsior Springs Police Department,MO,10763
@@ -8297,6 +8539,7 @@ MO0190800,Garden City Police Department,MO,1591
 MO0370000,Gasconade County Sheriff's Office,MO,8773
 MO0380000,Gentry County Sheriff's Office,MO,6340
 MO0360200,Gerald Police Department,MO,1355
+MO0720100,Gideon Police Department,MO,704
 MO0240400,Gladstone Police Department,MO,27699
 MO0450200,Glasgow Police Department,MO,1076
 MO0953200,Glendale Police Department,MO,6060
@@ -8326,6 +8569,7 @@ MO0500800,Herculaneum Police Department,MO,5485
 MO0370200,Hermann Police Department,MO,2194
 MO0430000,Hickory County Sheriff's Office,MO,8890
 MO0540400,Higginsville Police Department,MO,4781
+MO0700600,High Hill Police Department,MO,185
 MO0220800,Highlandville Police Department,MO,988
 MO0500400,Hillsboro Police Department,MO,3489
 MO0953900,Hillsdale Police Department,MO,1178
@@ -8333,9 +8577,11 @@ MO0350800,Holcomb Police Department,MO,586
 MO0510100,Holden Police Department,MO,2335
 MO1070300,Hollister Police Department,MO,4680
 MO0440000,Holt County Sheriff's Office,MO,2413
+MO0140500,Holts Summit Police Department,MO,5532
 MO0350400,Hornersville Police Department,MO,498
 MO1080200,Houston Police Department,MO,2219
 MO0450000,Howard County Sheriff's Office,MO,6262
+MO0720900,Howardville Police Department,MO,249
 MO0460000,Howell County Sheriff's Office,MO,23272
 MO0840200,Humansville Police Department,MO,946
 MO0880200,Huntsville Police Department,MO,1344
@@ -8356,6 +8602,7 @@ MO0260100,Jefferson City Police Department,MO,42573
 MO0501900,Jefferson College,MO,0
 MO0500000,Jefferson County Sheriff's Office,MO,168412
 MO0510000,Johnson County Sheriff's Office,MO,30333
+MO0700100,Jonesburg Police Department,MO,839
 MO0490700,Joplin Police Department,MO,54063
 MO0230100,Kahoka Police Department,MO,1975
 MO0831800,Kansas City International Airport,MO,0
@@ -8400,12 +8647,14 @@ MO0540500,Lexington Police Department,MO,4580
 MO0060900,Liberal Police Department,MO,635
 MO0240600,Liberty Police Department,MO,31506
 MO1080300,Licking Police Department,MO,3038
+MO0720200,Lilbourn Police Department,MO,895
 MO0570000,Lincoln County Sheriff's Office,MO,42747
 MO0080200,Lincoln Police Department,MO,1218
 MO0261800,Lincoln University,MO,0
 MO0580000,Linn County Sheriff's Office,MO,5271
 MO0150600,Linn Creek Police Department,MO,221
 MO0760300,Linn Police Department,MO,1444
+MO0590000,Livingston County Sheriff's Office,MO,5587
 MO0391700,Logan-Rogersville School District,MO,0
 MO0481200,Lone Jack Police Department,MO,1900
 MO0820300,Louisiana Police Department,MO,3253
@@ -8453,6 +8702,9 @@ MO0050200,Monett Police Department,MO,10226
 MO0680000,Moniteau County Sheriff's Office,MO,7814
 MO0690200,Monroe City Police Department,MO,2717
 MO0690000,Monroe County Sheriff's Office,MO,6763
+MO0700200,Montgomery City Police Department,MO,2789
+MO0700000,Montgomery County Sheriff's Office,MO,5771
+MO0720300,Morehouse Police Department,MO,672
 MO0710000,Morgan County Sheriff's Office,MO,17759
 MO1010800,Morley Police Department,MO,684
 MO0842400,Morrisville Police Department,MO,401
@@ -8466,9 +8718,11 @@ MO0540900,Napoleon Police Department,MO,213
 MO0730300,Neosho Police Department,MO,14060
 MO0731600,Neosho School District,MO,0
 MO1090100,Nevada Police Department,MO,8315
+MO0700800,New Florence Police Department,MO,636
 MO0360300,New Haven Police Department,MO,2394
 MO0870200,New London Police Department,MO,987
 MO0720000,New Madrid County Sheriff's Office,MO,4290
+MO0720400,New Madrid Police Department,MO,2556
 MO0810400,Newburg Police Department,MO,337
 MO0730000,Newton County Sheriff's Office,MO,34443
 MO1130500,Niangua Police Department,MO,419
@@ -8531,6 +8785,7 @@ MO0240900,Pleasant Valley Police Department,MO,2750
 MO0840000,Polk County Sheriff's Office,MO,19209
 MO0130700,Polo Police Department,MO,507
 MO0120200,Poplar Bluff Police Department,MO,16151
+MO0720600,Portageville Police Department,MO,2675
 MO1110300,Potosi Police Department,MO,2548
 MO0270400,Prairie Home Police Department,MO,267
 MO0850000,Pulaski County Sheriff's Office,MO,39194
@@ -8556,6 +8811,7 @@ MO0956300,Riverview Police Department,MO,2319
 MO0956400,Rock Hill Police Department,MO,4652
 MO0030200,Rock Port Police Department,MO,1229
 MO1070400,Rockaway Beach Police Department,MO,812
+MO1130600,Rogersville Police Department,MO,5786
 MO0810100,Rolla Police Department,MO,20849
 MO0370400,Rosebud Police Department,MO,394
 MO1000400,Rutledge Police Department,MO,83
@@ -8670,6 +8926,7 @@ MO0490600,Webb City Police Department,MO,13474
 MO1130000,Webster County Sheriff's Office,MO,26765
 MO0958000,Webster Groves Police Department,MO,23409
 MO0540800,Wellington Police Department,MO,765
+MO0700300,Wellsville Police Department,MO,1011
 MO0920500,Wentzville Police Department,MO,49528
 MO0460200,West Plains Police Department,MO,12834
 MO0830400,Weston Police Department,MO,1857
@@ -8685,6 +8942,7 @@ MO1140000,Worth County Sheriff's Office,MO,1849
 MO1100400,Wright City Police Department,MO,5966
 MO1150000,Wright County Sheriff's Office,MO,13266
 MS0480100,Aberdeen Police Department,MS,4802
+MS0100100,Ackerman Police Department,MS,1541
 MS0010000,Adams County Sheriff's Office,MS,14445
 MS0020000,Alcorn County Sheriff's Office,MS,20144
 MS0030000,Amite County Sheriff's Office,MS,11599
@@ -8693,36 +8951,51 @@ MS0040000,Attala County Sheriff's Office,MS,10460
 MS0590200,Baldwyn Police Department,MS,3087
 MS0540100,Batesville Police Department,MS,7319
 MS0310100,Bay Springs Police Department,MS,1448
+MS0230200,Bay St. Louis Police Department,MS,10822
 MS0270100,Belzoni Police Department,MS,1706
 MS0050000,Benton County Sheriff's Office,MS,7577
 MS0240100,Biloxi Police Department,MS,47829
 MS0730400,Blue Springs Police Department,MS,440
+MS0060000,Bolivar County Sheriff's Office,MS,11674
 MS0251800,Bolton Police Department,MS,415
 MS0590100,Booneville Police Department,MS,9416
+MS006090X,Boyle Police Department,MS,484
 MS0610100,Brandon Police Department,MS,26058
 MS0430100,Brookhaven Police Department,MS,11654
+MS0070100,Bruce Police Department,MS,1602
 MS0470300,Byhalia Police Department,MS,1378
 MS0253200,Byram Police Department,MS,12563
 MS0440400,Caledonia Police Department,MS,1112
+MS0070200,Calhoun City Police Department,MS,1463
+MS0070000,Calhoun County Sheriff's Office,MS,7667
 MS0450100,Canton Police Department,MS,10744
 MS024510X,Capitol Police: Biloxi,MS,0
+MS018500X,Capitol Police: Hattiesburg,MS,0
+MS0080000,Carroll County Sheriff's Office,MS,8405
 MS0400100,Carthage Police Department,MS,4846
 MS0680100,Charleston Police Department,MS,1655
 MS0090000,Chickasaw County Sheriff's Office,MS,10704
+MS0100000,Choctaw County Sheriff's Office,MS,6498
 MSDI05000,Choctaw Tribal,MS,0
 MS0110000,Claiborne County Sheriff's Office,MS,6794
 MS0120000,Clarke County Sheriff's Office,MS,12375
+MS0140100,Clarksdale Police Department,MS,13641
 MS0130000,Clay County Sheriff's Office,MS,8522
+MS0060100,Cleveland Police Department,MS,9956
 MS0250300,Clinton Police Department,MS,26290
+MS0140300,Coahoma Community College,MS,0
+MS0140000,Coahoma County Sheriff's Office,MS,6288
 MS0810200,Coffeeville Police Department,MS,775
 MS0690300,Coldwater Police Department,MS,1312
 MS0160100,Collins Police Department,MS,2218
 MS0460100,Columbia Police Department,MS,6478
 MS0440100,Columbus Police Department,MS,22535
 MS0253700,Commercial Transportation Enforcement Division Headquarters,MS,0
+MS0540800,Commercial Transportation Enforcement Division: Batesville,MS,0
 MS0241700,Commercial Transportation Enforcement Division: Biloxi,MS,0
 MS0430400,Commercial Transportation Enforcement Division: Brookhaven,MS,0
 MS0420600,Commercial Transportation Enforcement Division: Greenwood,MS,0
+MS0181100,Commercial Transportation Enforcement Division: Hattiesburg,MS,0
 MS0381100,Commercial Transportation Enforcement Division: Meridian,MS,0
 MS0730600,Commercial Transportation Enforcement Division: New Albany,MS,0
 MS0611300,Commercial Transportation Enforcement Division: Pearl,MS,0
@@ -8737,6 +9010,7 @@ MS0240800,D'Iberville Police Department,MS,13577
 MS0170000,DeSoto County Sheriff's Office,MS,46760
 MS0510100,Decatur Police Department,MS,1872
 MS0240500,Department of Marine Resources,MS,0
+MS0070300,Derma Police Department,MS,912
 MS0670200,Drew Police Department,MS,1641
 MS0260100,Durant Police Department,MS,1920
 MS0440500,East Mississippi Community College: Communiversity,MS,0
@@ -8751,6 +9025,9 @@ MS0450300,Flora Police Department,MS,1646
 MS0610600,Florence Police Department,MS,4868
 MS0610400,Flowood Police Department,MS,10999
 MS0620100,Forest Police Department,MS,5349
+MS018200X,Forrest County School District,MS,0
+MS0180000,Forrest County Sheriff's Office,MS,25546
+MS0180500,Forrest General Hospital,MS,0
 MS0190000,Franklin County Sheriff's Office,MS,7051
 MS0290100,Fulton Police Department,MS,4669
 MS0300600,Gautier Police Department,MS,19065
@@ -8760,8 +9037,11 @@ MS0450700,Gluckstadt Police Department,MS,3477
 MS0210000,Greene County Sheriff's Office,MS,9729
 MS0760100,Greenville Police Department,MS,26427
 MS0420100,Greenwood Police Department,MS,13386
+MS0220000,Grenada County Sheriff's Office,MS,8860
+MS0220100,Grenada Police Department,MS,12012
 MS0240200,Gulfport Police Department,MS,75068
 MS0410700,Guntown Police Department,MS,2611
+MS0230000,Hancock County Sheriff's Office,MS,28979
 MS0240000,Harrison County Sheriff's Office,MS,55596
 MS0180100,Hattiesburg Police Department,MS,48465
 MS0150200,Hazlehurst Police Department,MS,3407
@@ -8772,6 +9052,7 @@ MS0250000,Hinds County Sheriff's Office,MS,27550
 MS0760300,Hollandale Police Department,MS,2077
 MS0470100,Holly Springs Police Department,MS,6358
 MS0260400,Holmes Community College: Goodman,MS,0
+MS0220300,Holmes Community College: Grenada,MS,0
 MS0450600,Holmes Community College: Ridgeland,MS,0
 MS0260000,Holmes County Sheriff's Office,MS,9593
 MS0170400,Horn Lake Police Department,MS,26533
@@ -8855,6 +9136,7 @@ MS0490000,Montgomery County Sheriff's Office,MS,5585
 MS0670400,Moorhead Police Department,MS,1724
 MS0620200,Morton Police Department,MS,3625
 MS0300100,Moss Point Police Department,MS,11709
+MS0060200,Mound Bayou Police Department,MS,1363
 MS0160200,Mount Olive Police Department,MS,882
 MS0730300,Myrtle Police Department,MS,489
 MS0010100,Natchez Police Department,MS,14183
@@ -8873,13 +9155,16 @@ MS0090200,Okolona Police Department,MS,2394
 MS0530000,Oktibbeha County Sheriff's Office,MS,26398
 MS0170200,Olive Branch Police Department,MS,47568
 MS0360100,Oxford Police Department,MS,27137
+MS0540000,Panola County Sheriff's Office,MS,23941
 MS0300300,Pascagoula Police Department,MS,21355
 MS0240400,Pass Christian Police Department,MS,6611
 MS0610200,Pearl Police Department,MS,28811
+MS0180700,Pearl River Community College: Forrest,MS,0
 MS0550300,Pearl River Community College: Poplarville,MS,0
 MS0550000,Pearl River County Sheriff's Office,MS,45061
 MS0610300,Pelahatchie Police Department,MS,1309
 MS0560000,Perry County Sheriff's Office,MS,10910
+MS0180200,Petal Police Department,MS,11659
 MS0500100,Philadelphia Police Department,MS,6901
 MS0550100,Picayune Police Department,MS,12053
 MS0260500,Pickens Police Department,MS,796
@@ -8901,6 +9186,7 @@ MS0610500,Richland Police Department,MS,7726
 MS0450200,Ridgeland Police Department,MS,24565
 MS0700100,Ripley Police Department,MS,5339
 MS0630100,Rolling Fork Police Department,MS,1391
+MS0060500,Rosedale Police Department,MS,1402
 MS0190400,Roxie Police Department,MS,465
 MS0670300,Ruleville Police Department,MS,2197
 MS0410800,Saltillo Police Department,MS,4972
@@ -8910,6 +9196,7 @@ MS0160300,Seminary Police Department,MS,290
 MS0690100,Senatobia Police Department,MS,8446
 MS0630000,Sharkey County Sheriff's Office,MS,1736
 MS0060400,Shaw Police Department,MS,1322
+MS0060300,Shelby Police Department,MS,1750
 MS0640000,Simpson County Sheriff's Office,MS,19626
 MS0300900,Singing River Health System,MS,0
 MS0650000,Smith County Sheriff's Office,MS,13011
@@ -8931,22 +9218,30 @@ MS0260300,Tchula Police Department,MS,1646
 MS0250600,Terry Police Department,MS,1617
 MS0700000,Tippah County Sheriff's Office,MS,15425
 MS0710000,Tishomingo County Sheriff's Office,MS,15509
+MS0720000,Tunica County Sheriff's Office,MS,8230
+MS0720100,Tunica Police Department,MS,831
 MS0410100,Tupelo Police Department,MS,37739
 MS0740100,Tylertown Police Department,MS,1470
 MS0730000,Union County Sheriff's Office,MS,19955
 MS0510300,Union Police Department,MS,1995
 MS0251600,University of Mississippi: Medical Center,MS,0
 MS0360200,University of Mississippi: Oxford,MS,0
+MS0180300,University of Southern Mississippi,MS,0
 MS0250400,Utica Police Department,MS,596
+MS0080100,Vaiden Police Department,MS,882
+MS0070400,Vardaman Police Department,MS,1058
 MS0410500,Verona Police Department,MS,2700
+MS0750100,Vicksburg Police Department,MS,19690
 MS0170600,Walls Police Department,MS,1428
 MS0700300,Walnut Police Department,MS,683
 MS0740000,Walthall County Sheriff's Office,MS,12427
+MS0750000,Warren County Sheriff's Office,MS,22025
 MS0760000,Washington County Sheriff's Office,MS,8500
 MS0810100,Water Valley Police Department,MS,3421
 MS0230300,Waveland Police Department,MS,7005
 MS0770000,Wayne County Sheriff's Office,MS,15337
 MS0770100,Waynesboro Police Department,MS,4492
+MS0680400,Webb Police Department,MS,369
 MS0780000,Webster County Sheriff's Office,MS,7207
 MS0150300,Wesson Police Department,MS,1766
 MS0130100,West Point Police Department,MS,9677
@@ -9133,6 +9428,7 @@ NC0710100,Burgaw Police Department,NC,3849
 NC0120000,Burke County Sheriff's Office,NC,61392
 NC0010100,Burlington Police Department,NC,62361
 NC1000100,Burnsville Police Department,NC,1629
+NC0390200,Butner Police Department,NC,8176
 NC0130000,Cabarrus County Sheriff's Office,NC,83983
 NC0140000,Caldwell County Sheriff's Office,NC,53290
 NC0150000,Camden County Sheriff's Office,NC,11343
@@ -9202,6 +9498,7 @@ NC0740900,East Carolina University,NC,0
 NC0800200,East Spencer Police Department,NC,1639
 NC0790100,Eden Police Department,NC,15395
 NC0210100,Edenton Police Department,NC,4499
+NC0330000,Edgecombe County Sheriff's Office,NC,21147
 NC0700100,Elizabeth City Police Department,NC,19125
 NC0700200,Elizabeth City State University,NC,0
 NC0090300,Elizabethtown Police Department,NC,3286
@@ -9271,6 +9568,7 @@ NC0260200,Hope Mills Police Department,NC,18173
 NC0580200,Hot Springs Police Department,NC,549
 NC0140400,Hudson Police Department,NC,3767
 NC0600600,Huntersville Police Department,NC,68534
+NC0480000,Hyde County Sheriff's Office,NC,4599
 NC0160900,Indian Beach Police Department,NC,233
 NC0490000,Iredell County Sheriff's Office,NC,120444
 NC0500000,Jackson County Sheriff's Office,NC,43353
@@ -9394,6 +9692,7 @@ NC0560200,Old Fort Police Department,NC,838
 NC0670000,Onslow County Sheriff's Office,NC,130093
 NC0680000,Orange County Sheriff's Office,NC,56384
 NC0690200,Oriental Police Department,NC,908
+NC0390100,Oxford Police Department,NC,9022
 NC0690000,Pamlico County Sheriff's Office,NC,11697
 NC0780600,Parkton Police Department,NC,505
 NC0700000,Pasquotank County Sheriff's Office,NC,22606
@@ -9418,6 +9717,7 @@ NC0750000,Polk County Sheriff's Office,NC,17224
 NC0040400,Polkton Police Department,NC,2826
 NC0510700,Princeton Police Department,NC,1557
 NC060149E,Queens University,NC,0
+NC0470100,Raeford Police Department,NC,4584
 NC0920100,Raleigh Police Department,NC,508719
 NC0921500,Raleigh-Durham International Airport,NC,0
 NC0760400,Ramseur Police Department,NC,1794
@@ -9447,6 +9747,7 @@ NC0730100,Roxboro Police Department,NC,8325
 NC0810000,Rutherford County Sheriff's Office,NC,49147
 NC0810200,Rutherfordton Police Department,NC,3732
 NC092339E,Saint Augustine's University,NC,0
+NC0800500,Salisbury Police Department,NC,36900
 NC0750200,Saluda Police Department,NC,659
 NC0820000,Sampson County Sheriff's Office,NC,51812
 NC0530100,Sanford Police Department,NC,33695
@@ -9579,6 +9880,7 @@ NC0630800,Whispering Pines Police Department,NC,5525
 NC0640700,Whitakers Police Department,NC,652
 NC0090400,White Lake Police Department,NC,854
 NC0240500,Whiteville Police Department,NC,4673
+NC0970000,Wilkes County Sheriff's Office,NC,58151
 NC0970200,Wilkesboro Police Department,NC,3607
 NC0590100,Williamston Police Department,NC,5027
 NC0650200,Wilmington Police Department,NC,127752
@@ -9755,6 +10057,7 @@ NB0240000,Dawson County Sheriff's Office,NE,5973
 NB0110400,Decatur Police Department,NE,411
 NB0250000,Deuel County Sheriff's Office,NE,1909
 NB0260000,Dixon County Sheriff's Office,NE,5145
+NB0270000,Dodge County Sheriff's Office,NE,7239
 NB0270400,Dodge Snyder Police Department,NE,816
 NB0280000,Douglas County Sheriff's Office,NE,103800
 NB0290000,Dundy County Sheriff's Office,NE,1565
@@ -9763,6 +10066,7 @@ NB0450400,Ewing Police Department,NE,379
 NB0740100,Falls City Police Department,NE,4022
 NB0300000,Fillmore County Sheriff's Office,NE,5503
 NB0310000,Franklin County Sheriff's Office,NE,2801
+NB0270100,Fremont Police Department,NE,28464
 NB0320000,Frontier County Sheriff's Office,NE,2547
 NB0330000,Furnas County Sheriff's Office,NE,4432
 NB0340000,Gage County Sheriff's Office,NE,8069
@@ -9859,6 +10163,7 @@ NB0780000,Saunders County Sheriff's Office,NE,13782
 NB0190100,Schuyler Police Department,NE,6754
 NB0790000,Scotts Bluff County Sheriff's Office,NE,8423
 NB0790100,Scottsbluff Police Department,NE,15337
+NB0270300,Scribner Police Department,NE,810
 NB0800000,Seward County Sheriff's Office,NE,7830
 NB0800100,Seward Police Department,NE,7766
 NB0100400,Shelton Police Department,NE,1046
@@ -10099,6 +10404,7 @@ NH0054800,Lisbon Police Department,NH,1641
 NH0063000,Litchfield Police Department,NH,8575
 NH0055000,Littleton Police Department,NH,6039
 NH0083800,Londonderry Police Department,NH,27327
+NH0073400,Loudon Police Department,NH,5778
 NH0055600,Lyme Police Department,NH,1727
 NH0063200,Lyndeborough Police Department,NH,1716
 NH0091200,Madbury Police Department,NH,1952
@@ -10477,6 +10783,8 @@ NJ0132900,Matawan Police Department,NJ,9789
 NJ0023400,Maywood Police Department,NJ,10250
 NJ0032200,Medford Lakes Police Department,NJ,4368
 NJ0032100,Medford Township Police Department,NJ,25504
+NJ0141800,Mendham Police Department,NJ,5004
+NJ0141900,Mendham Township Police Department,NJ,6061
 NJ0110000,Mercer County Sheriff's Office,NJ,0
 NJ0042400,Merchantville Police Department,NJ,4334
 NJ0121000,Metuchen Police Department,NJ,15557
@@ -10700,6 +11008,7 @@ NJ015SP00,State Police: Ocean County,NJ,0
 NJ016SP00,State Police: Passaic County,NJ,0
 NJ017SP00,State Police: Salem County,NJ,26188
 NJ018SP00,State Police: Somerset County,NJ,0
+NJ019SP00,State Police: Sussex County,NJ,44405
 NJ020SP00,State Police: Union County,NJ,0
 NJ021SP00,State Police: Warren County,NJ,27121
 NJ009149E,Stevens Institute of Technology,NJ,0
@@ -10787,6 +11096,7 @@ NM0070200,Anthony Police Department,NM,8959
 NM0080100,Artesia Police Department,NM,12471
 NM0240100,Aztec Police Department,NM,6111
 NM0090200,Bayard Police Department,NM,2058
+NM0320100,Belen Police Department,NM,7605
 NM0010000,Bernalillo County Sheriff's Office,NM,108749
 NM0230100,Bernalillo Police Department,NM,9194
 NM0240300,Bloomfield Police Department,NM,7351
@@ -10907,6 +11217,8 @@ NM0200100,Tucumcari Police Department,NM,5009
 NM0190200,Tularosa Police Department,NM,2652
 NM0310000,Union County Sheriff's Office,NM,1338
 NM0010200,University of New Mexico: Main Campus,NM,0
+NM0321000,University of New Mexico: Valencia,NM,0
+NM0320000,Valencia County Sheriff's Office,NM,40846
 NM0090500,Western New Mexico University,NM,0
 NMDI08300,Zia Pueblo,NM,0
 NM0170300,Zuni Tribal,NM,0
@@ -10984,16 +11296,24 @@ NV0100100,Yerington Police Department,NV,3224
 NVDI06400,Yomba Shoshone Tribal,NV,0
 NY0222000,Adams Village Police Department,NY,1667
 NY0502000,Addison Town and Village Police Department,NY,2313
+NY0082000,Afton Village Police Department,NY,781
 NY0143200,Akron Village Police Department,NY,2880
 NY0010000,Albany County Sheriff's Office,NY,22839
 NY0010100,Albany Police Department,NY,102009
 NY0362000,Albion Village Police Department,NY,5718
 NY0222100,Alexandria Bay Village Police Department,NY,939
+NY0022000,Alfred Village Police Department,NY,5594
+NY0020000,Allegany County Sheriff's Office,NY,26872
 NY0042000,Allegany Village Police Department,NY,1601
 NY0012100,Altamont Village Police Department,NY,1648
 NY0145100,Amherst Town Police Department,NY,125750
+NY0512000,Amityville Village Police Department,NY,9781
 NY0280100,Amsterdam Police Department,NY,18162
+NY0022200,Andover Village Police Department,NY,886
+NY0022300,Angelica Village  Police Department,NY,704
+NY0602000,Arcade Village Police Department,NY,1913
 NY0592400,Ardsley Village Police Department,NY,4950
+NY0514400,Asharoken Village Police Department,NY,612
 NY0192000,Athens Village  Police Department,NY,1578
 NY0602100,Attica Village Police Department,NY,2433
 NY0050100,Auburn Police Department,NY,25742
@@ -11005,11 +11325,13 @@ NY0180100,Batavia Police Department,NY,15045
 NY0502200,Bath Village Police Department,NY,5491
 NY0130100,Beacon Police Department,NY,15544
 NY0595000,Bedford Town Police Department,NY,16548
+NY0022100,Belmont Village Police Department,NY,829
 NY0015100,Bethlehem Town Police Department,NY,35516
 NY0030100,Binghamton Police Department,NY,46525
 NY0223400,Black River Police Department,NY,1230
 NY0142900,Blasdell Village Police Department,NY,2563
 NY0357300,Blooming Grove Town Police Department,NY,12754
+NY0022400,Bolivar Village Police Department,NY,995
 NY0565000,Bolton Town Police Department,NY,2008
 NY0322100,Boonville Village Police Department,NY,1998
 NY0145400,Brant Town Police Department,NY,1936
@@ -11049,6 +11371,7 @@ NY0102000,Chatham Village Police Department,NY,1533
 NY0060000,Chautauqua County Sheriff's Office,NY,56704
 NY0145500,Cheektowaga Town Police Department,NY,79099
 NY0070000,Chemung County Sheriff's Office,NY,39505
+NY0080000,Chenango County Sheriff's Office,NY,31690
 NY0357700,Chester Town Police Department,NY,8820
 NY0352100,Chester Village Police Department,NY,3991
 NY0262900,Chittenango Village Police Department,NY,4753
@@ -11060,6 +11383,7 @@ NY0090000,Clinton County Sheriff's Office,NY,58426
 NY0582200,Clyde Village Police Department,NY,2116
 NY0472000,Cobleskill Village Police Department,NY,4605
 NY0015800,Coeymans Town Police Department,NY,7301
+NY0502500,Cohocton Town Police Department,NY,2182
 NY0010200,Cohoes Police Department,NY,18639
 NY0124200,Colchester Town Police Department,NY,1761
 NY0392000,Cold Spring Village Police Department,NY,1998
@@ -11076,6 +11400,7 @@ NY0110100,Cortland Police Department,NY,17445
 NY0192200,Coxsackie Village Police Department,NY,2670
 NY0357600,Crawford Town Police Department,NY,9030
 NY0592100,Croton-on-Hudson Village Police Department,NY,8228
+NY0022600,Cuba Town Police Department,NY,3077
 NY0252700,Dansville Village Police Department,NY,4327
 NY0357100,Deerpark Town Police Department,NY,7374
 NY0120000,Delaware County Sheriff's Office,NY,32019
@@ -11092,6 +11417,8 @@ NY0130000,Dutchess County Sheriff's Office,NY,123461
 NY0142200,East Aurora-Aurora Town Police Department,NY,13917
 NY0136600,East Fishkill Town Police Department,NY,29764
 NY0415200,East Greenbush Town Police Department,NY,16600
+NY0515200,East Hampton Town Police Department,NY,26350
+NY0513200,East Hampton Village Police Department,NY,1570
 NY0272400,East Rochester Village Police Department,NY,6093
 NY0595200,Eastchester Town Police Department,NY,20296
 NY0146100,Eden Town Police Department,NY,7542
@@ -11119,6 +11446,7 @@ NY0160000,Franklin County Sheriff's Office,NY,35378
 NY0042400,Franklinville Village Police Department,NY,1631
 NY0062900,Fredonia Village Police Department,NY,9207
 NY0290400,Freeport Village Police Department,NY,43965
+NY0025000,Friendship Town Police Department,NY,1927
 NY0370100,Fulton City Police Department,NY,11202
 NY0170000,Fulton County Sheriff's Office,NY,28372
 NY0290500,Garden City Village Police Department,NY,23047
@@ -11153,11 +11481,13 @@ NY0146500,Hamburg Town Police Department,NY,48334
 NY0143000,Hamburg Village Police Department,NY,9856
 NY0200000,Hamilton County Sheriff's Office,NY,4774
 NY0262500,Hamilton Village Police Department,NY,4021
+NY0502800,Hammondsport Village Police Department,NY,568
 NY0122400,Hancock Village Police Department,NY,884
 NY0353700,Harriman Village Police Department,NY,2594
 NY0595400,Harrison Town Police Department,NY,32178
 NY0592600,Hastings-on-Hudson Village Police Department,NY,8372
 NY0435100,Haverstraw Town Police Department,NY,39610
+NY0514600,Head of the Harbor Village Police Department,NY,1474
 NY0290600,Hempstead Village Police Department,NY,59748
 NY0210000,Herkimer County Sheriff's Office,NY,27840
 NY0212400,Herkimer Village Police Department,NY,7246
@@ -11171,8 +11501,10 @@ NY0072200,Horseheads Village Police Department,NY,6282
 NY0572600,Hudson Falls Village Police Department,NY,7345
 NY0100100,Hudson Police Department,NY,5694
 NY0195000,Hunter Town Police Department,NY,2987
+NY0513600,Huntington Bay Village Police Department,NY,1450
 NY0136500,Hyde Park Town Police Department,NY,21429
 NY0212200,Ilion Village Police Department,NY,7533
+NY0027000,Independence Town Police Department,NY,1082
 NY0205000,Inlet Town Police Department,NY,360
 NY0492000,Interlaken Village Police Department,NY,613
 NY0270200,Irondequoit Town Police Department,NY,50240
@@ -11204,6 +11536,7 @@ NY0522000,Liberty Village Police Department,NY,5164
 NY0212900,Little Falls Police Department,NY,4513
 NY0333100,Liverpool Village Police Department,NY,2247
 NY0250000,Livingston County Sheriff's Office,NY,39035
+NY0513700,Lloyd Harbor Village Police Department,NY,3565
 NY0555600,Lloyd Town Police Department,NY,11141
 NY0310100,Lockport Police Department,NY,20287
 NY0290200,Long Beach Police Department,NY,34771
@@ -11243,6 +11576,7 @@ NY0590300,Mount Vernon Police Department,NY,71615
 NY0299700,Muttontown Police Department,NY,3539
 NY0290000,Nassau County Police Department,NY,1091921
 NY0412100,Nassau Village Police Department,NY,1088
+NY0082800,New Berlin Town Police Department,NY,1576
 NY0595800,New Castle Town Police Department,NY,18044
 NY0324100,New Hartford Town and Village Police Department,NY,20611
 NY0552700,New Paltz Town and Village Police Department,NY,15949
@@ -11266,16 +11600,19 @@ NY0310200,Niagara Falls Police Department,NY,47263
 NY0143700,Niagara Frontier Transportation Authority,NY,0
 NY0315500,Niagara Town Police Department,NY,7670
 NY0465200,Niskayuna Town Police Department,NY,24239
+NY0514100,Nissequogue Village Police Department,NY,1631
 NY0445100,Norfolk Town  Police Department,NY,4242
 NY0595900,North Castle Town Police Department,NY,12241
 NY0415300,North Greenbush Town Police Department,NY,13497
 NY0503400,North Hornell Village Police Department,NY,762
 NY0333500,North Syracuse Village Police Department,NY,6771
 NY0310300,North Tonawanda Police Department,NY,29869
+NY0512500,Northport Village Police Department,NY,7314
 NY0172100,Northville Village Police Department,NY,990
 NY0082400,Norwich Police Department,NY,6512
 NY0442800,Norwood Village  Police Department,NY,1524
 NY0256000,Nunda Town and Village Police Department,NY,2662
+NY0513300,Ocean Beach Village Police Department,NY,176
 NY0275900,Ogden Town Police Department,NY,20364
 NY0440100,Ogdensburg Police Department,NY,9141
 NY0297200,Old Brookville Village Police Department,NY,2104
@@ -11301,11 +11638,13 @@ NY0380000,Otsego County Sheriff's Office,NY,43376
 NY0532400,Owego Village Police Department,NY,4309
 NY0082500,Oxford Village Police Department,NY,1323
 NY0298800,Oyster Bay Cove Village Police Department,NY,4204
+NY0502600,Painted Post Village Police Department,NY,1709
 NY0582500,Palmyra Village Police Department,NY,3249
 NY0590100,Peekskill Police Department,NY,25865
 NY0593700,Pelham Manor Village Police Department,NY,5586
 NY0593500,Pelham Village Police Department,NY,7652
 NY0612000,Penn Yan Village Police Department,NY,5002
+NY0602300,Perry Village Police Department,NY,3572
 NY0342500,Phelps Village Police Department,NY,1864
 NY0100200,Philmont Village Police Department,NY,1474
 NY0372900,Phoenix Village Police Department,NY,2193
@@ -11326,12 +11665,14 @@ NY0136300,Poughkeepsie Town Police Department,NY,40983
 NY0596300,Pound Ridge Town Police Department,NY,5001
 NY0372600,Pulaski Village Police Department,NY,2295
 NY0390000,Putnam County Sheriff's Office,NY,48114
+NY0513900,Quogue Village Police Department,NY,1713
 NY0435300,Ramapo Town Police Department,NY,113671
 NY0132500,Red Hook Village Police Department,NY,1952
 NY0410100,Rensselaer City Police Department,NY,9516
 NY0410000,Rensselaer County Sheriff's Office,NY,55942
 NY410UR00,Rensselaer Polytechnic Institute,NY,0
 NY0132700,Rhinebeck Village Police Department,NY,2558
+NY0515500,Riverhead Town Police Department,NY,36118
 NY0270100,Rochester Police Department,NY,206391
 NY0430000,Rockland County Sheriff's Office,NY,13205
 NY0290900,Rockville Centre Village Police Department,NY,25674
@@ -11341,6 +11682,7 @@ NY0465400,Rotterdam Town Police Department,NY,31096
 NY0597200,Rye Brook Village Police Department,NY,9883
 NY0590800,Rye Police Department,NY,16444
 NY0223300,Sackets Harbor Village Police Department,NY,1361
+NY0512400,Sag Harbor Village Police Department,NY,2832
 NY0043300,Salamanca Police Department,NY,5714
 NY0293500,Sands Point Village Police Department,NY,2753
 NY0162300,Saranac Lake Village Police Department,NY,4831
@@ -11359,6 +11701,7 @@ NY0490000,Seneca County Sheriff's Office,NY,18574
 NY0490100,Seneca Falls Town Police Department,NY,8876
 NY0558100,Shandaken Town Police Department,NY,2816
 NY0559900,Shawangunk Town Police Department,NY,13424
+NY0515600,Shelter Island Town Police Department,NY,3337
 NY0082700,Sherburne Village Police Department,NY,1360
 NY0322400,Sherrill Police Department,NY,2978
 NY0122700,Sidney Village Police Department,NY,3590
@@ -11368,6 +11711,9 @@ NY0582800,Sodus Village Police Department,NY,1689
 NY0332600,Solvay Village Police Department,NY,6461
 NY0315900,Somerset Town Police Department,NY,1979
 NY0452400,South Glens Falls Village Police Department,NY,3718
+NY0515800,Southampton Town Police Department,NY,60934
+NY0512600,Southampton Village Police Department,NY,4731
+NY0515900,Southold Town Police Department,NY,21579
 NY0432800,Spring Valley Village Police Department,NY,33805
 NY0282800,St. Johnsville Village Police Department,NY,1708
 NY0440000,St. Lawrence County Sheriff's Office,NY,63334
@@ -11385,6 +11731,7 @@ NY0015500,State Park: Statewide,NY,0
 NY0139000,State Park: Taconic Region,NY,0
 NY0229000,State Park: Thousand Island Region,NY,0
 NY201UN00,State University of New York Police: Albany,NY,0
+NY202UN00,State University of New York Police: Alfred,NY,0
 NY203UN00,State University of New York Police: Binghamton,NY,0
 NY227UN00,State University of New York Police: Brockport,NY,0
 NY214UB00,State University of New York Police: Buffalo,NY,0
@@ -11395,6 +11742,7 @@ NY211UC00,State University of New York Police: Cortland,NY,0
 NY212UN00,State University of New York Police: Delhi,NY,0
 NY223UN00,State University of New York Police: Downstate Medical,NY,0
 NY233UE00,State University of New York Police: Environmental Science,NY,0
+NY251UF00,State University of New York Police: Farmingdale,NY,0
 NY206UN00,State University of New York Police: Fredonia,NY,0
 NY225UN00,State University of New York Police: Geneseo,NY,0
 NY262UN00,State University of New York Police: Maritime,NY,0
@@ -11408,6 +11756,7 @@ NY209UN00,State University of New York Police: Plattsburgh,NY,0
 NY232UN00,State University of New York Police: Polytechnic Institute,NY,0
 NY244UP00,State University of New York Police: Potsdam,NY,0
 NY259UN00,State University of New York Police: Purchase,NY,0
+NY251US00,State University of New York Police: Stony Brook,NY,0
 NY233UM00,State University of New York Police: Upstate Medical,NY,0
 NY0017500,State University of New York: Albany (Plaza),NY,0
 NY0500000,Steuben County Sheriff's Office,NY,57077
@@ -11415,6 +11764,8 @@ NY0457000,Stillwater Town Police Department,NY,8311
 NY0102500,Stockport Town Police Department,NY,2565
 NY0435400,Stony Point Town Police Department,NY,15042
 NY0432900,Suffern Village Police Department,NY,11568
+NY0510100,Suffolk County Police Department,NY,1366793
+NY0510000,Suffolk County Sheriff's Office,NY,0
 NY0520000,Sullivan County Sheriff's Office,NY,54074
 NY0330100,Syracuse Police Department,NY,145890
 NY0330500,Syracuse Regional Airport Authority,NY,0
@@ -11443,6 +11794,7 @@ NY0357800,Wallkill Town Police Department,NY,31622
 NY0122900,Walton Village Police Department,NY,2827
 NY0132400,Wappingers Falls Village Police Department,NY,6062
 NY0560000,Warren County Sheriff's Office,NY,49454
+NY0602700,Warsaw Village Police Department,NY,3608
 NY0357000,Warwick Town Police Department,NY,19384
 NY0570000,Washington County Sheriff's Office,NY,44391
 NY0352000,Washingtonville Village Police Department,NY,5633
@@ -11457,19 +11809,23 @@ NY0580000,Wayne County Sheriff's Office,NY,64734
 NY0216700,Webb Town Police Department,NY,1824
 NY0276700,Webster Town and Village Police Department,NY,45343
 NY0052100,Weedsport Village Police Department,NY,1749
+NY0022800,Wellsville Village Police Department,NY,4531
 NY0222700,West Carthage Village Police Department,NY,1745
 NY0147400,West Seneca Town Police Department,NY,45359
 NY0590000,Westchester Public Safety County Sheriff's Office,NY,83226
 NY0063200,Westfield Village Police Department,NY,2861
+NY0514000,Westhampton Beach Village Police Department,NY,2248
 NY0590200,White Plains Police Department,NY,63332
 NY0572800,Whitehall Village Police Department,NY,2480
 NY0323700,Whitesboro Village Police Department,NY,3575
 NY0325000,Whitestown Town Police Department,NY,8602
+NY0025600,Willing Town Police Department,NY,1244
 NY0192500,Windham Town Police Department,NY,1719
 NY0582100,Wolcott Village Police Department,NY,1568
 NY0356900,Woodbury Town Police Department,NY,11524
 NY0522300,Woodridge Village Police Department,NY,709
 NY0556600,Woodstock Town Police Department,NY,6210
+NY0600000,Wyoming County Sheriff's Office,NY,28420
 NY0610000,Yates County Sheriff's Office,NY,19537
 NY0590700,Yonkers Police Department,NY,211056
 NY0596800,Yorktown Town Police Department,NY,35573
@@ -11498,6 +11854,7 @@ OH0260100,Archbold Police Department,OH,4429
 OH0030000,Ashland County Sheriff's Office,OH,30134
 OH0030100,Ashland Police Department,OH,18658
 OH0210200,Ashley Police Department,OH,1388
+OH0041400,Ashtabula County Metroparks Ranger Division,OH,0
 OH0040000,Ashtabula County Sheriff's Office,OH,49902
 OH0040100,Ashtabula Police Department,OH,17725
 OH0650200,Ashville Police Department,OH,4811
@@ -11651,6 +12008,7 @@ OH0772700,Copley Township Police Department,OH,18412
 OH0640400,Corning Police Department,OH,483
 OH0780800,Cortland Police Department,OH,7063
 OH0160000,Coshocton County Sheriff's Office,OH,34619
+OH0550600,Covington Police Department,OH,2639
 OH0501100,Craig Beach Police Department,OH,1061
 OH0170000,Crawford County Sheriff's Office,OH,14413
 OH0170200,Crestline Police Department,OH,4453
@@ -11705,6 +12063,7 @@ OH0290100,Fairborn Police Department,OH,35239
 OH0311100,Fairfax Police Department,OH,1760
 OH0230000,Fairfield County Sheriff's Office,OH,79560
 OH0090100,Fairfield Police Department,OH,45140
+OH0091800,Fairfield Township Police Department,OH,23545
 OH0770400,Fairlawn Police Department,OH,7790
 OH0430200,Fairport Harbor Police Department,OH,3083
 OH0181900,Fairview Park Police Department,OH,16752
@@ -11732,6 +12091,7 @@ OH0270000,Gallia County Sheriff's Office,OH,24787
 OH0270100,Gallipolis Police Department,OH,3273
 OH0182000,Garfield Heights Police Department,OH,28828
 OH0670200,Garrettsville Police Department,OH,2487
+OH0182100,Gates Mills Police Department,OH,2246
 OH0280000,Geauga County Sheriff's Office,OH,53623
 OH0040300,Geneva Police Department,OH,5859
 OH0040500,Geneva-on-the-Lake Police Department,OH,934
@@ -11743,7 +12103,9 @@ OH0572500,"German Township Police Department, Montgomery County",OH,2946
 OH0570300,Germantown Police Department,OH,5878
 OH0720600,Gibsonburg Police Department,OH,2486
 OH0780100,Girard Police Department,OH,9424
+OH0311300,Glendale Police Department,OH,2278
 OH0380200,Glenmont Police Department,OH,243
+OH0182200,Glenwillow Police Department,OH,987
 OH0050200,Glouster Police Department,OH,1643
 OH0791000,Gnadenhutten Police Department,OH,1194
 OH0311400,Golf Manor Police Department,OH,3795
@@ -11923,14 +12285,19 @@ OH0521600,Medina County Park District,OH,0
 OH0520000,Medina County Sheriff's Office,OH,49317
 OH0520200,Medina Police Department,OH,25679
 OH0521400,Medina Township Police Department,OH,9438
+OH0530000,Meigs County Sheriff's Office,OH,15889
 OH0430600,Mentor Police Department,OH,47035
 OH0430700,Mentor-on-the-Lake Police Department,OH,7101
 OH0540000,Mercer County Sheriff's Office,OH,21884
+OH0551300,Miami County Park District,OH,0
+OH0550000,Miami County Sheriff's Office,OH,40212
 OH0131500,"Miami Township Police Department, Clermont County",OH,45451
 OH0570700,"Miami Township Police Department, Montgomery County",OH,30895
+OH0091700,Miami University,OH,0
 OH0570800,Miamisburg Police Department,OH,20340
 OH0183100,Middleburg Heights Police Department,OH,15588
 OH0280500,Middlefield Police Department,OH,2749
+OH0530100,Middleport Police Department,OH,2111
 OH0090300,Middletown Police Department,OH,52613
 OH0791100,Midvale Police Department,OH,653
 OH0030800,Mifflin Police Department,OH,154
@@ -11998,6 +12365,7 @@ OH0790300,Newcomerstown Police Department,OH,3612
 OH0780500,Newton Falls Police Department,OH,4528
 OH0312500,Newtown Police Department,OH,2683
 OH0780600,Niles Police Department,OH,18193
+OH0610000,Noble County Sheriff's Office,OH,14304
 OH0870200,North Baltimore Police Department,OH,3421
 OH0761100,North Canton Police Department,OH,17641
 OH0312700,North College Hill Police Department,OH,9528
@@ -12040,6 +12408,7 @@ OH0850100,Orrville Police Department,OH,8437
 OH0040800,Orwell Police Department,OH,1510
 OH0210400,Ostrander Police Department,OH,1262
 OH0620000,Ottawa County Sheriff's Office,OH,17538
+OH0480300,Ottawa Hills Police Department,OH,4800
 OH0690100,Ottawa Police Department,OH,4412
 OH0259900,Otterbein University,OH,0
 OH0691300,Ottoville Police Department,OH,968
@@ -12075,11 +12444,13 @@ OH0131700,Pierce Township Police Department,OH,15632
 OH0660000,Pike County Sheriff's Office,OH,20762
 OH0660600,Piketon Police Department,OH,2183
 OH0860700,Pioneer Police Department,OH,1402
+OH0550200,Piqua Police Department,OH,21075
 OH0490600,Plain City Police Department,OH,4433
 OH0231700,Pleasantville Police Department,OH,957
 OH0700300,Plymouth Police Department,OH,1686
 OH0502200,Poland Township Police Department,OH,12073
 OH0500600,Poland Village Police Department,OH,2416
+OH0530200,Pomeroy Police Department,OH,1490
 OH0620200,Port Clinton Police Department,OH,5890
 OH0255400,Port Columbus International Airport,OH,0
 OH0750800,Port Jefferson Police Department,OH,301
@@ -12093,6 +12464,7 @@ OH0212200,Preservation Parks of Delaware County,OH,0
 OH0440600,Proctorville Police Department,OH,493
 OH0620700,Put-In-Bay  Police Department,OH,151
 OH0690000,Putnam County Sheriff's Office,OH,20718
+OH0530300,Racine Police Department,OH,654
 OH0670500,Ravenna Police Department,OH,11216
 OH0411600,Rayland Police Department,OH,379
 OH0312900,Reading Police Department,OH,11276
@@ -12122,6 +12494,7 @@ OH0870400,Rossford Police Department,OH,6366
 OH0280800,Russell Township Police Department,OH,5390
 OH0460200,Russells Point Police Department,OH,1319
 OH0080800,Russellville Police Department,OH,550
+OH0530400,Rutland Police Department,OH,408
 OH0140300,Sabina Police Department,OH,2458
 OH0773000,Sagamore Hills Police Department,OH,10837
 OH0150600,Salem Police Department,OH,11637
@@ -12200,11 +12573,14 @@ OH0210700,Sunbury Police Department,OH,10643
 OH0260400,Swanton Police Department,OH,3884
 OH0480500,Sylvania Police Department,OH,19118
 OH0480600,Sylvania Township Police Department,OH,31858
+OH0530500,Syracuse Police Department,OH,766
 OH0771300,Tallmadge Police Department,OH,18412
 OH0314100,Terrace Park Police Department,OH,2350
+OH0641200,Thornville Police Department,OH,1096
 OH0740200,Tiffin Police Department,OH,17654
 OH0412000,Tiltonsville Police Department,OH,1211
 OH0431700,Timberlake Police Department,OH,605
+OH0550300,Tipp City Police Department,OH,10671
 OH0481900,Toledo Fire Department Fire Investigation Unit,OH,0
 OH0482200,Toledo Metropolitan Park District,OH,0
 OH0480700,Toledo Police Department,OH,264490
@@ -12213,6 +12589,7 @@ OH0410400,Toronto Police Department,OH,5159
 OH0121000,Tremont City Police Department,OH,345
 OH0090900,Trenton Police Department,OH,14409
 OH0571200,Trotwood Police Department,OH,23072
+OH0550400,Troy Police Department,OH,27309
 OH0780000,Trumbull County Sheriff's Office,OH,24701
 OH0790000,Tuscarawas County Sheriff's Office,OH,40786
 OH0791900,Tuscarawas Police Department,OH,1018
@@ -12260,6 +12637,7 @@ OH0481500,"Washington Township Police Department, Lucas County",OH,3077
 OH0151300,Washingtonville Police Department,OH,696
 OH0481100,Waterville Police Department,OH,6023
 OH0481800,Waterville Township Police Department,OH,2042
+OH0260500,Wauseon Police Department,OH,7430
 OH0660100,Waverly Police Department,OH,4105
 OH0850000,Wayne County Sheriff's Office,OH,61837
 OH0872400,Wayne Police Department,OH,860
@@ -12278,6 +12656,7 @@ OH0781000,West Farmington Police Department,OH,533
 OH0490200,West Jefferson Police Department,OH,5167
 OH0160600,West Lafayette Police Department,OH,2471
 OH0461000,West Liberty Police Department,OH,1759
+OH0551200,West Milton Police Department,OH,4892
 OH0851500,West Salem Police Department,OH,1438
 OH0010300,West Union Police Department,OH,3109
 OH0860900,West Unity Police Department,OH,1724
@@ -12326,6 +12705,7 @@ OK0020000,Alfalfa County Sheriff's Office,OK,4253
 OK0620300,Allen Police Department,OK,803
 OK0330100,Altus Police Department,OK,18503
 OK0760100,Alva Police Department,OK,4954
+OK0260500,Amber Police Department,OK,465
 OKDI05100,Anadarko Agency,OK,0
 OK0080100,Anadarko Police Department,OK,5481
 OK0640100,Antlers Police Department,OK,2177
@@ -12583,11 +12963,13 @@ OK0631400,McLoud Police Department,OK,4560
 OK0270600,Medford Police Department,OK,911
 OK0161000,Medicine Park Police Department,OK,491
 OK0411100,Meeker Police Department,OK,1035
+OKDI06000,Miami Agency,OK,0
 OK0580200,Miami Police Department,OK,12866
 OK0581700,Miami Public Schools,OK,0
 OKDI00400,Miami Tribal,OK,0
 OK0550400,Midwest City Police Department,OK,58515
 OK0451200,Millerton Police Department,OK,213
+OK0260900,Minco Police Department,OK,1559
 OK0140100,Moore Police Department,OK,64044
 OK0770500,Mooreland Police Department,OK,1125
 OK0561100,Morris Police Department,OK,1342
@@ -12606,6 +12988,7 @@ OK0440800,Newcastle Police Department,OK,15715
 OK0360200,Newkirk Police Department,OK,2242
 OK0550500,Nichols Hills Police Department,OK,3846
 OK0551400,Nicoma Park Police Department,OK,2289
+OK0261000,Ninnekah Police Department,OK,830
 OK0520000,Noble County Sheriff's Office,OK,5864
 OK0140400,Noble Police Department,OK,7978
 OK0141300,Noble Public Schools,OK,0
@@ -12797,6 +13180,7 @@ OK0600300,Yale Police Department,OK,1079
 OK0090200,Yukon Police Department,OK,27954
 OR0220100,Albany Police Department,OR,57315
 ORAMX019E,Amtrak Police,OR,0
+OR0150100,Ashland Police Department,OR,20832
 OR0040100,Astoria Police Department,OR,9837
 OR0241200,Aumsville Police Department,OR,4207
 OR026209E,BNSF Railway Police,OR,0
@@ -12812,9 +13196,11 @@ OR0250400,Boardman Police Department,OR,4481
 OR0080100,Brookings Police Department,OR,6428
 OR0130300,Burns Paiute Tribal,OR,0
 OR0130100,Burns Police Department,OR,2678
+OR0151000,Butte Falls Police Department,OR,431
 OR0030100,Canby Police Department,OR,17979
 OR0040500,Cannon Beach Police Department,OR,1499
 OR0360500,Carlton Police Department,OR,2282
+OR0150200,Central Point Police Department,OR,19136
 OR0030000,Clackamas County Sheriff's Office,OR,245076
 OR0040000,Clatsop County Sheriff's Office,OR,14304
 OR0200700,Coburg Police Department,OR,1357
@@ -12835,12 +13221,15 @@ OR0080000,Curry County Sheriff's Office,OR,12773
 OR0270100,Dallas Police Department,OR,18147
 OR0090000,Deschutes County Sheriff's Office,OR,64843
 OR0100000,Douglas County Sheriff's Office,OR,66327
+OR0150700,Eagle Point Police Department,OR,9835
+OR0320100,Enterprise Police Department,OR,2092
 OR0200200,Eugene Police Department,OR,178886
 OR0200300,Florence Police Department,OR,9511
 OR0340200,Forest Grove Police Department,OR,27331
 OR0340500,Gaston Police Department,OR,675
 OR0040200,Gearhart Police Department,OR,1887
 OR0240600,Gervais Police Department,OR,2564
+OR0110000,Gilliam County Sheriff's Office,OR,1957
 OR0030300,Gladstone Police Department,OR,11861
 OR0080200,Gold Beach Police Department,OR,2253
 ORDI01400,Grand Ronde Tribal,OR,0
@@ -12856,16 +13245,22 @@ OR0140000,Hood River County Sheriff's Office,OR,15337
 OR0140200,Hood River Police Department,OR,8358
 OR0240700,Hubbard Police Department,OR,3394
 OR0270200,Independence Police Department,OR,10370
+OR0150000,Jackson County Sheriff's Office,OR,67727
+OR0150300,Jacksonville Police Department,OR,2925
 OR0160000,Jefferson County Sheriff's Office,OR,17908
 OR0170000,Josephine County Sheriff's Office,OR,48632
 OR0200400,Junction City Police Department,OR,7398
 OR0241700,Keizer Police Department,OR,39110
 OR0341100,King City Police Department,OR,4960
+OR0180000,Klamath County Sheriff's Office,OR,46682
+OR0180100,Klamath Falls Police Department,OR,22242
 OR0310100,La Grande Police Department,OR,13071
 OR0190000,Lake County Sheriff's Office,OR,8188
 OR0030400,Lake Oswego Police Department,OR,39817
 OR0200000,Lane County Sheriff's Office,OR,109362
 OR0220300,Lebanon Police Department,OR,20319
+OR0210100,Lincoln City Police Department,OR,10082
+OR0210000,Lincoln County Sheriff's Office,OR,26752
 OR0220000,Linn County Sheriff's Office,OR,54600
 OR001070X,Liquor Commission: Baker County,OR,0
 OR002050X,Liquor Commission: Benton County,OR,0
@@ -12877,30 +13272,41 @@ OR007020X,Liquor Commission: Crook County,OR,0
 OR008040X,Liquor Commission: Curry County,OR,0
 OR0090600,Liquor Commission: Deschutes County,OR,0
 OR010120X,Liquor Commission: Douglas County,OR,0
+OR011030X,Liquor Commission: Gilliam County,OR,0
 OR012060X,Liquor Commission: Grant County,OR,0
 OR013040X,Liquor Commission: Harney County,OR,0
 OR0LCC100,Liquor Commission: Headquarters,OR,0
 OR014030X,Liquor Commission: Hood River County,OR,0
+OR015120X,Liquor Commission: Jackson County,OR,0
 OR016060X,Liquor Commission: Jefferson County,OR,0
 OR017030X,Liquor Commission: Josephine County,OR,0
+OR018060X,Liquor Commission: Klamath County,OR,0
 OR019020X,Liquor Commission: Lake County,OR,0
 OR020110X,Liquor Commission: Lane County,OR,0
+OR021050X,Liquor Commission: Lincoln County,OR,0
 OR022080X,Liquor Commission: Linn County,OR,0
+OR023050X,Liquor Commission: Malheur County,OR,0
 OR024160X,Liquor Commission: Marion County,OR,0
 OR025050X,Liquor Commission: Morrow County,OR,0
 OR026140X,Liquor Commission: Multnomah County,OR,0
 OR027050X,Liquor Commission: Polk County,OR,0
+OR028040X,Liquor Commission: Sherman County,OR,0
 OR029070X,Liquor Commission: Tillamook County,OR,0
 OR030110X,Liquor Commission: Umatilla County,OR,0
 OR031050X,Liquor Commission: Union County,OR,0
+OR032040X,Liquor Commission: Wallowa County,OR,0
 OR033050X,Liquor Commission: Wasco County,OR,0
 OR034130X,Liquor Commission: Washington County,OR,0
 OR035030X,Liquor Commission: Wheeler County,OR,0
 OR036110X,Liquor Commission: Yamhill County,OR,0
 OR0160200,Madras Police Department,OR,7835
+OR0230000,Malheur County Sheriff's Office,OR,17148
+OR0180500,Malin Police Department,OR,742
 OR0290500,Manzanita Police Department,OR,647
 OR0240000,Marion County Sheriff's Office,OR,97343
 OR0360100,McMinnville Police Department,OR,35508
+OR0150400,Medford Police Department,OR,86298
+OR0180300,Merrill Police Department,OR,870
 OR0300200,Milton-Freewater Police Department,OR,6988
 OR0030500,Milwaukie Police Department,OR,21734
 OR0030600,Molalla Police Department,OR,10110
@@ -12911,13 +13317,17 @@ OR0260000,Multnomah County Sheriff's Office,OR,47460
 OR0100200,Myrtle Creek Police Department,OR,3502
 OR0060500,Myrtle Point Police Department,OR,2467
 OR0360200,Newberg-Dundee Police Department,OR,27558
+OR0210200,Newport Police Department,OR,10973
 OR0060600,North Bend Police Department,OR,9984
 OR0340800,North Plains Police Department,OR,3419
+OR0230100,Nyssa Police Department,OR,3284
 OR0200500,Oakridge Police Department,OR,3145
+OR0230200,Ontario Police Department,OR,12005
 OR0030700,Oregon City Police Department,OR,38468
 OR0020400,Oregon State University,OR,0
 OR0300300,Pendleton Police Department,OR,17031
 OR0020200,Philomath Police Department,OR,5915
+OR0150500,Phoenix Police Department,OR,4594
 OR0300700,Pilot Rock Police Department,OR,1308
 OR0270000,Polk County Sheriff's Office,OR,20126
 OR0080300,Port Orford Police Department,OR,1105
@@ -12929,11 +13339,13 @@ OR0070100,Prineville Police Department,OR,12189
 OR0050200,Rainier Police Department,OR,1938
 OR0090200,Redmond Police Department,OR,38660
 OR0100300,Reedsport Police Department,OR,4296
+OR0150900,Rogue River Police Department,OR,2318
 OR0100500,Roseburg Police Department,OR,23827
 OR0240200,Salem Police Department,OR,181534
 OR0030800,Sandy Police Department,OR,13074
 OR0050400,Scappoose Police Department,OR,8349
 OR0040300,Seaside Police Department,OR,7094
+OR0280000,Sherman County Sheriff's Office,OR,2033
 OR0340600,Sherwood Police Department,OR,20439
 ORDI00400,Siletz Tribal,OR,0
 OR0240300,Silverton Police Department,OR,10367
@@ -12950,21 +13362,28 @@ OR007SP00,State Police: Crook County,OR,0
 OR008SP00,State Police: Curry County,OR,0
 OR009SP00,State Police: Deschutes County,OR,0
 OR010SP00,State Police: Douglas County,OR,0
+OR011SP00,State Police: Gilliam County,OR,0
 OR012SP00,State Police: Grant County,OR,0
 OR013SP00,State Police: Harney County,OR,0
 OR014SP00,State Police: Hood River County,OR,0
+OR015SP00,State Police: Jackson County,OR,0
 OR016SP00,State Police: Jefferson County,OR,0
 OR017SP00,State Police: Josephine County,OR,0
+OR018SP00,State Police: Klamath County,OR,0
 OR019SP00,State Police: Lake County,OR,0
 OR020SP00,State Police: Lane County,OR,0
+OR021SP00,State Police: Lincoln County,OR,0
 OR022SP00,State Police: Linn County,OR,0
+OR023SP00,State Police: Malheur County,OR,0
 OR024SP00,State Police: Marion County,OR,0
 OR025SP00,State Police: Morrow County,OR,0
 OR026SP00,State Police: Multnomah County,OR,0
 OR027SP00,State Police: Polk County,OR,0
+OR028SP00,State Police: Sherman County,OR,0
 OR029SP00,State Police: Tillamook County,OR,0
 OR030SP00,State Police: Umatilla County,OR,0
 OR031SP00,State Police: Union County,OR,0
+OR032SP00,State Police: Wallowa County,OR,0
 OR033SP00,State Police: Wasco County,OR,0
 OR034SP00,State Police: Washington County,OR,0
 OR035SP00,State Police: Wheeler County,OR,0
@@ -12973,10 +13392,12 @@ OR0240400,Stayton Police Department,OR,8594
 OR0090500,Sunriver Police Department,OR,2028
 OR0100600,Sutherlin Police Department,OR,8673
 OR0220400,Sweet Home Police Department,OR,10370
+OR0150600,Talent Police Department,OR,6306
 OR0330100,The Dalles Police Department,OR,15860
 OR0340400,Tigard Police Department,OR,57885
 OR0290000,Tillamook County Sheriff's Office,OR,21386
 OR0290400,Tillamook Police Department,OR,5142
+OR0210300,Toledo Police Department,OR,3505
 OR0341200,Tualatin Police Department,OR,28076
 OR0241000,Turner Police Department,OR,2405
 OR0300000,Umatilla County Sheriff's Office,OR,25197
@@ -12986,6 +13407,7 @@ OR0310000,Union County Sheriff's Office,OR,12921
 OR026179E,Union Pacific Railroad: Portland,OR,0
 OR0201300,University of Oregon,OR,0
 OR0050500,Vernonia Police Department,OR,2440
+OR0320000,Wallowa County Sheriff's Office,OR,5451
 ORDI05000,Warm Springs Tribal,OR,0
 OR0040400,Warrenton Police Department,OR,6334
 OR0330000,Wasco County Sheriff's Office,OR,10582
@@ -13056,6 +13478,7 @@ PA0631000,Bentleyville Police Department,PA,2328
 PA0193300,Benton Area School District,PA,0
 PA0190100,Benton Police Department,PA,825
 PA0060000,Berks County Sheriff's Office,PA,0
+PA0560400,Berlin Police Department,PA,1935
 PA0063100,Bern Township Police Department,PA,6819
 PA0063200,Bernville Police Department,PA,917
 PA0190200,Berwick Police Department,PA,10332
@@ -13070,6 +13493,7 @@ PA0481200,Bethlehem Township Police Department,PA,26938
 PA0213900,Big Spring School District,PA,0
 PA0011500,Biglerville Police Department,PA,1264
 PA0060100,Birdsboro Police Department,PA,5178
+PA0152000,Birmingham Township Police Department,PA,4147
 PA0111900,Blacklick Township Police Department,PA,1855
 PA0070000,Blair County Sheriff's Office,PA,0
 PA0071500,Blair Township Police Department,PA,4654
@@ -13082,6 +13506,7 @@ PA0590300,Blossburg Police Department,PA,1503
 PA0582200,Blue Ridge School District,PA,0
 PA0544900,Blythe Township Police Department,PA,1894
 PA0011600,Bonneauville Police Department,PA,1818
+PA0560500,Boswell Police Department,PA,1191
 PA0080000,Bradford County Sheriff's Office,PA,0
 PA0420100,Bradford Police Department,PA,7465
 PA0420400,Bradford Township Police Department,PA,4613
@@ -13118,6 +13543,7 @@ PA008BF0X,Bureau of Forestry: Bradford County,PA,0
 PA009BF0X,Bureau of Forestry: Bucks County,PA,0
 PA010BF0X,Bureau of Forestry: Butler County,PA,0
 PA011BF0X,Bureau of Forestry: Cambria County,PA,0
+PA012BF0X,Bureau of Forestry: Cameron County,PA,0
 PA013BF0X,Bureau of Forestry: Carbon County,PA,0
 PA014BF0X,Bureau of Forestry: Centre County,PA,0
 PA015BF0X,Bureau of Forestry: Chester County,PA,0
@@ -13163,6 +13589,7 @@ PA053BF0X,Bureau of Forestry: Potter County,PA,0
 PA054BF0X,Bureau of Forestry: Schuylkill County,PA,0
 PA055BF0X,Bureau of Forestry: Snyder County,PA,0
 PA056BF0X,Bureau of Forestry: Somerset County,PA,0
+PA057BF0X,Bureau of Forestry: Sullivan County,PA,0
 PA058BF0X,Bureau of Forestry: Susquehanna County,PA,0
 PA059BF0X,Bureau of Forestry: Tioga County,PA,0
 PA060BF0X,Bureau of Forestry: Union County,PA,0
@@ -13212,6 +13639,7 @@ PA0041800,Center Township Police Department,PA,12318
 PA0631600,Centerville Police Department,PA,5453
 PA0063500,Central Berks Regional Police Department,PA,14115
 PA0096300,Central Bucks Regional Police Department,PA,15667
+PA0560600,Central City Police Department,PA,961
 PA0193200,Central Columbia School District,PA,0
 PA0224800,Central Dauphin School District,PA,0
 PA0140000,Centre County Sheriff's Office,PA,0
@@ -13248,6 +13676,7 @@ PA0480200,Colonial Regional Police Department,PA,18908
 PA0360100,Columbia Police Department,PA,10448
 PA0230700,Colwyn Police Department,PA,2486
 PA0110200,"Conemaugh Township Police Department, Cambria County",PA,1878
+PA0560700,"Conemaugh Township Police Department, Somerset County",PA,6552
 PA0010300,"Conewago Township Police Department, Adams County",PA,8139
 PA0620200,Conewango Township Police Department,PA,3301
 PA0201800,Conneaut Lake Regional Police Department,PA,5533
@@ -13320,6 +13749,7 @@ PA0234400,Delaware County Park,PA,0
 PAUNI090X,Delaware Valley University,PA,0
 PA0450100,Delaware Water Gap Police Department,PA,663
 PA0653800,Delmont Police Department,PA,2623
+PA0651500,Derry Police Department,PA,2569
 PA0221500,"Derry Township Police Department, Dauphin County",PA,25296
 PA021269E,Dickinson College,PA,0
 PA0350800,Dickson City Police Department,PA,6007
@@ -13418,11 +13848,13 @@ PA0451500,Forest Rangers: Delaware State Forest District 19,PA,0
 PA0242600,Forest Rangers: Elk State Forest District 13,PA,0
 PA0656200,Forest Rangers: Forbes State Forest District 4,PA,0
 PA0116900,Forest Rangers: Gallitzin State Forest District 6,PA,0
+PA0570500,Forest Rangers: Loyalsock State Forest District 20,PA,0
 PA0281200,Forest Rangers: Michaux State Forest District 1,PA,0
 PA0354100,Forest Rangers: Pinchot State Forest District 11,PA,0
 PA0311200,Forest Rangers: Rothrock State Forest District 5,PA,0
 PA0182600,Forest Rangers: Sproul State Forest District 10,PA,0
 PA0531600,Forest Rangers: Susquehannock State Forest District 15,PA,0
+PA0412200,Forest Rangers: Tiadaghton State Forest District 12,PA,0
 PA0592200,Forest Rangers: Tioga State Forest District 16,PA,0
 PA0501600,Forest Rangers: Tuscarora State Forest District 3,PA,0
 PA0545500,Forest Rangers: Weiser State Forest District 18,PA,0
@@ -13438,6 +13870,7 @@ PA0540200,Frackville Police Department,PA,4499
 PA0465100,Franconia Township Police Department,PA,13890
 PA0281400,Franklin County Drug Task Force,PA,0
 PA0280000,Franklin County Sheriff's Office,PA,0
+PA0027000,Franklin Park Police Department,PA,14977
 PA0610100,Franklin Police Department,PA,5901
 PA0657300,Franklin Regional School District,PA,0
 PA0043600,"Franklin Township Police Department, Beaver County",PA,3827
@@ -13497,6 +13930,7 @@ PA0640200,Hawley Police Department,PA,1216
 PA0407700,Hazleton Area School District,PA,0
 PA0400700,Hazleton Police Department,PA,30465
 PA0541500,Hegins Township Police Department,PA,3374
+PA0027300,Heidelberg Police Department,PA,1229
 PA0672000,Hellam Township Police Department,PA,11082
 PA0480500,Hellertown Police Department,PA,6152
 PA0191400,Hemlock Township Police Department,PA,4872
@@ -13509,6 +13943,7 @@ PA0320200,Homer City Police Department,PA,1724
 PA0021200,Homestead Police Department,PA,2845
 PA0640100,Honesdale Police Department,PA,4435
 PA0152900,Honey Brook Police Department,PA,1921
+PA0560900,Hooversville Police Department,PA,602
 PA0041400,Hopewell Township Police Department,PA,13214
 PA0461000,Horsham Township Police Department,PA,28040
 PA0406500,Hughestown Police Department,PA,1364
@@ -13517,11 +13952,13 @@ PA0092500,Hulmeville  Police Department,PA,989
 PA0220300,Hummelstown Police Department,PA,4542
 PA0310100,Huntingdon Police Department,PA,6868
 PA0042300,"Independence Township Police Department, Beaver County",PA,2200
+PA0561700,Indian Lake Police Department,PA,390
 PA0320000,Indiana County Sheriff's Office,PA,0
 PA0320300,Indiana Police Department,PA,14363
 PA0020V00,Indiana Township Police Department,PA,7402
 PA0321000,Indiana University,PA,0
 PA0331400,Indiana University: Punxsutawney,PA,0
+PA0027400,Ingram Police Department,PA,3225
 PA0650300,Irwin Police Department,PA,4589
 PA0095200,Ivyland Police Department,PA,951
 PA0102200,"Jackson Township Police Department, Butler County",PA,6395
@@ -13536,6 +13973,7 @@ PA0431500,"Jefferson Township Police Department, Mercer County",PA,1841
 PA0635300,"Jefferson Township Police Department, Washington County",PA,1117
 PA0404500,Jenkins Township Police Department,PA,4547
 PA0461100,Jenkintown Police Department,PA,4746
+PA0561100,Jennerstown Police Department,PA,661
 PA0350900,Jermyn Police Department,PA,2135
 PA0351600,Jessup Police Department,PA,4501
 PA0130200,Jim Thorpe Police Department,PA,4553
@@ -13626,6 +14064,7 @@ PA0481700,Lower Saucon Township Police Department,PA,11090
 PA0090800,Lower Southampton Township Police Department,PA,20509
 PA0221700,Lower Swatara Township Police Department,PA,10130
 PA0676000,Lower Windsor Township Police Department,PA,7795
+PA0412500,Loyalsock Township School District,PA,0
 PAUNI400X,Luzerne County Community College,PA,0
 PA0409000,Luzerne Intermediate School District,PA,0
 PA0400900,Luzerne Police Department,PA,2764
@@ -13653,6 +14092,7 @@ PA0465700,Marlborough Township Police Department,PA,3589
 PA0231700,Marple Township Police Department,PA,24479
 PA0104200,Mars Area School District,PA,0
 PA0100800,Mars Police Department,PA,1404
+PA0070900,Martinsburg Police Department,PA,1812
 PA0500100,Marysville Police Department,PA,2738
 PA0260500,Masontown Police Department,PA,3126
 PA0351700,Mayfield Police Department,PA,1766
@@ -13672,6 +14112,7 @@ PA0280400,Mercersburg Police Department,PA,1490
 PA025239E,Mercyhurst University,PA,0
 PA0660200,Meshoppen Police Department,PA,1221
 PA0467100,Methacton School District,PA,0
+PA0560100,Meyersdale Police Department,PA,1992
 PA0354500,Mid Valley School District,PA,0
 PA0550200,Middleburg Police Department,PA,1311
 PA0100900,"Middlesex Township Police Department, Butler County",PA,7583
@@ -13802,11 +14243,13 @@ PA048DE0X,Office of Attorney General Region 1: Northampton County,PA,0
 PA051DE0X,Office of Attorney General Region 1: Philadelphia County,PA,0
 PA052DE0X,Office of Attorney General Region 1: Pike County,PA,0
 PA054DE0X,Office of Attorney General Region 1: Schuylkill County,PA,0
+PA057DE0X,Office of Attorney General Region 1: Sullivan County,PA,0
 PA058DE0X,Office of Attorney General Region 1: Susquehanna County,PA,0
 PA064DE0X,Office of Attorney General Region 1: Wayne County,PA,0
 PA066DE0X,Office of Attorney General Region 1: Wyoming County,PA,0
 PA001DE0X,Office of Attorney General Region 2: Adams County,PA,0
 PA007DE0X,Office of Attorney General Region 2: Blair County,PA,0
+PA011DE0X,Office of Attorney General Region 2: Cambria County,PA,0
 PA014DE0X,Office of Attorney General Region 2: Centre County,PA,0
 PA017DE0X,Office of Attorney General Region 2: Clearfield County,PA,0
 PA018DE0X,Office of Attorney General Region 2: Clinton County,PA,0
@@ -14042,6 +14485,7 @@ PA0420800,Smethport Police Department,PA,1367
 PA0633200,Smith Township Police Department,PA,5592
 PA0550000,Snyder County Sheriff's Office,PA,0
 PA0091800,Solebury Township Police Department,PA,8680
+PA0560200,Somerset Police Department,PA,5827
 PA0462600,Souderton Police Department,PA,7319
 PA0351900,South Abington Township Police Department,PA,12613
 PA0381700,South Annville Township Police Department,PA,3490
@@ -14058,6 +14502,7 @@ PA0021E00,South Park Township Police Department,PA,13703
 PA0432400,South Pymatuning Township Police Department,PA,2560
 PA0633300,South Strabane Township Police Department,PA,9600
 PA0391300,South Whitehall Township Police Department,PA,22010
+PA0412700,South Williamsport Area School District,PA,0
 PA0410400,South Williamsport Police Department,PA,7341
 PA0033100,Southern Armstrong Regional Police Department,PA,6723
 PA0156700,Southern Chester County Regional Police Department,PA,15661
@@ -14108,6 +14553,7 @@ PA0656000,State Park Rangers: Keystone,PA,0
 PA0213500,State Park Rangers: Kings Gap Environmental Education Center,PA,0
 PA0562700,State Park Rangers: Kooser,PA,0
 PA0352100,State Park Rangers: Lackawanna,PA,0
+PA0562900,State Park Rangers: Laurel Hill,PA,0
 PA0562800,State Park Rangers: Laurel Ridge,PA,0
 PA0592100,State Park Rangers: Leonard Harrison,PA,0
 PA0656100,State Park Rangers: Linn Run,PA,0
@@ -14395,6 +14841,7 @@ PA0071000,Williamsburg Police Department,PA,1196
 PA0410500,Williamsport Police Department,PA,27599
 PA0151600,Willistown Township Police Department,PA,11541
 PA0481000,Wilson Police Department,PA,8151
+PA0560300,Windber Police Department,PA,4654
 PA0065200,Womelsdorf Police Department,PA,2969
 PA0180600,Woodward Township Police Department,PA,2466
 PA0032500,Worthington Police Department,PA,567
@@ -14483,6 +14930,7 @@ SC0070000,Beaufort County Sheriff's Office,SC,135071
 SC0070100,Beaufort Police Department,SC,14521
 SC0408E00,Benedict College,SC,0
 SC0350100,Bennettsville Police Department,SC,7500
+SC0080000,Berkeley County Sheriff's Office,SC,155402
 SC0310100,Bishopville Police Department,SC,2852
 SC0110100,Blacksburg Police Department,SC,1971
 SC0060300,Blackville Police Department,SC,1901
@@ -14657,6 +15105,7 @@ SC007FC00,Forestry Commission: Beaufort County,SC,0
 SC008FC00,Forestry Commission: Berkeley County,SC,0
 SC009FC00,Forestry Commission: Calhoun County,SC,0
 SC010FC00,Forestry Commission: Charleston County,SC,0
+SC011FC00,Forestry Commission: Cherokee County,SC,0
 SC012FC00,Forestry Commission: Chester County,SC,0
 SC013FC00,Forestry Commission: Chesterfield County,SC,0
 SC014FC00,Forestry Commission: Clarendon County,SC,0
@@ -14858,6 +15307,7 @@ SC0410000,Saluda County Sheriff's Office,SC,15437
 SC0410100,Saluda Police Department,SC,3056
 SC0080800,Santee Cooper,SC,0
 SC0381100,Santee Police Department,SC,810
+SC0210800,Scranton Police Department,SC,657
 SC0340400,Sellers Police Department,SC,146
 SC0370100,Seneca Police Department,SC,9290
 SC0230500,Simpsonville Police Department,SC,29331
@@ -15016,6 +15466,7 @@ SD0040400,Avon Police Department,SD,610
 SD0020000,Beadle County Sheriff's Office,SD,4969
 SD0090100,Belle Fourche Police Department,SD,5908
 SD0030000,Bennett County Sheriff's Office,SD,2348
+SD0630100,Beresford Police Department,SD,2065
 SD0040000,Bon Homme County Sheriff's Office,SD,2704
 SD0510300,Box Elder Police Department,SD,14429
 SD0490300,Brandon Police Department,SD,10786
@@ -15046,6 +15497,7 @@ SD0190000,Deuel County Sheriff's Office,SD,4346
 SD0200000,Dewey County Sheriff's Office,SD,4697
 SDDCI0000,Division of Criminal Investigation,SD,0
 SD0210000,Douglas County Sheriff's Office,SD,2855
+SD0200400,Eagle Butte Police Department,SD,1276
 SD0220000,Edmunds County Sheriff's Office,SD,4038
 SD0630200,Elk Point Police Department,SD,2057
 SD0460200,Faith Police Department,SD,349
@@ -15105,6 +15557,7 @@ SD0630500,North Sioux City Police Department,SD,3063
 SD0560000,Oglala Lakota County Sheriff's Office,SD,13299
 SD0330200,Parkston Police Department,SD,1538
 SD0510000,Pennington County Sheriff's Office,SD,27355
+SD0520000,Perkins County Sheriff's Office,SD,2830
 SD0270100,Philip Police Department,SD,750
 SD0320100,Pierre Police Department,SD,13719
 SD0560200,Pine Ridge Sioux Tribal,SD,0
@@ -15144,6 +15597,8 @@ SD0180100,Webster Police Department,SD,1653
 SD0400400,Whitewood Police Department,SD,983
 SD0610100,Winner Police Department,SD,2978
 SD0410600,Worthing Police Department,SD,910
+SD0660000,Yankton County Sheriff's Office,SD,7851
+SD0660100,Yankton Police Department,SD,15732
 SD0110400,Yankton Tribal,SD,0
 SD0670000,Ziebach County Sheriff's Office,SD,1806
 TN0010600,7th Judicial District Crime Task Force,TN,0
@@ -15309,6 +15764,7 @@ TN0490200,Halls Police Department,TN,2020
 TN0320000,Hamblen County Sheriff's Office,TN,34963
 TN0330000,Hamilton County Sheriff's Office,TN,127498
 TN0340000,Hancock County Sheriff's Office,TN,7153
+TN0350000,Hardeman County Sheriff's Office,TN,14423
 TN0360000,Hardin County Sheriff's Office,TN,19719
 TN0730100,Harriman Police Department,TN,6283
 TN0850000,Hartsville/Trousdale County Sheriff's Office,TN,12310
@@ -15334,6 +15790,7 @@ TN0440000,Jackson County Sheriff's Office,TN,11615
 TN0570100,Jackson Police Department,TN,69583
 TN0570800,Jackson State Community College,TN,0
 TN0250100,Jamestown Police Department,TN,2123
+TN0580300,Jasper Police Department,TN,3665
 TN0450100,Jefferson City Police Department,TN,9173
 TN0450000,Jefferson County Sheriff's Office,TN,43241
 TN0070100,Jellico Police Department,TN,2115
@@ -15510,6 +15967,7 @@ TN0350700,Toone Police Department,TN,265
 TN0050500,Townsend Police Department,TN,648
 TN0310100,Tracy City Police Department,TN,1456
 TN0270300,Trenton Police Department,TN,4081
+TN0090400,Trezevant Police Department,TN,818
 TN0820700,Tri-Cities Regional Airport,TN,0
 TN0230300,Trimble Police Department,TN,529
 TN0660400,Troy Police Department,TN,1406
@@ -15546,6 +16004,7 @@ TN0930000,White County Sheriff's Office,TN,24592
 TN0830300,White House Police Department,TN,17430
 TN0450200,White Pine Police Department,TN,2594
 TN0350200,Whiteville Police Department,TN,4562
+TN0580200,Whitwell Police Department,TN,1608
 TN0570700,Wildlife Resources Agency: Region 1,TN,0
 TN0191000,Wildlife Resources Agency: Region 2,TN,0
 TN0180300,Wildlife Resources Agency: Region 3,TN,0
@@ -15600,6 +16059,8 @@ TX0060000,Armstrong County Sheriff's Office,TX,1791
 TX2120100,Arp Police Department,TX,1012
 TX0070000,Atascosa County Sheriff's Office,TX,31711
 TX1070100,Athens Police Department,TX,13755
+TX034210X,Atlanta Fire Department,TX,0
+TX0340100,Atlanta Police Department,TX,5452
 TX0611400,Aubrey Police Department,TX,10043
 TX091199E,Austin College,TX,0
 TX227289E,Austin Community College District,TX,0
@@ -15625,6 +16086,7 @@ TX0110700,Bastrop County Constable: Precinct 4,TX,0
 TX0110000,Bastrop County Sheriff's Office,TX,89739
 TX0110100,Bastrop Police Department,TX,13583
 TX1610100,Bay City Police Department,TX,17330
+TX0120000,Baylor County Sheriff's Office,TX,903
 TX057519E,Baylor Health Care System,TX,0
 TX155259E,Baylor University: Waco,TX,0
 TX0842200,Bayou Vista Police Department,TX,1763
@@ -15738,9 +16200,11 @@ TX0311500,Cameron County Constable: Precinct 2,TX,0
 TX0311600,Cameron County Constable: Precinct 3,TX,0
 TX0312100,Cameron County Constable: Precinct 4,TX,0
 TX0311900,Cameron County Constable: Precinct 5,TX,0
+TX0312200,Cameron County Park Rangers,TX,0
 TX0310000,Cameron County Sheriff's Office,TX,95770
 TX1660100,Cameron Police Department,TX,5583
 TX0320300,Camp County Constable: Precinct 1-4,TX,0
+TX0320000,Camp County Sheriff's Office,TX,8685
 TX1070900,Caney City Police Department,TX,210
 TX2340100,Canton Police Department,TX,4997
 TX1910100,Canyon Police Department,TX,16865
@@ -15749,9 +16213,15 @@ TX0640500,Carrizo Springs Police Department,TX,4518
 TX0570400,Carrollton Police Department,TX,135908
 TX0330000,Carson County Sheriff's Office,TX,3503
 TX1830100,Carthage Police Department,TX,6677
+TX0340500,Cass County Constable: Precinct 1,TX,0
+TX0340600,Cass County Constable: Precinct 2,TX,0
+TX0341700,Cass County Constable: Precinct 3,TX,0
+TX0340800,Cass County Constable: Precinct 4,TX,0
+TX0340000,Cass County Sheriff's Office,TX,18383
 TX0150300,Castle Hills Police Department,TX,3920
 TX0350000,Castro County Sheriff's Office,TX,3243
 TX1630100,Castroville Police Department,TX,3260
+TX0570500,Cedar Hill Police Department,TX,49723
 TX2460900,Cedar Park Police Department,TX,78469
 TX1160100,Celeste Police Department,TX,935
 TX0430200,Celina Police Department,TX,53580
@@ -15773,6 +16243,8 @@ TX0940600,Cibolo Police Department,TX,39183
 TX0671200,Cisco College,TX,0
 TX0670100,Cisco Police Department,TX,4062
 TX1940100,Clarksville Police Department,TX,2876
+TX0390300,Clay County Constable: Precinct 1,TX,0
+TX0390000,Clay County Sheriff's Office,TX,10806
 TX0840100,Clear Lake Shores Police Department,TX,1298
 TX1260300,Cleburne Police Department,TX,40015
 TX1460100,Cleveland Police Department,TX,10412
@@ -15783,6 +16255,8 @@ TX0300300,Clyde Police Department,TX,4111
 TX0400000,Cochran County Sheriff's Office,TX,2577
 TX0570600,Cockrell Hill Police Department,TX,3629
 TX1071900,Coffee City Police Department,TX,245
+TX0410200,Coke County Constable: Precinct 1,TX,0
+TX0410000,Coke County Sheriff's Office,TX,3401
 TX0420300,Coleman County Constable,TX,0
 TX0420000,Coleman County Sheriff's Office,TX,2899
 TX0420100,Coleman Police Department,TX,4074
@@ -15860,6 +16334,7 @@ TX0573800,Dallas County Constable: Precinct 3,TX,0
 TX0574100,Dallas County Constable: Precinct 4,TX,0
 TX0573000,Dallas County Constable: Precinct 5,TX,0
 TX0570000,Dallas County Sheriff's Office,TX,0
+TXDPD0000,Dallas Police Department,TX,1331217
 TX2203600,Dallas-Fort Worth International Airport,TX,0
 TX2200700,Dalworthington Gardens Police Department,TX,2302
 TX0200400,Danbury Police Department,TX,1707
@@ -15891,6 +16366,7 @@ TX0620000,Dewitt County Sheriff's Office,TX,10011
 TX0030100,Diboll Police Department,TX,5167
 TX0630000,Dickens County Sheriff's Office,TX,871
 TX0840200,Dickinson Police Department,TX,22061
+TX0820300,Dilley Police Department,TX,4032
 TX0640600,Dimmit County Constable: Precinct 1 & 6,TX,0
 TX0640300,Dimmit County Constable: Precinct 3,TX,0
 TX0640000,Dimmit County Sheriff's Office,TX,3532
@@ -15941,6 +16417,7 @@ TX0700100,Ennis Police Department,TX,26042
 TX0720300,Erath County Constable: Precinct 1,TX,0
 TX0720500,Erath County Constable: Precinct 2,TX,0
 TX0720000,Erath County Sheriff's Office,TX,18879
+TX0960200,Estelline Police Department,TX,124
 TX2200900,Euless Police Department,TX,59746
 TX1071100,Eustace Police Department,TX,1157
 TX2201000,Everman Police Department,TX,6403
@@ -16011,6 +16488,7 @@ TX0200500,Freeport Police Department,TX,10623
 TX0660300,Freer Police Department,TX,2327
 TX0810000,Freestone County Sheriff's Office,TX,13133
 TX0840300,Friendswood Police Department,TX,41358
+TX0820000,Frio County Sheriff's Office,TX,5957
 TX1850200,Friona Police Department,TX,4049
 TX0430400,Frisco Police Department,TX,244103
 TX0791400,Fulshear Police Department,TX,26373
@@ -16030,6 +16508,7 @@ TX0460700,Garden Ridge Police Department,TX,4423
 TX0571100,Garland Police Department,TX,251332
 TX0700300,Garrett Police Department,TX,887
 TX1740100,Garrison Police Department,TX,837
+TX0850000,Garza County Sheriff's Office,TX,4424
 TX0500200,Gatesville Police Department,TX,16456
 TX1490700,George West Police Department,TX,2242
 TX2460200,Georgetown Police Department,TX,111743
@@ -16038,6 +16517,7 @@ TX0860000,Gillespie County Sheriff's Office,TX,16443
 TX2300200,Gilmer Police Department,TX,5300
 TX0920200,Gladewater Police Department,TX,6346
 TX0870000,Glasscock County Sheriff's Office,TX,1157
+TX0574700,Glenn Heights Police Department,TX,20789
 TX1261300,Godley Police Department,TX,5741
 TX0880000,Goliad County Sheriff's Office,TX,7241
 TX0890500,Gonzales County Constable: Precinct 1,TX,0
@@ -16053,6 +16533,9 @@ TX2460300,Granger Police Department,TX,1215
 TX0270700,Granite Shoals Police Department,TX,5486
 TX1130500,Grapeland Police Department,TX,1498
 TX2201300,Grapevine Police Department,TX,51460
+TX0900400,Gray County Constable: Precinct 1,TX,0
+TX0900300,Gray County Constable: Precinct 2,TX,0
+TX0900000,Gray County Sheriff's Office,TX,4326
 TX0911800,Grayson College,TX,0
 TX0911100,Grayson County Constable: Precinct 1,TX,0
 TX0910800,Grayson County Constable: Precinct 2,TX,0
@@ -16074,6 +16557,10 @@ TX1230300,Groves Police Department,TX,16760
 TX0940000,Guadalupe County Sheriff's Office,TX,49080
 TX1070700,Gun Barrel City Police Department,TX,7214
 TX0912000,Gunter Police Department,TX,2617
+TX0950200,Hale Center Police Department,TX,1986
+TX0950700,Hale County Constable: Precinct 3,TX,0
+TX0950000,Hale County Sheriff's Office,TX,7342
+TX0960000,Hall County Sheriff's Office,TX,655
 TX1430100,Hallettsville Police Department,TX,2747
 TX1020100,Hallsville Police Department,TX,5058
 TX2201400,Haltom City Police Department,TX,45733
@@ -16107,6 +16594,7 @@ TX1040000,Haskell County Sheriff's Office,TX,2310
 TX1040100,Haskell Police Department,TX,3061
 TX1161600,Hawk Cove Police Department,TX,528
 TX1270500,Hawley Police Department,TX,588
+TX1050200,Hays County Constable: Precinct 1,TX,0
 TX1050400,Hays County Constable: Precinct 2,TX,0
 TX1050500,Hays County Constable: Precinct 3,TX,0
 TX1051100,Hays County Constable: Precinct 4,TX,0
@@ -16132,6 +16620,7 @@ TX1081800,Hidalgo County Constable: Precinct 1,TX,0
 TX1081600,Hidalgo County Constable: Precinct 4,TX,0
 TX1082100,Hidalgo County Constable: Precinct 5,TX,0
 TX1080000,Hidalgo County Sheriff's Office,TX,260330
+TX1080600,Hidalgo Police Department,TX,15468
 TX0571300,Highland Park Police Department,TX,8736
 TX0612000,Highland Village Police Department,TX,16184
 TX0150700,Hill Country Village Police Department,TX,951
@@ -16211,6 +16700,7 @@ TX0204000,Independent School District: Brazosport,TX,0
 TX1811400,Independent School District: Bridge City,TX,0
 TX2230400,Independent School District: Brownfield,TX,0
 TX1072800,Independent School District: Brownsboro,TX,0
+TX0312400,Independent School District: Brownsville,TX,0
 TX1451400,Independent School District: Buffalo,TX,0
 TX2122300,Independent School District: Bullard,TX,0
 TX2431500,Independent School District: Burkburnett,TX,0
@@ -16263,6 +16753,7 @@ TX0680800,Independent School District: Ector County,TX,0
 TX2341600,Independent School District: Edgewood,TX,0
 TX1082500,Independent School District: Edinburg,TX,0
 TX0711300,Independent School District: El Paso,TX,0
+TX1021800,Independent School District: Elysian Fields,TX,0
 TX0701900,Independent School District: Ennis,TX,0
 TX0300800,Independent School District: Eula,TX,0
 TX0433200,Independent School District: Farmersville,TX,0
@@ -16290,6 +16781,7 @@ TX1013500,Independent School District: Houston,TX,0
 TX0912700,Independent School District: Howe,TX,0
 TX0031500,Independent School District: Hudson,TX,0
 TX1019500,Independent School District: Huffman,TX,0
+TX0342000,Independent School District: Hughes Springs,TX,0
 TX1017800,Independent School District: Humble,TX,0
 TX0032000,Independent School District: Huntington,TX,0
 TX2462800,Independent School District: Hutto,TX,0
@@ -16318,9 +16810,11 @@ TX2401100,Independent School District: Laredo,TX,0
 TX1130900,Independent School District: Latexo,TX,0
 TX0741300,Independent School District: Leonard,TX,0
 TX2463000,Independent School District: Liberty Hill,TX,0
+TX0191600,Independent School District: Liberty-Eylau,TX,0
 TX2122000,Independent School District: Lindale,TX,0
 TX1500900,Independent School District: Llano,TX,0
 TX1162400,Independent School District: Lone Oak,TX,0
+TX0313000,Independent School District: Los Fresnos Consolidated,TX,0
 TX1131000,Independent School District: Lovelady,TX,0
 TX0031700,Independent School District: Lufkin,TX,0
 TX2450800,Independent School District: Lyford,TX,0
@@ -16329,6 +16823,7 @@ TX1570700,Independent School District: Madisonville,TX,0
 TX1073000,Independent School District: Malakoff,TX,0
 TX2205100,Independent School District: Mansfield,TX,0
 TX0730800,Independent School District: Marlin,TX,0
+TX1021500,Independent School District: Marshall,TX,0
 TX0192000,Independent School District: Maud,TX,0
 TX1082600,Independent School District: McAllen,TX,0
 TX1631200,Independent School District: Medina Valley,TX,0
@@ -16362,8 +16857,10 @@ TX0032300,Independent School District: Pineywoods Community Academy,TX,0
 TX0320400,Independent School District: Pittsburg,TX,0
 TX0192200,Independent School District: Pleasant Grove,TX,0
 TX0071300,Independent School District: Pleasanton,TX,0
+TX0313100,Independent School District: Point Isabel,TX,0
 TX1391500,Independent School District: Prairiland,TX,0
 TX0433100,Independent School District: Prosper,TX,0
+TX0341900,Independent School District: Queen City,TX,0
 TX1161700,Independent School District: Quinlan,TX,0
 TX1900700,Independent School District: Rains,TX,0
 TX2450900,Independent School District: Raymondville,TX,0
@@ -16383,6 +16880,7 @@ TX0153200,Independent School District: San Antonio,TX,0
 TX2030700,Independent School District: San Augustine,TX,0
 TX0615400,Independent School District: Sanger,TX,0
 TX0842800,Independent School District: Santa Fe,TX,0
+TX0312800,Independent School District: Santa Rosa,TX,0
 TX1292200,Independent School District: Scurry-Rosser,TX,0
 TX0080900,Independent School District: Sealy,TX,0
 TX0120200,Independent School District: Seymour,TX,0
@@ -16427,6 +16925,7 @@ TX2501200,Independent School District: Yantis,TX,0
 TX0620900,Independent School District: Yorktown,TX,0
 TX2530700,Independent School District: Zapata County,TX,0
 TX0031900,Independent School District: Zavalla,TX,0
+TX0313300,Indian Lake Police Department,TX,900
 TX2050100,Ingleside Police Department,TX,10293
 TX1330500,Ingram Police Department,TX,1861
 TX0203000,Iowa Colony Police Department,TX,13646
@@ -16525,6 +17024,7 @@ TX1000100,Kountze Police Department,TX,2170
 TX0610400,Krum Police Department,TX,7140
 TX1050700,Kyle Police Department,TX,71858
 TX0310400,La Feria Police Department,TX,7079
+TX0750100,La Grange Police Department,TX,4533
 TX2140100,La Grulla Police Department,TX,1237
 TX1081500,La Joya Police Department,TX,5300
 TX0840700,La Marque Police Department,TX,20653
@@ -16535,6 +17035,7 @@ TX1080700,La Villa Police Department,TX,3272
 TX1630900,Lacoste Police Department,TX,1259
 TX1550500,Lacy-Lakeview Police Department,TX,7275
 TX2272100,Lago Vista Police Department,TX,10531
+TX0312900,Laguna Vista Police Department,TX,3857
 TX2051700,Lake City Police Department,TX,500
 TX0610500,Lake Dallas Police Department,TX,7965
 TX0200800,Lake Jackson Police Department,TX,28161
@@ -16580,6 +17081,7 @@ TX1470500,Limestone County Constable: Precinct 3,TX,0
 TX1470900,Limestone County Constable: Precinct 4,TX,0
 TX1470000,Limestone County Sheriff's Office,TX,10861
 TX2120200,Lindale Police Department,TX,7537
+TX0340300,Linden Police Department,TX,1810
 TX1110200,Lipan Marshal's Office,TX,0
 TX1480000,Lipscomb County Sheriff's Office,TX,1518
 TX0611300,Little Elm Police Department,TX,65337
@@ -16662,6 +17164,7 @@ TX0791300,Meadows Place Police Department,TX,4598
 TX1630000,Medina County Sheriff's Office,TX,35891
 TX0431700,Melissa Police Department,TX,30479
 TX1012400,Memorial Villages Police Department,TX,11570
+TX0960100,Memphis Police Department,TX,2044
 TX1640000,Menard County Sheriff's Office,TX,1891
 TX1080900,Mercedes Police Department,TX,17869
 TX0180800,Meridian Police Department,TX,1431
@@ -16777,6 +17280,7 @@ TX1820700,Palo Pinto County Constable: Precinct 3,TX,0
 TX1820500,Palo Pinto County Constable: Precinct 4,TX,0
 TX1820400,Palo Pinto County Constable: Precinct 5,TX,0
 TX1820000,Palo Pinto County Sheriff's Office,TX,14841
+TX0900200,Pampa Police Department,TX,16399
 TX0330100,Panhandle Police Department,TX,2302
 TX1830400,Panola College,TX,0
 TX1830200,Panola County Constable: Precinct 1 & 4,TX,0
@@ -16796,17 +17300,21 @@ TX1011500,Pasadena Police Department,TX,149168
 TX1700800,Patton Village Police Department,TX,2070
 TX1072500,Payne Springs Police Department,TX,775
 TX0201000,Pearland Police Department,TX,130539
+TX0820100,Pearsall Police Department,TX,9741
 TX1860400,Pecos County Constable: Precinct 3,TX,0
 TX1860000,Pecos County Sheriff's Office,TX,6467
 TX1950200,Pecos Police Department,TX,9650
 TX2204800,Pelican Bay Police Department,TX,2849
 TX1083000,Penitas Police Department,TX,6598
 TX1790100,Perryton Police Department,TX,8169
+TX0950300,Petersburg Police Department,TX,962
 TX2270900,Pflugerville Police Department,TX,67159
 TX1081100,Pharr Police Department,TX,81470
 TX0610700,Pilot Point Police Department,TX,7547
 TX1810300,Pinehurst Police Department,TX,2226
 TX2020200,Pineland Police Department,TX,898
+TX0320100,Pittsburg Police Department,TX,4613
+TX0950400,Plainview Police Department,TX,19259
 TX0430600,Plano Police Department,TX,295030
 TX0070200,Pleasanton Police Department,TX,11598
 TX1462100,Plum Grove Police Department,TX,1749
@@ -16820,6 +17328,7 @@ TX0290200,Port Lavaca Police Department,TX,11244
 TX2451000,Port Mansfield Police Department,TX,260
 TX1230800,Port Neches Police Department,TX,13716
 TX1231600,Port of Beaumont,TX,0
+TX0313400,Port of Brownsville,TX,0
 TX0842400,Port of Galveston,TX,0
 TX1016900,Port of Houston Authority,TX,0
 TX2050300,Portland Police Department,TX,20806
@@ -16839,9 +17348,11 @@ TX0310700,Primera Police Department,TX,5493
 TX0430900,Princeton Police Department,TX,26983
 TX1082400,Progreso Police Department,TX,5274
 TX0430700,Prosper Police Department,TX,48795
+TX0340400,Queen City Police Department,TX,1388
 TX1161400,Quinlan Police Department,TX,1604
 TX2500400,Quitman Police Department,TX,2067
 TX1900000,Rains County Sheriff's Office,TX,11138
+TX0313200,Rancho Viejo Police Department,TX,2871
 TX1910000,Randall County Sheriff's Office,TX,28877
 TX0670400,Ranger Police Department,TX,2353
 TX1521100,Ransom Canyon Police Department,TX,1178
@@ -16941,6 +17452,7 @@ TX0311000,Santa Rosa Police Department,TX,2344
 TX0740400,Savoy Police Department,TX,859
 TX0940200,Schertz Police Department,TX,45017
 TX2070000,Schleicher County Sheriff's Office,TX,2259
+TX0750300,Schulenburg Police Department,TX,2881
 TX2080000,Scurry County Sheriff's Office,TX,4882
 TX1011700,Seabrook Police Department,TX,14075
 TX0290300,Seadrift Police Department,TX,1071
@@ -16961,6 +17473,7 @@ TX2040600,Shepherd Police Department,TX,1952
 TX2110000,Sherman County Sheriff's Office,TX,785
 TX0910400,Sherman Police Department,TX,51942
 TX1430200,Shiner Police Department,TX,2175
+TX1011800,Shoreacres Police Department,TX,1536
 TX1000200,Silsbee Police Department,TX,6656
 TX2050400,Sinton Police Department,TX,5679
 TX1520400,Slaton Police Department,TX,5654
@@ -16979,12 +17492,14 @@ TX2130000,Somervell County Sheriff's Office,TX,10292
 TX0260200,Somerville Police Department,TX,1523
 TX2180100,Sonora Police Department,TX,2405
 TX1000300,Sour Lake Police Department,TX,1862
+TX1011900,South Houston Police Department,TX,16144
 TX0311300,South Padre Island Police Department,TX,2077
 TX1100400,South Plains College,TX,0
 TX1083800,South Texas College,TX,0
 TX057529E,Southern Methodist University,TX,0
 TX2203200,Southlake Police Department,TX,31561
 TX0912200,Southmayd Police Department,TX,1119
+TX1012000,Southside Place Police Department,TX,1928
 TX2320400,Southwest Texas College,TX,0
 TX220029E,Southwestern Baptist Theological Seminary,TX,0
 TX129239E,Southwestern Christian College,TX,0
@@ -17052,6 +17567,7 @@ TX1781500,Texas A&M University: Corpus Christi,TX,0
 TX0841200,Texas A&M University: Galveston,TX,0
 TX1370300,Texas A&M University: Kingsville,TX,0
 TX0157000,Texas A&M University: San Antonio,TX,0
+TX0191700,Texas A&M University: Texarkana,TX,0
 TX2203700,Texas Christian University,TX,0
 TX0840900,Texas City Police Department,TX,59365
 TX2360800,"Texas Department of Criminal Justice, Office of Inspector General",TX,0
@@ -17061,6 +17577,7 @@ TX1013300,Texas Southern University,TX,0
 TX0311400,Texas State Technical College: Harlingen,TX,0
 TX1770400,Texas State Technical College: Sweetwater,TX,0
 TX1551800,Texas State Technical College: Waco,TX,0
+TX1050300,Texas State University: San Marcos,TX,0
 TX1520600,Texas Tech University: Lubbock,TX,0
 TX0611000,Texas Woman's University,TX,0
 TX0611500,The Colony Police Department,TX,46183
@@ -17167,6 +17684,7 @@ TX2390400,Washington County Constable: Precinct 2,TX,0
 TX2390500,Washington County Constable: Precinct 3,TX,0
 TX2390600,Washington County Constable: Precinct 4,TX,0
 TX2390000,Washington County Sheriff's Office,TX,17802
+TX1020500,Waskom Police Department,TX,1951
 TX2202600,Watauga Police Department,TX,23003
 TX0701000,Waxahachie Police Department,TX,50545
 TX1840600,Weatherford College,TX,0
@@ -17245,6 +17763,7 @@ TX2530000,Zapata County Sheriff's Office,TX,13747
 TX2540000,Zavala County Sheriff's Office,TX,3135
 TX0031100,Zavalla Police Department,TX,624
 UT0182100,Alta Police Department,UT,228
+UT0250100,American Fork/Cedar Hills Police Department,UT,53400
 UT0210300,Aurora Police Department,UT,1067
 UT0010000,Beaver County Sheriff's Office,UT,7463
 UT0130500,Big Water Police Department,UT,561
@@ -17254,6 +17773,7 @@ UT0060100,Bountiful Police Department,UT,44841
 UT0020000,Box Elder County Sheriff's Office,UT,18442
 UT0110600,Brian Head Police Department,UT,168
 UT0020100,Brigham City Police Department,UT,20482
+UT025129E,Brigham Young University,UT,0
 UT0030000,Cache County Sheriff's Office,UT,56670
 UT0032000,Cache-Rich Drug Task Force,UT,0
 UT0040000,Carbon County Sheriff's Office,UT,6914
@@ -17293,8 +17813,12 @@ UT0130000,Kane County Sheriff's Office,UT,2684
 UT0060600,Kaysville Police Department,UT,33306
 UT0270700,La Verkin Police Department,UT,4576
 UT0060300,Layton Police Department,UT,84936
+UT0250200,Lehi Police Department,UT,98138
+UT0251300,Lindon Police Department,UT,12156
 UT0030100,Logan Police Department,UT,57792
+UT0250900,Lone Peak Police Department,UT,32232
 UT0020700,Mantua Police Department,UT,1423
+UT0251400,Mapleton Police Department,UT,15793
 UT0140000,Millard County Sheriff's Office,UT,13616
 UT0100100,Moab Police Department,UT,5211
 UT0150000,Morgan County Sheriff's Office,UT,13190
@@ -17306,10 +17830,13 @@ UT0031000,North Park Police Department,UT,17821
 UT0060700,North Salt Lake Police Department,UT,23721
 UT0201500,North Valley Police Department,UT,5333
 UT0290100,Ogden Police Department,UT,89001
+UT0250300,Orem Police Department,UT,96209
 UT0220500,Park City Police Department,UT,8262
 UT0110300,Parowan Police Department,UT,3352
+UT0250400,Payson Police Department,UT,25583
 UT0021200,Perry Police Department,UT,6249
 UT0160000,Piute County Sheriff's Office,UT,1549
+UT0250500,Pleasant Grove Police Department,UT,38228
 UT0291100,Pleasant View Police Department,UT,11401
 UT0040100,Price Police Department,UT,8286
 UT0250600,Provo Police Department,UT,115576
@@ -17319,6 +17846,7 @@ UT0290600,Riverdale Police Department,UT,9137
 UT0181700,Riverton Police Department,UT,47038
 UT0070200,Roosevelt Police Department,UT,7544
 UT0290200,Roy Police Department,UT,38569
+UT0251000,Salem Police Department,UT,11823
 UT0210700,Salina Police Department,UT,2645
 UT0180300,Salt Lake City Police Department,UT,222304
 UT0180000,Salt Lake County Sheriff's Office,UT,0
@@ -17335,8 +17863,10 @@ UT0181800,South Jordan Police Department,UT,88346
 UT0290300,South Ogden Police Department,UT,17814
 UT0180400,South Salt Lake Police Department,UT,26527
 UT0110400,Southern Utah University,UT,0
+UT0250700,Spanish Fork Police Department,UT,49165
 UT0201200,Spring City Police Department,UT,1047
 UT0270900,Springdale Police Department,UT,615
+UT0250800,Springville Police Department,UT,36202
 UT0270100,St. George Police Department,UT,109020
 UT0220000,Summit County Sheriff's Office,UT,32587
 UT0060800,Sunset Police Department,UT,5348
@@ -17485,6 +18015,7 @@ VA0140100,Grundy Police Department,VA,804
 VA0410000,Halifax County Sheriff's Office,VA,24574
 VA0410100,Halifax Police Department,VA,1085
 VA1110000,Hampton Police Department,VA,138041
+VA1110400,Hampton University,VA,0
 VA0420000,Hanover County Sheriff's Office,VA,108941
 VA1120000,Harrisonburg Police Department,VA,51165
 VA0750500,Haymarket Police Department,VA,1606
@@ -17522,6 +18053,7 @@ VA0550000,Lunenburg County Sheriff's Office,VA,9263
 VA0690100,Luray Police Department,VA,4810
 VA1140000,Lynchburg Police Department,VA,80846
 VA0560000,Madison County Sheriff's Office,VA,14389
+VA0750200,Manassas Park Police Department,VA,16521
 VA0750100,Manassas Police Department,VA,43966
 VA0860100,Marion Police Department,VA,5566
 VA1150000,Martinsville Police Department,VA,13962
@@ -17561,6 +18093,7 @@ VA0520200,Pennington Gap Police Department,VA,1567
 VA1190000,Petersburg Police Department,VA,34318
 VA0710000,Pittsylvania County Sheriff's Office,VA,55636
 VA0920200,Pocahontas Police Department,VA,259
+VA0980100,Poquoson Police Department,VA,12986
 VA1300500,Port Authority Norfolk,VA,0
 VA1200000,Portsmouth Police Department,VA,96362
 VA0960400,Pound Police Department,VA,833
@@ -17783,6 +18316,7 @@ VA0960600,Wise Police Department,VA,2844
 VA0850300,Woodstock Police Department,VA,5994
 VA0970000,Wythe County Sheriff's Office,VA,18459
 VA0970100,Wytheville Police Department,VA,8133
+VA0980000,York County Sheriff's Office,VA,71897
 VI0010300,U.S. Virgin Islands: St. Croix,VI,83265
 VI0010000,U.S. Virgin Islands: St. Thomas,VI,83265
 VT0010000,Addison County Sheriff's Office,VT,0
@@ -17891,6 +18425,7 @@ WA0200200,Bingen Police Department,WA,988
 WA0171500,Black Diamond Police Department,WA,7388
 WA0370200,Blaine Police Department,WA,6494
 WA0271400,Bonney Lake Police Department,WA,22175
+WA0170300,Bothell Police Department,WA,52714
 WA0180100,Bremerton Police Department,WA,45723
 WA0240100,Brewster Police Department,WA,2117
 WA0310800,Brier Police Department,WA,6615
@@ -17903,6 +18438,7 @@ WA0080300,Castle Rock Police Department,WA,2444
 WA0190800,Central Washington University,WA,0
 WA0210100,Centralia Police Department,WA,19231
 WA0210200,Chehalis Police Department,WA,7778
+WADI06700,Chehalis Tribal,WA,0
 WA0040000,Chelan County Sheriff's Office,WA,46198
 WA0320100,Cheney Police Department,WA,12547
 WA0330100,Chewelah Police Department,WA,2742
@@ -17915,8 +18451,10 @@ WA0380100,Colfax Police Department,WA,2674
 WA0360200,College Place Police Department,WA,9816
 WA0070000,Columbia County Sheriff's Office,WA,4035
 WA0330200,Colville Police Department,WA,5029
+WADI05700,Colville Tribal,WA,0
 WA0110100,Connell Police Department,WA,4988
 WA0140600,Cosmopolis Police Department,WA,1670
+WA0240700,Coulee Dam Police Department,WA,1249
 WA0174800,Covington Police Department,WA,21747
 WA0080000,Cowlitz County Sheriff's Office,WA,51343
 WA0310900,Darrington Police Department,WA,1506
@@ -17931,6 +18469,7 @@ WA0272500,Edgewood Police Department,WA,13779
 WA0310200,Edmonds Police Department,WA,42880
 WA0190100,Ellensburg Police Department,WA,20873
 WA0140200,Elma Police Department,WA,3531
+WADI08600,Elwha Klallam Tribal,WA,0
 WA0170400,Enumclaw Police Department,WA,13316
 WA0130100,Ephrata Police Department,WA,8776
 WA0310300,Everett Police Department,WA,113547
@@ -17954,13 +18493,16 @@ WA0390700,Granger Police Department,WA,3828
 WA0311100,Granite Falls Police Department,WA,4727
 WA0130000,Grant County Sheriff's Office,WA,48794
 WA0140000,Grays Harbor County Sheriff's Office,WA,29859
+WA0050500,Hoh Tribal,WA,0
 WA0140300,Hoquiam Police Department,WA,8768
 WA0250300,Ilwaco Police Department,WA,1117
 WA0311800,Index Police Department,WA,162
 WA0150000,Island County Sheriff's Office,WA,60985
 WA0170600,Issaquah Police Department,WA,39556
+WADI08200,Jamestown S'Klallam Tribal,WA,0
 WA0160000,Jefferson County Sheriff's Office,WA,23327
 WA0080400,Kalama Police Department,WA,3172
+WADI06100,Kalispel Tribal,WA,0
 WA0080100,Kelso Police Department,WA,12738
 WA0174900,Kenmore Police Department,WA,24236
 WA0030100,Kennewick Police Department,WA,87424
@@ -17973,6 +18515,7 @@ WA0190000,Kittitas County Sheriff's Office,WA,22849
 WA0190600,Kittitas Police Department,WA,1443
 WA0200000,Klickitat County Sheriff's Office,WA,17251
 WA0060600,La Center Police Department,WA,4478
+WADI07000,La Push Tribal,WA,0
 WA0340400,Lacey Police Department,WA,59124
 WA0172600,Lake Forest Park Police Department,WA,13196
 WA0311900,Lake Stevens Police Department,WA,41929
@@ -17983,9 +18526,11 @@ WA0321300,Liberty Lake Police Department,WA,13676
 WA0220000,Lincoln County Sheriff's Office,WA,10456
 WA0250400,Long Beach Police Department,WA,1776
 WA0080200,Longview Police Department,WA,38401
+WADI05900,Lummi Tribal,WA,0
 WA0370500,Lynden Police Department,WA,17037
 WA0310400,Lynnwood Police Department,WA,42399
 WA0390900,Mabton Police Department,WA,1962
+WADI05600,Makah Tribal,WA,0
 WA0174700,Maple Valley Police Department,WA,28671
 WA0310500,Marysville Police Department,WA,77579
 WA0230000,Mason County Sheriff's Office,WA,59604
@@ -18002,9 +18547,13 @@ WA0130200,Moses Lake Police Department,WA,27367
 WA0290200,Mount Vernon Police Department,WA,35352
 WA0310600,Mountlake Terrace Police Department,WA,26286
 WA0391400,Moxee Police Department,WA,4897
+WADI01000,Muckleshoot Tribal,WA,0
 WA0311300,Mukilteo Police Department,WA,21247
 WA0210700,Napavine Police Department,WA,2223
 WA0174200,Newcastle Police Department,WA,13055
+WA0260200,Newport Police Department,WA,2258
+WADI00800,Nisqually Tribal,WA,0
+WADI01400,Nooksack Tribal,WA,0
 WA0171000,Normandy Park Police Department,WA,6637
 WA0171100,North Bend Police Department,WA,8839
 WA0150100,Oak Harbor Police Department,WA,24049
@@ -18025,6 +18574,7 @@ WA0110200,Pasco Police Department,WA,82766
 WA0260000,Pend Oreille County Sheriff's Office,WA,12259
 WA0270000,Pierce County Sheriff's Office,WA,442612
 WA0050100,Port Angeles Police Department,WA,20140
+WADI06600,Port Gamble S'Klallam Tribal,WA,0
 WA0180400,Port Orchard Police Department,WA,20115
 WA0160100,Port Townsend Police Department,WA,10772
 WA0173200,Port of Seattle,WA,0
@@ -18032,6 +18582,8 @@ WA0180500,Poulsbo Police Department,WA,12714
 WA0030300,Prosser Police Department,WA,6643
 WA0380300,Pullman Police Department,WA,33883
 WA0270100,Puyallup Police Department,WA,42432
+WADI06200,Puyallup Tribal,WA,0
+WADI05400,Quinault Indian Nation,WA,0
 WA0130300,Quincy Police Department,WA,8468
 WA0250100,Raymond Police Department,WA,3262
 WA0220700,Reardan Police Department,WA,698
@@ -18045,34 +18597,43 @@ WA0131000,Royal City Police Department,WA,1939
 WA0271900,Ruston Police Department,WA,1046
 WA0175000,Sammamish Police Department,WA,66235
 WA0280000,San Juan County Sheriff's Office,WA,18849
+WADI06300,Sauk-Suiattle Tribal,WA,0
 WA0173700,Seatac Police Department,WA,34719
 WASPD0000,Seattle Police Department,WA,791503
 WA0290300,Sedro Woolley Police Department,WA,13410
 WA0391100,Selah Police Department,WA,8774
 WA0050300,Sequim Police Department,WA,8232
 WA0230400,Shelton Police Department,WA,10814
+WADI01200,Shoalwater Bay Tribal,WA,0
 WA0174300,Shoreline Police Department,WA,68263
 WA0290000,Skagit County Sheriff's Office,WA,54733
 WA0300000,Skamania County Sheriff's Office,WA,12793
+WADI01100,Skokomish Tribal,WA,0
 WA0172700,Skykomish Police Department,WA,157
 WA0313100,Snohomish County Auto Theft Task Force,WA,0
 WA0310000,Snohomish County Sheriff's Office,WA,377021
 WA0310700,Snohomish Police Department,WA,10627
 WA0172200,Snoqualmie Police Department,WA,13666
+WADI08300,Snoqualmie Tribal,WA,0
 WA0130400,Soap Lake Police Department,WA,1800
 WA0250200,South Bend Police Department,WA,1813
+WADI05100,Spokane Agency,WA,0
 WA0320000,Spokane County Sheriff's Office,WA,179646
 WA0320400,Spokane Police Department,WA,230962
 WA0321500,Spokane Valley Police Department,WA,109455
+WADI05500,Squaxin Island Tribal,WA,0
 WA0311400,Stanwood Police Department,WA,9255
 WA0341000,State Gambling Commission Enforcement Unit,WA,0
 WA034225Y,State Insurance Commissioner: Special Investigations Unit,WA,0
 WA0271100,Steilacoom Police Department,WA,6627
 WA0330000,Stevens County Sheriff's Office,WA,40116
+WADI01300,Stillaguamish Tribal,WA,0
 WA0311500,Sultan Police Department,WA,7556
 WA0370700,Sumas Police Department,WA,1703
 WA0270200,Sumner Police Department,WA,10942
 WA0390200,Sunnyside Police Department,WA,16298
+WADI00900,Suquamish Tribal,WA,0
+WADI06400,Swinomish Tribal,WA,0
 WA0270300,Tacoma Police Department,WA,230369
 WA0340800,Tenino Police Department,WA,1977
 WA0340000,Thurston County Sheriff's Office,WA,146249
@@ -18080,16 +18641,20 @@ WA0391200,Tieton Police Department,WA,1672
 WA0211000,Toledo Police Department,WA,805
 WA0390300,Toppenish Police Department,WA,8617
 WA0172300,Tukwila Police Department,WA,21610
+WADI06800,Tulalip Tribal,WA,0
 WA0340200,Tumwater Police Department,WA,28265
 WA0390400,Union Gap Police Department,WA,6589
 WA0272400,University Place Police Department,WA,35225
 WA0172400,University of Washington,WA,0
+WADI06500,Upper Skagit Tribal,WA,0
 WA0060300,Vancouver Police Department,WA,200968
 WA0350000,Wahkiakum County Sheriff's Office,WA,4882
 WA0360000,Walla Walla County Sheriff's Office,WA,18177
 WA0360100,Walla Walla Police Department,WA,33809
 WA0391300,Wapato Police Department,WA,4467
 WA0131100,Warden Police Department,WA,2901
+WA0342000,Washington State Parks and Recreation Law Enforcement,WA,0
+WAWSP0000,Washington State Patrol,WA,0
 WA0380500,Washington State University: Pullman,WA,0
 WA0061000,Washington State University: Vancouver,WA,0
 WA0060400,Washougal Police Department,WA,18175
@@ -18103,7 +18668,9 @@ WA0380000,Whitman County Sheriff's Office,WA,10051
 WA0211200,Winlock Police Department,WA,2722
 WA0241000,Winthrop Police Department,WA,630
 WA0174000,Woodinville Police Department,WA,14065
+WA0080500,Woodland Police Department,WA,6483
 WA0311600,Woodway Police Department,WA,1325
+WADI05800,Yakama Nation,WA,0
 WA0390000,Yakima County Sheriff's Office,WA,88995
 WA0390500,Yakima Police Department,WA,97467
 WA0173100,Yarrow Point Police Department,WA,1135
@@ -18208,6 +18775,7 @@ WI0250100,Dodgeville Police Department,WI,5101
 WI0150000,Door County Sheriff's Office,WI,20579
 WI0160000,Douglas County Sheriff's Office,WI,17647
 WI0170000,Dunn County Sheriff's Office,WI,26167
+WI0470100,Durand Police Department,WI,1879
 WI0640300,Eagle River Police Department,WI,1693
 WI0682500,Eagle Village Police Department,WI,2145
 WI0651000,East Troy Police Department,WI,5098
@@ -18382,6 +18950,7 @@ WI0100300,Neillsville Police Department,WI,2373
 WI0720200,Nekoosa Police Department,WI,2396
 WI0390300,Neshkoro Police Department,WI,410
 WI0680400,New Berlin Police Department,WI,40264
+WI0230600,New Glarus Police Department,WI,2277
 WI0080200,New Holstein Police Department,WI,3022
 WI0290300,New Lisbon Police Department,WI,2589
 WI0690200,New London Police Department,WI,7569
@@ -18416,6 +18985,7 @@ WI0460000,Ozaukee County Sheriff's Office,WI,22321
 WI0280600,Palmyra Police Department,WI,1717
 WI0510100,Park Falls Police Department,WI,2368
 WI0470000,Pepin County Sheriff's Office,WI,4970
+WI0470200,Pepin Police Department,WI,754
 WI0380300,Peshtigo Police Department,WI,3407
 WI0681400,Pewaukee Village Police Department,WI,8232
 WI0510200,Phillips Police Department,WI,1479
@@ -18574,6 +19144,7 @@ WV0320100,Alderson Police Department,WV,924
 WV0170600,Anmoore Police Department,WV,500
 WV0100100,Ansted Police Department,WV,1274
 WV0010000,Barbour County Sheriff's Office,WV,10726
+WV0060100,Barboursville Police Department,WV,4299
 WV0251100,Barrackville Police Department,WV,1193
 WV0410100,Beckley Police Department,WV,16345
 WV0411400,Beckley/Raleigh County Drug and Violent Crime Task Force,WV,0
@@ -18594,6 +19165,7 @@ WV0170100,Bridgeport Police Department,WV,9438
 WV0050000,Brooke County Sheriff's Office,WV,10917
 WV0490100,Buckhannon Police Department,WV,5017
 WV0040300,Burnsville Police Department,WV,373
+WV0060000,Cabell County Sheriff's Office,WV,42761
 WV0070000,Calhoun County Sheriff's Office,WV,5798
 WV0260200,Cameron Police Department,WV,808
 WV0203400,Capitol Protective Services,WV,0
@@ -18607,6 +19179,7 @@ WV0200200,Charleston Police Department,WV,45958
 WV0200700,Chesapeake Police Department,WV,1269
 WV0150100,Chester Police Department,WV,2082
 WV0170200,Clarksburg Police Department,WV,15104
+WV0080000,Clay County Sheriff's Office,WV,7614
 WV0350800,Clearview Police Department,WV,452
 WV0201400,Clendenin Police Department,WV,870
 WV0280600,Concord University,WV,0
@@ -18620,6 +19193,7 @@ WV0040400,Department of Natural Resources: Braxton County,WV,0
 WV0050300,Department of Natural Resources: Brooke County,WV,0
 WV0060500,Department of Natural Resources: Cabell County,WV,0
 WV0070200,Department of Natural Resources: Calhoun County,WV,0
+WV0080200,Department of Natural Resources: Clay County,WV,0
 WV0090200,Department of Natural Resources: Doddridge County,WV,0
 WV0101000,Department of Natural Resources: Fayette County,WV,0
 WV0110300,Department of Natural Resources: Gilmer County,WV,0
@@ -18645,6 +19219,7 @@ WV0290600,Department of Natural Resources: Mineral County,WV,0
 WV0300600,Department of Natural Resources: Mingo County,WV,0
 WV0310700,Department of Natural Resources: Monongalia County,WV,0
 WV0320400,Department of Natural Resources: Monroe County,WV,0
+WV0330300,Department of Natural Resources: Morgan County,WV,0
 WV0340300,Department of Natural Resources: Nicholas County,WV,0
 WV0350700,Department of Natural Resources: Ohio County,WV,0
 WV0360200,Department of Natural Resources: Pendleton County,WV,0
@@ -18826,6 +19401,7 @@ WV0040700,State Fire Marshal: Braxton County,WV,0
 WV0050700,State Fire Marshal: Brooke County,WV,0
 WV0060800,State Fire Marshal: Cabell County,WV,0
 WV0070300,State Fire Marshal: Calhoun County,WV,0
+WV0080300,State Fire Marshal: Clay County,WV,0
 WV0090300,State Fire Marshal: Doddridge County,WV,0
 WV0101500,State Fire Marshal: Fayette County,WV,0
 WV0110600,State Fire Marshal: Gilmer County,WV,0
@@ -18878,6 +19454,7 @@ WVWSP0200,State Police: Berkeley Springs,WV,0
 WVWSP0700,State Police: Bridgeport,WV,0
 WVWSP0400,State Police: Buckhannon,WV,0
 WVWSP9500,State Police: Bureau of Criminal Investigation Academy,WV,0
+WVWSP0800,State Police: Clay,WV,0
 WVWSP1000,State Police: Elkins,WV,0
 WVWSP1100,State Police: Fairmont,WV,0
 WVWSP1200,State Police: Franklin,WV,0
@@ -19023,6 +19600,7 @@ WY0040100,Rawlins Police Department,WY,7887
 WY0070200,Riverton Police Department,WY,11019
 WY0190200,Rock Springs Police Department,WY,22837
 WY0040200,Saratoga Police Department,WY,1776
+WY0170000,Sheridan County Sheriff's Office,WY,13326
 WY0170100,Sheridan Police Department,WY,20083
 WY0070400,Shoshoni Police Department,WY,508
 WY0180000,Sublette County Sheriff's Office,WY,9001
