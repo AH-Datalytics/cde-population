@@ -159,21 +159,46 @@ def main():
 
     print(f"Fetching populations ({from_str} to {to_str}, {args.workers} threads)...")
     results = {}
-    done = 0
-    with ThreadPoolExecutor(max_workers=args.workers) as ex:
-        futures = {ex.submit(fetch_population, a["ori"], from_str, to_str): a["ori"]
-                   for a in agencies}
-        for fut in as_completed(futures):
-            ori = futures[fut]
-            pop = fut.result()
-            if pop is not None:
-                results[ori] = pop
-            done += 1
-            if done % 1000 == 0:
-                print(f"  {done}/{len(agencies)} ({len(results)} with population)")
+    todo = [a["ori"] for a in agencies]
+    for rnd in range(1, 4):
+        if not todo:
+            break
+        if rnd > 1:
+            print(f"Retry round {rnd}: {len(todo)} agencies")
+            time.sleep(30)
+        remaining = []
+        done = 0
+        with ThreadPoolExecutor(max_workers=args.workers) as ex:
+            futures = {ex.submit(fetch_population, ori, from_str, to_str): ori
+                       for ori in todo}
+            for fut in as_completed(futures):
+                ori = futures[fut]
+                pop = fut.result()
+                if pop is not None:
+                    results[ori] = pop
+                else:
+                    remaining.append(ori)
+                done += 1
+                if done % 1000 == 0:
+                    print(f"  {done}/{len(todo)} ({len(results)} with population)")
+        todo = remaining
 
-    print(f"Done: {len(results)} with population, "
-          f"{len(agencies) - len(results)} without")
+    print(f"Done: {len(results)} with population, {len(todo)} without")
+
+    # Agencies that still failed keep their value from the previous CSV —
+    # a transient API error must not drop an agency from the file
+    carried = 0
+    still_failed = set(todo)
+    try:
+        with open(args.output, newline="", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                if r["ori"] in still_failed and r["population"]:
+                    results[r["ori"]] = int(r["population"])
+                    carried += 1
+    except FileNotFoundError:
+        pass
+    if carried:
+        print(f"Carried forward {carried} populations from previous CSV")
 
     # Sanity gate: a partial/failed run must not clobber good data
     if not args.limit and len(results) < 15000:
