@@ -227,7 +227,7 @@ AL0380600,Kinsey Police Department,AL,2280
 AL0190400,Kinston Police Department,AL,603
 AL0120100,LaFayette Police Department,AL,2586
 AL0631100,Lake View Police Department,AL,3992
-AL0400000,Lamar County Sheriff's Office,AL,8878
+AL0400000,Lamar County Sheriff's Office,AL,8654
 AL0120200,Lanett Police Department,AL,6648
 AL0410000,Lauderdale County Sheriff's Office,AL,51192
 AL0420000,Lawrence County Sheriff's Office,AL,27747
@@ -1907,6 +1907,7 @@ FL0131800,North Miami Police Department,FL,62815
 FL0502300,North Palm Beach Police Department,FL,13494
 FL0580300,North Port Police Department,FL,97818
 FL0522600,North Redington Beach Police Department,FL,1477
+FL0640900,Oak Hill Police Department,FL,2211
 FL0062400,Oakland Park Police Department,FL,45812
 FL0480800,Oakland Police Department,FL,3859
 FL0420100,Ocala Police Department,FL,71947
@@ -2017,7 +2018,7 @@ FL0580200,Venice Police Department,FL,31088
 FL0310300,Vero Beach Police Department,FL,17851
 FL0139200,Village of Pinecrest Police Department,FL,19153
 FL0132000,Virginia Gardens Police Department,FL,2360
-FL0640000,Volusia County Sheriff's Office,FL,113940
+FL0640000,Volusia County Sheriff's Office,FL,111729
 FL0650000,Wakulla County Sheriff's Office,FL,37352
 FL0660000,Walton County Sheriff's Office,FL,84629
 FL0670000,Washington County Sheriff's Office,FL,22622
@@ -5538,7 +5539,6 @@ MI6326200,Bloomfield Township Police Department,MI,44412
 MI1526400,Boyne City Police Department,MI,3824
 MI1211200,Branch County Sheriff's Office,MI,26239
 MI631810X,Brandon Township Police Department,MI,15715
-MI2926600,Breckenridge Police Department,MI,1265
 MI7386300,Bridgeport Township Police Department,MI,9828
 MI1126800,Bridgman Police Department,MI,2037
 MI4726900,Brighton Police Department,MI,8058
@@ -5672,7 +5672,7 @@ MI4143600,Grand Rapids Police Department,MI,200467
 MI2812800,Grand Traverse County Sheriff's Office,MI,81180
 MI4143700,Grandville Police Department,MI,17368
 MI6243800,Grant Police Department,MI,994
-MI2912900,Gratiot County Sheriff's Office,MI,23116
+MI2912900,Gratiot County Sheriff's Office,MI,24381
 MI2044000,Grayling Police Department,MI,1974
 MI4786500,Green Oak Township Police Department,MI,19996
 MI5944200,Greenville Police Department,MI,9185
@@ -6478,7 +6478,7 @@ MO0240200,Claycomo Police Department,MO,1377
 MO0951400,Clayton Police Department,MO,17552
 MO0191100,Cleveland Police Department,MO,642
 MO0220400,Clever Police Department,MO,3165
-MO0250000,Clinton County Sheriff's Office,MO,10798
+MO0250000,Clinton County Sheriff's Office,MO,10122
 MO0420100,Clinton Police Department,MO,9510
 MO0080100,Cole Camp Police Department,MO,1189
 MO0260000,Cole County Sheriff's Office,MO,35332
@@ -6531,6 +6531,7 @@ MO0180200,Ellsinore Police Department,MO,420
 MO0570100,Elsberry Police Department,MO,2122
 MO1020300,Eminence Police Department,MO,535
 MO0980600,Emma Police Department,MO,205
+MO1040900,Essex Police Department,MO,394
 MO0952600,Eureka Police Department,MO,13682
 MO0240300,Excelsior Springs Police Department,MO,10763
 MO0050300,Exeter Police Department,MO,761
@@ -6549,7 +6550,7 @@ MO1130400,Fordland Police Department,MO,817
 MO0921200,Foristell Police Department,MO,814
 MO1070200,Forsyth Police Department,MO,2774
 MO0820800,Frankford Police Department,MO,347
-MO0360000,Franklin County Sheriff's Office,MO,57709
+MO0360000,Franklin County Sheriff's Office,MO,57306
 MO0620100,Fredericktown Police Department,MO,4618
 MO0953100,Frontenac Police Department,MO,4128
 MO0140300,Fulton Police Department,MO,12564
@@ -6853,7 +6854,7 @@ MO0780500,Steele Police Department,MO,1656
 MO0280300,Steelville Police Department,MO,1440
 MO0320300,Stewartsville Police Department,MO,732
 MO0200200,Stockton Police Department,MO,1881
-MO1040000,Stoddard County Sheriff's Office,MO,14746
+MO1040000,Stoddard County Sheriff's Office,MO,14352
 MO1050000,Stone County Sheriff's Office,MO,26285
 MO0710100,Stover Police Department,MO,1081
 MO0390800,Strafford Police Department,MO,2863
@@ -6873,6 +6874,7 @@ MO0680200,Tipton Police Department,MO,2643
 MO0957200,Town and Country Police Department,MO,11622
 MO0831400,Tracy Police Department,MO,331
 MO0400100,Trenton Police Department,MO,5590
+MO0250700,Trimble Police Department,MO,676
 MO0570400,Troy Police Department,MO,15557
 MO1100200,Truesdale Police Department,MO,945
 MO0360700,Union Police Department,MO,13407
@@ -6929,7 +6931,7 @@ MS0540100,Batesville Police Department,MS,7319
 MS0310100,Bay Springs Police Department,MS,1448
 MS0230200,Bay St. Louis Police Department,MS,10822
 MS0270100,Belzoni Police Department,MS,1706
-MS0050000,Benton County Sheriff's Office,MS,7577
+MS0050000,Benton County Sheriff's Office,MS,7087
 MS0240100,Biloxi Police Department,MS,47829
 MS0730400,Blue Springs Police Department,MS,440
 MS0060000,Bolivar County Sheriff's Office,MS,11674
@@ -7128,7 +7130,7 @@ MS0690000,Tate County Sheriff's Office,MS,19039
 MS0260300,Tchula Police Department,MS,1646
 MS0250600,Terry Police Department,MS,1617
 MS0700000,Tippah County Sheriff's Office,MS,15425
-MS0710000,Tishomingo County Sheriff's Office,MS,15509
+MS0710000,Tishomingo County Sheriff's Office,MS,13519
 MS0720000,Tunica County Sheriff's Office,MS,8230
 MS0720100,Tunica Police Department,MS,831
 MS0410100,Tupelo Police Department,MS,37739
@@ -7875,7 +7877,7 @@ NB0690100,Holdrege Police Department,NE,5561
 NB0450000,Holt County Sheriff's Office,NE,4856
 NB0460000,Hooker County Sheriff's Office,NE,697
 NB0270700,Hooper Police Department,NE,780
-NB0470000,Howard County Sheriff's Office,NE,4153
+NB0470000,Howard County Sheriff's Office,NE,6599
 NB0150100,Imperial Police Department,NE,1953
 NB0480000,Jefferson County Sheriff's Office,NE,7112
 NB0490000,Johnson County Sheriff's Office,NE,5204
@@ -7951,7 +7953,6 @@ NB0820000,Sherman County Sheriff's Office,NE,2950
 NB0170100,Sidney Police Department,NE,6500
 NB0830000,Sioux County Sheriff's Office,NE,1090
 NB0220100,South Sioux City Police Department,NE,13881
-NB0470100,St. Paul Police Department,NE,2446
 NB0840000,Stanton County Sheriff's Office,NE,5745
 NB0650100,Superior Police Department,NE,1832
 NB0180200,Sutton Police Department,NE,1441
@@ -10056,7 +10057,6 @@ OK0100100,Ardmore Police Department,OK,25148
 OK0400300,Arkoma Police Department,OK,1870
 OK0030000,Atoka County Sheriff's Office,OK,10689
 OK0030100,Atoka Police Department,OK,2938
-OK0570600,Avant Police Department,OK,302
 OK0570100,Barnsdall Police Department,OK,962
 OK0740100,Bartlesville Police Department,OK,38600
 OK0040000,Beaver County Sheriff's Office,OK,3767
@@ -10187,7 +10187,7 @@ OK0210700,Grove Police Department,OK,7423
 OK0420100,Guthrie Police Department,OK,11908
 OK0700100,Guymon Police Department,OK,12275
 OK0611400,Haileyville Police Department,OK,694
-OK0290000,Harmon County Sheriff's Office,OK,637
+OK0290000,Harmon County Sheriff's Office,OK,2274
 OK0300000,Harper County Sheriff's Office,OK,2002
 OK0551100,Harrah Police Department,OK,6939
 OK0610100,Hartshorne Police Department,OK,1872
@@ -10202,7 +10202,6 @@ OK0081500,Hinton Police Department,OK,4932
 OK0380100,Hobart Police Department,OK,3273
 OK0451100,Hochatown Police Department,OK,267
 OK0320100,Holdenville Police Department,OK,5886
-OK0290100,Hollis Police Department,OK,1637
 OK0570300,Hominy Police Department,OK,3277
 OK0700200,Hooker Police Department,OK,1717
 OK0401400,Howe Police Department,OK,643
@@ -10304,7 +10303,7 @@ OK0560000,Okmulgee County Sheriff's Office,OK,16873
 OK0560200,Okmulgee Police Department,OK,11370
 OK0331100,Olustee Police Department,OK,458
 OK0660700,Oologah Police Department,OK,1365
-OK0570000,Osage County Sheriff's Office,OK,25072
+OK0570000,Osage County Sheriff's Office,OK,25374
 OK0580000,Ottawa County Sheriff's Office,OK,12905
 OK0721000,Owasso Police Department,OK,44008
 OK0402200,Panama Police Department,OK,1307
